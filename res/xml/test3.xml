@@ -1,0 +1,1590 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questions>
+	<!-- 1 -->
+	<question>
+		<text>Develop Project Team is a process that occurs:</text>
+		<answers>
+			<answer is_right="true">throughout the project</answer>
+			<answer is_right="false">at the end of the project</answer>
+			<answer is_right="false">before the start of the project</answer>
+			<answer is_right="false">in the beginning of the project</answer>
+		</answers>
+		<explain>Develop Project Team is a process that occurs throughout the project.
+Although the PMBOK lists Develop Project Team as one of the executing processes,
+it actually occurs throughout the entire project. It is important to perform teambuilding and development activities through the life of the project. The earlier
+Develop Project Team activities begin in a project, the better.
+All of the other options are incorrect because Develop Project Team occurs
+throughout a project's life cycle.</explain>
+	</question>
+
+	<!-- 2 -->
+	<question>
+		<text>You are in the process of selecting sellers for a piece of contract work for your
+project. Unfortunately, only two companies have submitted proposals, and both
+proposals have costs higher than you anticipated. What step should you take next?</text>
+		<answers>
+			<answer is_right="false">enter contract negotiation</answer>
+			<answer is_right="true">get an independent estimate</answer>
+			<answer is_right="false">re-open the process to request seller responses</answer>
+			<answer is_right="false">accept one of the two proposals based on criteria other than cost</answer>
+		</answers>
+		<explain>You should first get an independent estimate. An independent estimate,
+which can be done internally or externally, is an assessment of the work that will
+be contracted out to sellers. It should provide you with reasons why the proposals
+vary so widely from your expectations. An independent estimate is also known as a
+"should-cost" estimate.
+You might consider entering contract negotiation, re-opening the Request
+Seller Responses process, or simply choose one of the proposals based on other
+criteria if the independent assessment fails to provide you with more preferable
+alternatives. Nevertheless, it would be hasty to perform any of these other steps
+before you first determine the cause of the discrepancy between your
+expectations and the proposal.</explain>
+	</question>
+
+	<!-- 3 -->
+	<question>
+		<text>Project management plan, approved corrective actions, approved preventive
+actions, approved change requests, approved defect repair, validated defect
+repair, and administrative closure procedure are inputs to:</text>
+		<answers>
+			<answer is_right="true">Direct and Manage Project Execution</answer>
+			<answer is_right="false">Develop Project Management Plan</answer>
+			<answer is_right="false">Change control system</answer>
+			<answer is_right="false">Information Distribution</answer>
+		</answers>
+		<explain>Project management plan, approved corrective actions, approved preventive
+actions, approved change requests, approved defect repair, validated defect
+repair, and administrative closure procedure are inputs to the Direct and Manage
+Project Execution process. Direct and Manage Project Execution involves activities
+relating to performing the work outlined in the project management plan.
+All of the other options are incorrect because they are not inputs to Direct
+and Manage Project Execution.
+Preliminary project scope statement, project management processes,
+enterprise environmental factors, and organizational process assets are inputs to
+the Develop Project Management Plan process. All planning inputs go into the
+Develop Project Management Plan process to formalize the project plan.
+Change control system is a set of procedures used to help manage change
+requirements that may arise during project execution. It is a tool used for
+Integrated Change Control for a project.
+The communications management plan is the input to the Information
+Distribution process. Information Distribution ensures that the project
+stakeholders get information related to the project health in a timely manner.</explain>
+	</question>
+
+	<!-- 4 -->
+	<question>
+		<text>Staffing management plan, roles and responsibilities, and organizational process
+assets are inputs to which of the following processes?</text>
+		<answers>
+			<answer is_right="false">Develop Project Team</answer>
+			<answer is_right="true">Acquire Project Team</answer>
+			<answer is_right="false">Human Resource Planning</answer>
+			<answer is_right="false">Information Distribution</answer>
+		</answers>
+		<explain>Staffing management plan, roles and responsibilities, and organizational
+process assets are inputs to the Acquire Project Team process. According to the
+PMBOK, Acquire Project Team involves getting the needed human resources for
+the project.
+Project staff assignments, staffing management plan, and resource
+availability are inputs to the Develop Project Team process. According to the
+PMBOK, Develop Project Team includes both enhancing the ability of stakeholders
+to contribute as individuals, as well as enhancing the ability of the team to function
+as a team.
+Enterprise environmental factors, organizational process assets, and the
+project management plan, specifically the activity resource requirements, are
+inputs to the Human Resource Planning process. According to the PMBOK, Human
+Resource Planning involves identifying, documenting, and assigning project roles,
+responsibilities, and reporting relationships.
+The communications management plan is an input to the Information
+Distribution process. Information Distribution ensures that the project
+stakeholders get information related to the project health in a timely manner.</explain>
+	</question>
+
+	<!-- 5 -->
+	<question>
+		<text>Which of the following would be characteristic of using a screening system in the
+Select Sellers process?</text>
+		<answers>
+			<answer is_right="false">potential sellers would be rated with weighted values for each evaluation
+criteria</answer>
+			<answer is_right="true">minimum requirements for potential seller performance would be
+documented</answer>
+			<answer is_right="false">should-cost estimates would be established</answer>
+			<answer is_right="false">market values would be reviewed to evaluate proposed pricing</answer>
+		</answers>
+		<explain>When using a screening system, minimum requirements for potential seller
+performance would be documented. A screening system is a threshold established
+for filtering proposals from sellers. These are conditions, which need to be satisfied
+by a seller to qualify for negotiations. It is one of the tools and techniques used in
+Select Sellers.
+Potential sellers would be rated with weighted values for each evaluation
+criteria using a weighting system. A weighting system is a tool used in Select Sellers
+to provide an unbiased ranking of potential sellers.
+Should-cost estimates would be established using independent estimates.
+Should-cost estimates are independent estimates that are prepared using market
+value pricing or other information. They allow you to assess whether pricing
+proposed by potential sellers is reasonable.
+Market values would be reviewed to evaluate proposed pricing using
+independent estimates.</explain>
+	</question>
+
+	<!-- 6 -->
+	<question>
+		<text>All of these are tools and techniques used in Request Seller Responses, EXCEPT:</text>
+		<answers>
+			<answer is_right="false">advertising</answer>
+			<answer is_right="false">vendor conferences</answer>
+			<answer is_right="true">contract negotiation</answer>
+			<answer is_right="false">contractor conferences</answer>
+		</answers>
+		<explain>Contract negotiation is not used in Request Seller Responses. Contract
+negotiation is a tool used in the Select Sellers process when selecting a provider.
+Contract negotiation involves mutually reviewing and agreeing on the structure
+and content of a contract before the buyer and seller sign the contract.
+Advertising is a tool used in the Request Seller Responses process.
+Advertising refers to the process of using various mediums to generate inquires of
+potential sellers. Usually, advertising is used in situations where a qualified vendor
+list is not available or in a case where there are certain governmental
+requirements.
+Vendor conferences and contractor conferences are tools used in the
+Request Seller Responses process. Bidder conferences, also known as vendor
+conferences or contractor conferences, are meetings with prospective sellers in
+which the buyer creates a common understanding of the requirements.</explain>
+	</question>
+
+	<!-- 7 -->
+	<question>
+		<text>You are the project manager working for an automobile manufacturer. Your
+project involves manufacturing of a concept car for your company. You have
+identified some components, which you want to subcontract. You want to contact
+probable sellers who have the skills in developing such components. Your
+procurement department provides you with a list of sellers who meet the required
+capabilities to work on the project. What is your next course of action?</text>
+		<answers>
+			<answer is_right="false">send a draft contract copy</answer>
+			<answer is_right="false">call vendors for negotiation</answer>
+			<answer is_right="true">send the procurement documents</answer>
+			<answer is_right="false">advertise for your requirement and await responses from sellers</answer>
+		</answers>
+		<explain>Your next course of action is to send the procurement documents.
+Procurement documents are used to solicit proposals from prospective sellers and
+are an input to the Request Seller Responses process. The buyer prepares these
+documents such that it facilitates accurate and complete responses from
+prospective sellers. In this case, you will need to send these documents to the
+sellers on the seller list and ask them to respond in the decided timeframe. This is a
+part of the Request Seller Responses process.
+Your next course of action is not to send a draft contract copy. The draft copy
+of the agreement is sent at a later stage; when you have finalized a seller. The draft
+is used for validating the legal terms and conditions as well as the contract details
+by the seller's legal department. After the validation, the contract may be accepted
+or revised based on feedback, and then signed.
+Your next course of action is not to call vendors for negotiation. Negotiation
+is done when you have received the proposals from probable sellers. It is a part of
+the Select Sellers process.
+Your next course of action is not to advertise for your requirement and await
+responses from sellers. Advertising your requirement is not a correct option
+because you already have a published, qualified seller list. Advertising is used in
+situations where a qualified vendor list is not available or in cases where there are
+certain government requirements.</explain>
+	</question>
+
+	<!-- 8 -->
+	<question>
+		<text>All of the following are activities that often occur during Direct and Manage Project
+Execution, EXCEPT:</text>
+		<answers>
+			<answer is_right="true">assessing performance to identify needed corrective and preventive actions</answer>
+			<answer is_right="false">managing internal and external communication channels</answer>
+			<answer is_right="false">validating project deliverables</answer>
+			<answer is_right="false">implementing risk response activities</answer>
+		</answers>
+		<explain>Assessing performance to identify needed corrective and preventive actions
+does not occur during the Direct and Manage Project Execution process. This
+assessment occurs during the Monitor and Control Project Work process, and the
+approved corrective and preventive actions are then used as subsequent inputs to
+the Direct and Manage Project Execution process.
+All of the other options are incorrect because these activities often occur
+during Direct and Manage Project Execution. According to the PMBOK, the Direct
+and Manage Project Execution process involves activities necessary to complete
+work defined by the project's scope.
+Managing communication channels is important to ensure that work is
+executed according to the plan. Effective and efficient communication between all
+affected parties is important to guide execution of the project.
+Validating project deliverables occurs as deliverables are completed during
+Direct and Manage Project Execution.
+Validating project deliverables involves verifying that all work has been performed
+to complete a deliverable and that the deliverable has been completed in
+accordance with the plan.
+Implementing risk response activities occurs throughout execution of the
+project. As work is performed, risks occur and the responses to these risks must be
+implemented.</explain>
+	</question>
+
+	<!-- 9 -->
+	<question>
+		<text>Your company wants to subcontract some work on a project. The proposed
+subcontractor will be manufacturing one of the components of the final product
+for your company. As a project manager, you need to generate inquiries from
+probable subcontractors. Which process is this?</text>
+		<answers>
+			<answer is_right="true">Request Seller Responses</answer>
+			<answer is_right="false">Plan Purchases and Acquisitions</answer>
+			<answer is_right="false">Plan Contracting</answer>
+			<answer is_right="false">Creating Statement of Work</answer>
+		</answers>
+		<explain>The Request Seller Responses process involves contacting probable sellers
+and obtaining proposals from them on how they can meet the requirements of the
+buyer.
+Plan Purchases and Acquisitions is a process of identifying areas in projects
+that could be subcontracted. It also involves decision-making on whether to
+procure or build in-house. If procurement is chosen, then the details of
+procurement (including how, when, and what) are also identified.
+Plan Contracting follows Plan Purchases and Acquisitions and is the process
+of getting ready for solicitation or requesting seller responses. It involves creating
+all documents such as procurement documents and evaluation criteria, which are
+used in the Request Seller Responses process.
+Statement of work (SOW) is a detailed description of the procurement item.
+The SOW is an output of Plan Purchases and Acquisitions. It acts as one of the base
+documents for evaluating and drafting the contract during procurement
+management.</explain>
+	</question>
+
+	<!-- 10 -->
+	<question>
+		<text>You are managing a project to develop a new online bill presentment solution for
+one of your customers. You plan to outsource the Web development for a major
+portion of the project. A conference call with one of the potential development
+contractors is slated for early next week. A key project stakeholder who works
+closely with the customer informs you that the customer is in major financial
+trouble and may elect to abandon the project. What is your BEST course of action?</text>
+		<answers>
+			<answer is_right="true">reschedule the conference call with the potential development contractor</answer>
+			<answer is_right="false">cancel the conference call, but forward a copy of the project WBS to the
+potential development contractor for review</answer>
+			<answer is_right="false">develop a high-level WBS for the Web development portion of the project to
+use as a reference during the conference call</answer>
+			<answer is_right="false">have the conference call as planned, discuss a high-level project schedule and
+plan another call to discuss a more detailed schedule at a future date</answer>
+		</answers>
+		<explain>The best course of action is to reschedule the conference call with the
+potential development contractor. Because you are not certain that the project
+will continue and you will need the contractor's services, it would be best to
+reschedule the conference call. When dealing with all parties, you should exercise
+good faith. This means that you should not directly or indirectly mislead or deceive
+the other party, in this case the potential development contractor.
+Canceling the conference call, but forwarding a copy of the project WBS to
+the potential development contractor would not be the best course of action. You
+should share the details of the project with the potential contractor only after
+determining if the project will continue.
+Developing a high-level WBS for the Web development portion of the project
+would not be the best course of action. Because the project is in progress, a highlevel WBS for the Web development portion of the project has likely already been
+developed. However, you should share this information with the potential
+contractor only after determining if the project will continue.
+Having the conference call as planned, discussing a high-level project
+schedule, and planning another call to discuss a more detailed schedule at a future
+date would not be the best course of action. It would not demonstrate good faith
+
+for you to begin discussing the project with the potential contractor if you are
+uncertain whether the project will proceed.</explain>
+	</question>
+
+	<!-- 11 -->
+	<question>
+		<text>During the Acquire Project Team process, you would consider all of the following
+enterprise environmental factors for team member consideration, EXCEPT:</text>
+		<answers>
+			<answer is_right="true">a potential team member's age</answer>
+			<answer is_right="false">a potential team member's abilities</answer>
+			<answer is_right="false">a potential team member's experience</answer>
+			<answer is_right="false">a potential team member's interest in the project</answer>
+		</answers>
+		<explain>During the Acquire Project Team process, you should not consider a potential team
+member's age. There are laws prohibiting age discrimination in the workplace.
+The enterprise environmental factors you should consider are the potential team
+member's availability, ability, experience, interest in the project, and cost. A
+potential team member's experience can mean having worked on similar projects
+in the past or having worked in a particular field for a long period of time. Ideally,
+as a project manager you would be able to acquire team members who have
+worked on similar projects in the past because
+those team members are knowledgeable, require less training, and can serve as a
+mentor or expert on the current project.</explain>
+	</question>
+
+	<!-- 12 -->
+	<question>
+		<text>A project management information system is a tool used in all of the following,
+EXCEPT:</text>
+		<answers>
+			<answer is_right="true">Information Distribution</answer>
+			<answer is_right="false">Direct and Manage Project Execution</answer>
+			<answer is_right="false">Develop Project Management Plan</answer>
+			<answer is_right="false">Integrated Change Control</answer>
+		</answers>
+		<explain>A project management information system (PMIS) is not a tool used in
+Information Distribution. Information Distribution ensures that the project
+stakeholders get information related to the project health in a timely manner.
+Tools and techniques used in Information Distribution include communication
+skills, information gathering and retrieval systems, information distribution
+methods, and the lessons learned process. A project management information
+system includes tools, either automated or manual, that help to manage processes
+of a project.
+All of the other options are incorrect because a PMIS is considered a tool for
+several project processes, including Direct and Manage Project Execution, Develop
+Project Management Plan, and Integrated Change Control.
+Direct and Manage Project Execution involves performing the activities
+necessary to complete the work defined in the project's scope. A PMIS usually
+includes tools that facilitate execution of the project.
+All planning inputs go into the Develop Project Management Plan process
+where the project plan is formalized. A PMIS usually includes planning and
+scheduling tools that are used in this process.
+Integrated Change Control is the process that involves effective management
+of changes that occur during execution of the project plan. A PMIS usually contains
+tools to assist in identifying variances and changes so that these can be managed
+effectively.</explain>
+	</question>
+
+	<!-- 13 -->
+	<question>
+		<text>Your company has gone through a recent restructuring, and you have lost several
+project team members. You have a meeting with the individuals who will be
+replacing the lost resources. Which topic would be MOST important to discuss?</text>
+		<answers>
+			<answer is_right="true">the scope of the project</answer>
+			<answer is_right="false">the budget of the project</answer>
+			<answer is_right="false">the technical skills of the team members</answer>
+			<answer is_right="false">the leadership style you as the manager have adopted</answer>
+		</answers>
+		<explain>It would be most important to discuss the scope of the project. When new
+members are added to the team, it is important that they review the WBS and
+other project documents to fully understand the scope of the project.
+While understanding the project budget would be important, some team
+members may not be concerned with these details. The scope is the factor that will
+dictate what work the team members do and do not need to perform.
+While it is important to understand the team members' technical skills, it is
+not as important as having the team members understand the scope of the
+project.
+Discussing your leadership style is not important.</explain>
+	</question>
+
+	<!-- 14 -->
+	<question>
+		<text>Deliverables, requested changes, implemented change requests, implemented
+corrective actions, implemented preventive actions, implemented defect repair,
+and work performance information are outputs of which of the following
+processes?</text>
+		<answers>
+			<answer is_right="true">Direct and Manage Project Execution</answer>
+			<answer is_right="false">Develop Project Management Plan</answer>
+			<answer is_right="false">Change control system</answer>
+			<answer is_right="false">Information Distribution</answer>
+		</answers>
+		<explain>Deliverables, requested changes, implemented change requests,
+implemented corrective actions, implemented preventive actions, implemented
+defect repair, and work performance information are outputs of the Direct and
+Manage Project Execution process. Direct and Manage Project Execution involves
+activities relating to performing the work outlined in the project management
+plan.
+The project management plan is the output of Develop Project Management
+Plan process. All planning inputs go into the Develop Project Management Plan
+process to formalize the project plan.
+Change control system is a set of procedures that help manage change
+requirements that may arise during project execution. It is a tool used for
+Integrated Change Control for a project.
+Organizational process assets updates and requested changes are outputs of
+the Information Distribution process. Information Distribution ensures that the
+project stakeholders get information related to the project health in a timely
+manner. According to the PMBOK, the specific document updates include lessons
+learned documentation, project records, project reports, such as status reports,
+project presentations, feedback from stakeholders, and notifications to
+stakeholders.</explain>
+	</question>
+
+	<!-- 15 -->
+	<question>
+		<text>What is a bidder conference?</text>
+		<answers>
+			<answer is_right="true">a meeting of prospective bidders</answer>
+			<answer is_right="false">a meeting of the bidders on the shortlist</answer>
+			<answer is_right="false">a meeting of the sellers who are being awarded bids</answer>
+			<answer is_right="false">a meeting of team members to discuss the strengths of each potential bidder</answer>
+		</answers>
+		<explain>A bidder conference is a meeting of prospective bidders. Bidder conferences
+are a tool used in the Request Seller Responses process. The purpose of a bidder
+conference, also known as a vendor conference, contractor conference, or pre-bid
+conference, is to ensure that all potential bidders have a clear understanding of
+the procurement details. This helps to ensure that quality proposals are submitted.
+At bidder conferences, potential sellers have an equal standing.
+All of the other options are incorrect because they do not correctly define a
+bidder conference.</explain>
+	</question>
+
+	<!-- 16 -->
+	<question>
+		<text>Which is NOT considered work performance information that is collected in the
+Direct and Manage Project Execution process?</text>
+		<answers>
+			<answer is_right="false">information on scheduled activities that have not begun</answer>
+			<answer is_right="false">information on completed activities</answer>
+			<answer is_right="false">detailed information about how resources are being used</answer>
+			<answer is_right="true">timecards of all project team members</answer>
+		</answers>
+		<explain>Timecards of all project team members are not considered work
+performance information. Timecards document the time that a project team
+member has worked, but do not provide performance information that is usually
+collected as a part of the Direct and Manage Project Execution process.
+All of the other options are incorrect because they are all work performance
+information that would be collected in the Direct and Manage Project Execution
+process. During Direct and Manage Project Execution, many types of work
+performance information are captured. These include, but are not limited to,
+progress reports, status reports, information on completed and uncompleted
+deliverables, information on scheduled, in-progress, and completed
+activities, reports on how quality standards are being met, information on how
+resources are being used on the project, reports on incurred project costs, and
+estimates to complete any activities that are in progress.</explain>
+	</question>
+
+	<!-- 17 -->
+	<question>
+		<text>You are working on an expansion project for a client who is a steel manufacturer.
+The client asks you to implement a change. This change would not affect the
+project cost, but it will cause a schedule delay of three weeks in the project. As a
+project manager on the project, FIRST you should:</text>
+		<answers>
+			<answer is_right="false">discuss the change with the project team</answer>
+			<answer is_right="true">evaluate the impact and inform the client about it</answer>
+			<answer is_right="false">escalate the matter to the senior project manager</answer>
+			<answer is_right="false">crash the project schedule to make sure it is on time despite the change</answer>
+		</answers>
+		<explain>As a project manager, the first thing that you should do is evaluate the
+complete situation and sensitize the client about the impact of the proposed
+change.
+After evaluating the impact, you should list possible options in the given
+situation, and share them with the project team in a subsequent meeting.
+After you have options available in the given situation, you can present it to your
+senior management.
+The change control board will decide the future course of action. If they
+decide to accept the change and ensure that the project is complete by the initial
+planned date, then you will revise the schedule to crash the project for the
+proposed change.</explain>
+	</question>
+
+	<!-- 18 -->
+	<question>
+		<text>Project staff assignments, staffing management plan, and resource availability are
+inputs to which of the following processes?</text>
+		<answers>
+			<answer is_right="true">Develop Project Team</answer>
+			<answer is_right="false">Acquire Project Team</answer>
+			<answer is_right="false">Human Resource Planning</answer>
+			<answer is_right="false">Information Distribution</answer>
+		</answers>
+		<explain>Project staff assignments, staffing management plan, and resource
+availability are inputs to the Develop Project Team process. According to the
+PMBOK, Develop Project Team involves enhancing the ability of team members to
+function as a team and enhancing the ability of stakeholders to contribute.
+According to the PMBOK, the Acquire Project Team process involves
+obtaining the needed human resources and getting them assigned to and working
+on the project. Inputs to the Acquire Project Team process include enterprise
+environmental factors, organizational process assets, roles and responsibilities,
+project organization charts, and the staffing management plan.
+According to the PMBOK, the Human Resource Planning process involves
+identifying and assigning project roles, responsibilities, and reporting relationships.
+Inputs of the Human Resource Planning process include enterprise environmental
+factors, organizational process assets, and the project management plan,
+specifically the activity resource requirements.
+Information Distribution ensures that the project stakeholders get
+information related to the project health in a timely manner. The input to the
+Information Distribution process is the communications management plan.</explain>
+	</question>
+
+	<!-- 19 -->
+	<question>
+		<text>Which is NOT a benefit of using a virtual team?</text>
+		<answers>
+			<answer is_right="false">projects may be undertaken that would have otherwise been cost prohibitive</answer>
+			<answer is_right="false">individuals with accessibility handicaps can be included in the projec</answer>
+			<answer is_right="true">team members can communicate more effectively</answer>
+			<answer is_right="false">members with special skills can be included on the team without regard to
+
+geographic location</answer>
+		</answers>
+		<explain>Team members communicating more effectively is not a benefit of using a
+virtual team. A virtual team is a group of individuals with a common goal who
+rarely, if ever, meet face-to-face. With virtual teams, communication is usually
+more difficult.
+All of the other options are incorrect because they represent benefits of
+using a virtual team.</explain>
+	</question>
+
+	<!-- 20 -->
+	<question>
+		<text>Work authorization is a part of which of the following Project Integration
+Management processes?</text>
+		<answers>
+			<answer is_right="false">Develop Project Team</answer>
+			<answer is_right="false">Change control system</answer>
+			<answer is_right="true">Direct and Manage Project Execution</answer>
+			<answer is_right="false">Develop Project Management Plan</answer>
+		</answers>
+		<explain>Work authorization is used in the process of Direct and Manage Project
+Execution. The work authorization system defined as a part of the project
+management plan documents how and when work will be authorized. Direct and
+Manage Project Execution involves the authorization and performance of the work
+necessary to achieve project objectives. Deliverables are completed during this
+process and outlined in the project scope statement.
+Develop Project Team is a Human Resource Management process, not a
+Project Integration management process. Develop Project Team involves activities
+to improve the competencies of the team members and the interaction of the
+team.
+Change control system is a set of procedures, which help manage change
+requirements that may arise during project execution. It is a tool used for
+Integrated Change Control for a project, not an Integration Management process.
+All planning inputs go into the Develop Project Management Plan process
+where the project plan is formalized. While the work authorization system is
+documented in the project management plan, the actual work authorization does
+not occur when developing the plan, but rather during the Executing phase as
+work is being performed.</explain>
+	</question>
+
+	<!-- 21 -->
+	<question>
+		<text>All of the following serve as inputs to Develop Project Team, EXCEPT:</text>
+		<answers>
+			<answer is_right="false">staffing management plan</answer>
+			<answer is_right="true">project budget</answer>
+			<answer is_right="false">resource availability</answer>
+			<answer is_right="false">project staff assignments</answer>
+		</answers>
+		<explain>The project budget does not serve as an input to Develop Project Team. You
+would use the budget to measure the cost and expenditures of the project.
+You would use the staffing management plan as an input to Develop Project
+Team because it identifies plans for team development.
+You would use resource availability as an input to Develop Project Team
+because it provides information on when each team resource can be involved in
+team development activities, such as training or team-building.
+You would use project staff assignments as an input to Develop Project Team
+because this identifies the project team members.</explain>
+	</question>
+
+	<!-- 22 -->
+	<question>
+		<text>You are currently evaluating proposals from potential suppliers. You have
+developed a set of procedures to evaluate each potential supplier's past
+performance in the areas of delivery and quality. Which tool of the Select Sellers
+process are you using?</text>
+		<answers>
+			<answer is_right="false">weighting system</answer>
+			<answer is_right="false">screening system</answer>
+			<answer is_right="true">seller rating system</answer>
+			<answer is_right="false">independent estimates</answer>
+		</answers>
+		<explain>You are using a seller rating system. A seller rating system assists in rating
+potential sellers and selecting a seller. Seller rating systems usually include
+information on how potential sellers performed on previous projects.
+Information that might be evaluated within a seller rating system includes work
+performance, quality compliance, delivery performance, and contract compliance.
+You are not using a weighting system. A weighting system is a tool used to
+create an unbiased ranking of potential sellers based on weights assigned to each
+evaluation criteria.
+You are not using a screening system. A screening system is a threshold
+established for filtering proposals from sellers. When using a screening system,
+minimum requirements for potential seller performance would be documented.
+You are not using independent estimates. Independent estimates, often
+called should-cost estimates, use market value pricing, or other information, to
+assist in determining if pricing proposed by potential sellers is reasonable.</explain>
+	</question>
+
+	<!-- 23 -->
+	<question>
+		<text>Project records, project reports, and project presentations are outputs to which of
+the following processes?</text>
+		<answers>
+			<answer is_right="false">Direct and Manage Project Execution</answer>
+			<answer is_right="false">Performance Reporting</answer>
+			<answer is_right="true">Information Distribution</answer>
+			<answer is_right="false">Communications Planning</answer>
+		</answers>
+		<explain>Project records, project reports, and project presentations are outputs from
+the Information Distribution process.
+Information Distribution involves making the needed information available to
+project stakeholders in a timely manner.
+All of the other options are incorrect because these are not outputs from
+Direct and Manage Project Execution, Performance Reporting, or Communications
+Planning.
+Direct and Manage Project Execution is the implementation of the project
+plan, which involves performing the activities necessary to complete the work
+defined in the project's scope. According to the PMBOK, outputs of Direct and
+Manage Project Execution include deliverables, requested changes, implemented
+change requests, implemented corrective actions, implemented preventive
+actions, implemented defect repair, and work performance information.
+Performance Reporting deals with disseminating performance information to
+provide stakeholders with information about how resources are being used to
+achieve project objectives. Outputs of Performance Reporting include performance
+reports, forecasts, requested changes, recommended corrective actions, and
+organizational process asset updates, specifically updates to lessons learned
+documentation.
+Communications Planning involves determining the information and
+communication needs of the stakeholders.
+The output of Communications Planning is the communications management plan,
+which outlines how communication will be handled throughout the project.</explain>
+	</question>
+
+	<!-- 24 -->
+	<question>
+		<text>Co-location may involve all of the following, EXCEPT:</text>
+		<answers>
+			<answer is_right="false">setting up a war room for team members to congregate periodically</answer>
+			<answer is_right="false">helping the team to be together at one place to enhance their abilities to
+perform as a team</answer>
+			<answer is_right="true">assigning separate revenue productivity targets to the teams at different
+physical locations</answer>
+			<answer is_right="false">moving all, or a maximum number, of the most active team members to the
+same physical location</answer>
+		</answers>
+		<explain>Co-location does not involve assigning separate revenue productivity targets
+to the teams at different physical locations. Co-location is for team building rather
+than meeting revenue productivity targets. Co-location means moving all, or most,
+of the most active team members of the project to the same physical location. Colocation is a tool used in Develop Project Team to enhance the team's
+performance.
+All of the other options are incorrect because they are involved in colocation. For some projects, co-location may not be desired or may not even be
+possible. An alternative to co-location is frequent face-to-face meetings with team
+members. This is important with a virtual team environment where team members
+are separated geographically.</explain>
+	</question>
+
+	<!-- 25 -->
+	<question>
+		<text>Team-building activities may involve all of the following, EXCEPT:</text>
+		<answers>
+			<answer is_right="false">management actions to improve team performance</answer>
+			<answer is_right="false">individual actions to improve individual and team performance</answer>
+			<answer is_right="false">actions to improve interpersonal relationships among key stakeholders</answer>
+			<answer is_right="true">collective actions to persuade management to meet the team's demands</answer>
+		</answers>
+		<explain>Team-building activities do not involve collective actions to persuade
+management to meet the team's demands. These actions are not team-building
+activities.
+All of the other options are incorrect because they are involved with team
+building. Team-building activities include actions taken by both management and
+individual team members to increase the performance of the team or individuals
+on the team. These activities are critical to increase team performance and help
+ensure that the project meets the desired objectives.</explain>
+	</question>
+
+	<!-- 26 -->
+	<question>
+		<text>During the Acquire Project Team process, which of the following would be LEAST
+likely a reason for updating the staffing management plan?</text>
+		<answers>
+			<answer is_right="false">a team member was promoted to another position within the organization
+and will no longer be on the team</answer>
+			<answer is_right="false">a team member retired from your company with 30 years of service</answer>
+			<answer is_right="true">a team member moved to another country</answer>
+			<answer is_right="false">a team member was diagnosed with a serious medical condition and must be
+on medical leave for an indefinite period of time</answer>
+		</answers>
+		<explain>A team member moving to another country would be least likely to cause an
+update to the staffing management plan. The team member might remain on the
+team and work remotely.
+All of the other options are incorrect because they will require updates to the
+staffing management plan. Each of these scenarios involves losing a team member.
+You should identify how you plan to handle this resource loss and document it in
+the staffing management plan.</explain>
+	</question>
+
+	<!-- 27 -->
+	<question>
+		<text>What information might you incorporate into the project management plan as a
+result of the Perform Quality Assurance process?</text>
+		<answers>
+			<answer is_right="false">lessons learned</answer>
+			<answer is_right="true">documentation of new or improved quality processes identified</answer>
+			<answer is_right="false">requested changes resulting from quality assurance activities</answer>
+			<answer is_right="false">quality metrics that were used</answer>
+		</answers>
+		<explain>You might incorporate documentation of new or improved quality processes
+identified into the project management plan as a result of the Perform Quality
+Assurance process. As quality assurance activities are performed, you may identify
+new processes or improvements to existing quality assurance processes. These can
+be incorporated into the quality management plan, which is part of the project
+management plan.
+You would not incorporate lessons learned into the project management
+plan. Lessons learned are documented to provide historical information for you to
+use on future projects. This is documented, but not in the project management
+plan.
+You would not incorporate requested changes resulting from quality
+assurance activities into the project management plan. The requested changes
+would need to be approved before the changes can be incorporated into the
+project management plan.</explain>
+	</question>
+
+	<!-- 28 -->
+	<question>
+		<text>All of these are inputs to Develop Project Team, EXCEPT:</text>
+		<answers>
+			<answer is_right="false">staffing management plan</answer>
+			<answer is_right="false">resource availability</answer>
+			<answer is_right="false">project staff assignments</answer>
+			<answer is_right="true">team performance assessment</answer>
+		</answers>
+		<explain>Team performance assessment is not an input to Develop Project Team.
+Team performance assessment is an output of the Develop Project Team process.
+Team performance assessment is performed using various tools and techniques,
+such as team-building activities, recognition and rewards, co-location, ground
+rules, and training.
+All of the other options are incorrect because they are all inputs to the
+Develop Project Team process. According to the PMBOK, inputs to the Develop
+Project Team process include Project Staff Assignments, Staffing Management
+Plan, and Resource Availability.</explain>
+	</question>
+
+	<!-- 29 -->
+	<question>
+		<text>The purpose of ground rules is to:</text>
+		<answers>
+			<answer is_right="false">document the assignments of the team</answer>
+			<answer is_right="true">set clear expectations of team members</answer>
+			<answer is_right="false">inform team members of project assignments</answer>
+			<answer is_right="false">build cohesiveness for the project team</answer>
+		</answers>
+		<explain>The purpose of ground rules is to set clear expectations of team members.
+Ground rules are clearly-defined expectations of what is acceptable and not
+acceptable for team members.
+Ground rules do not document team assignments or inform team members
+of project assignments. Team assignments are typically documented with a
+responsibility assignment matrix.
+Ground rules do not build team cohesiveness. This is usually accomplished
+with other team-building activities.</explain>
+	</question>
+
+	<!-- 30 -->
+	<question>
+		<text>You are in the process of selecting a vendor for an upcoming project deliverable
+that you have chosen to outsource. You implement a weighting system to rank
+these potential vendors. You have assigned weights to each of the evaluation
+criteria and assigned ratings for each evaluation criteria for each potential vendor.
+What will be your NEXT step?</text>
+		<answers>
+			<answer is_right="true">multiply each potential vendor rating by the weight</answer>
+			<answer is_right="false">sum the weight values</answer>
+			<answer is_right="false">average the ratings for each potential vendor</answer>
+			<answer is_right="false">identify the potential vendor with the highest rating for the most critical evaluation criteria</answer>
+		</answers>
+		<explain>Your next step will be to multiply each potential vendor rating by the weight.
+A weighting system is a tool used in the Select Sellers process to rank potential
+sellers. When using a weighting system, you first assign a numerical weight to each
+evaluation criteria and assign a rating to each potential seller for each of these
+evaluation criteria. Each potential seller's rating is multiplied by the respective
+weight, and these values are added to create an overall score for each potential
+seller. Neither of the other approaches would take into account the weight
+assigned to each evaluation criteria.
+Your next step would not be to sum the weight values. You must multiply
+each weight value by the potential vendor ratings to compute a weighted value for
+each potential vendor.
+Your next step would not be to average the ratings for each potential vendor
+or identify the potential vendor with the highest rating for the most critical
+evaluation criteria.</explain>
+	</question>
+
+	<!-- 31 -->
+	<question>
+		<text>You have recently taken a job as a project manager in an IT integration company.
+You have been assigned to a project, and you are in the process of kicking off the
+project. You want resources allocated to your project based on the plan you have
+submitted to the senior program manager. When you go to the director of
+resources, which of the following types of power will you use?</text>
+		<answers>
+			<answer is_right="true">formal</answer>
+			<answer is_right="false">reward</answer>
+			<answer is_right="false">referent</answer>
+			<answer is_right="false">expert</answer>
+		</answers>
+		<explain>In this scenario, you will be using formal power, which you have as a project
+manager. Formal power is a power derived from the position, which you command
+in the organization.
+Reward power is the ability to grant rewards or recognition.
+Referent power is power that is based on a respect for another person or on the
+fact that the person is in a more powerful position.
+Expert power is power the manager has because he or she is the subject matter
+expert.</explain>
+	</question>
+
+	<!-- 32 -->
+	<question>
+		<text>You decide to implement some form of recognition and reward to increase
+cohesiveness and motivate the team members. Which action would be BEST to
+take?</text>
+		<answers>
+			<answer is_right="false">implement a team-member-of-the-month program to spotlight a team
+member for putting forth extra effort each month</answer>
+			<answer is_right="false">give all team members a gift certificate for a local restaurant</answer>
+			<answer is_right="false">implement a zero sum reward</answer>
+			<answer is_right="true">establish an incentive for team members turning in their status reports in a
+timely manner</answer>
+		</answers>
+		<explain>It would be best to establish an incentive for team members turning in their
+status reports in a timely manner. Recognition and rewards should reward desired
+behavior and should be achievable by all team members.
+Implementing a team-member-of-the-month program to spotlight a team
+member for putting forth extra effort each month would not be the best choice.
+This would only allow one employee per month to be rewarded. Rewards that are
+achievable by only some team members are known as win-lose, or zero sum,
+rewards. It is better for you to provide rewards that would be achievable for all
+team members.
+Giving all team members a gift certificate for a local restaurant would not be
+the best choice. Rewards should be based on team members accomplishing
+specific objectives or performing as desired.
+Implementing a zero sum reward would not be the best choice. Rewards that
+are achievable by only some team members are known as win-lose, or zero sum,
+rewards. It is better for you to provide rewards that would be achievable for all
+team members.</explain>
+	</question>
+
+	<!-- 33 -->
+	<question>
+		<text>Proposals are an output to which of the following processes?</text>
+		<answers>
+			<answer is_right="true">Request Seller Responses</answer>
+			<answer is_right="false">Plan Contracting</answer>
+			<answer is_right="false">Plan Purchases and Acquisitions</answer>
+			<answer is_right="false">Contract Administration</answer>
+		</answers>
+		<explain>Proposals are an output of the Request Seller Responses process. Request
+Seller Responses involves obtaining responses from prospective sellers on how
+project needs can be met.
+Plan Contracting is the process of preparing documents for Request Seller
+Responses. Documents such as the evaluation criteria, SOW, and procurement
+documents are created during this process.
+Plan Purchases and Acquisitions is the process of identifying the areas in a
+project that could be subcontracted. It also involves decision-making on whether
+to procure or build in-house, and if procurement is chosen, the specifics of the
+procurement (including how, when, and what) are also included.
+Contract documentation, requested changes, recommended corrective
+actions, organizational process assets updates, and project management plan
+updates, specifically updates to the procurement management plan and the
+contract management plan, are outputs of the Contract Administration process.
+Contract Administration involves ensuring that the seller meets the performance
+requirements set forth in the contract.</explain>
+	</question>
+
+	<!-- 34 -->
+	<question>
+		<text>Which is NOT a tool or technique used in the Develop Project Team process?</text>
+		<answers>
+			<answer is_right="false">co-location</answer>
+			<answer is_right="true">work performance information</answer>
+			<answer is_right="false">team-building activities</answer>
+			<answer is_right="false">reward and recognition systems</answer>
+		</answers>
+		<explain>Work performance information is not a tool used in the Develop Project Team
+process, but rather an input to the Manage Project Team process.
+All of the other options are incorrect because they are tools and techniques used
+in the Develop Project Team process. According to the PMBOK, tools and
+techniques used in the Develop Project Team process include general management
+skills, training, team-building activities, ground rules, co-location, and recognition
+and rewards.</explain>
+	</question>
+
+	<!-- 35 -->
+	<question>
+		<text>Project staff assignments, resource availability, and staffing management plan
+updates are outputs of which of the following processes?</text>
+		<answers>
+			<answer is_right="true">Acquire Project Team</answer>
+			<answer is_right="false">Develop Project Team</answer>
+			<answer is_right="false">Information Distribution</answer>
+			<answer is_right="false">Human Resource Planning</answer>
+		</answers>
+		<explain>Project staff assignments, resource availability, and staffing management
+plan updates are outputs of the Acquire Project Team process. According to the
+PMBOK, the Acquire Project Team process involves getting the needed human
+resources for the project.
+Project staff assignments, resource availability, and staffing management
+plan updates are not outputs of:
+- the Develop Project Team process. The Develop Project Team process
+involves activities to improve the competencies of the team members and the
+interaction of the team. The output of Develop Project Team is team performance
+assessment;
+- the Information Distribution process. The Information Distribution process
+ensures that the project stakeholders get information related to the project health
+in a timely manner. Organizational process asset updates and requested changes
+are outputs of the Information Distribution process. According to the PMBOK, the
+specific document updates include lessons learned documentation, project
+records, project reports, such as status reports, project presentations, feedback
+from stakeholders, and notifications to stakeholders;
+- the Human Resource Planning process. According to the PMBOK, Human
+Resource Planning involves identifying, documenting, and assigning project roles,
+responsibilities, and reporting relationships. Outputs of Human Resource Planning
+include roles and responsibilities, project organization charts, and the staffing
+management plan.</explain>
+	</question>
+
+	<!-- 36 -->
+	<question>
+		<text>Quality audits are a tool used in:</text>
+		<answers>
+			<answer is_right="false">Perform Quality Control</answer>
+			<answer is_right="false">Quality Planning</answer>
+			<answer is_right="true">Perform Quality Assurance</answer>
+			<answer is_right="false">Quality Response Planning</answer>
+		</answers>
+		<explain>Quality audits are used in Perform Quality Assurance. The Perform Quality
+Assurance process involves applying quality activities to project processes so that
+the project will meet the defined standards for quality. According to the PMBOK,
+there are several tools and techniques used in Perform Quality Assurance. These
+include other quality planning tools, such as cost-benefit analysis, benchmarking,
+design of experiments, and cost of quality (COQ), process analysis, and other
+quality control tools and techniques, such as cause and effect diagrams,
+control charts, flowcharting, histograms, Pareto charts, run charts, scatter
+diagrams, statistical sampling, inspection, and defect repair review.
+Quality audits are not a tool used in:
+- Perform Quality Control. According to the PMBOK, tools and techniques
+used in the Perform Quality Control process include cause and effect diagrams,
+control charts, flowcharting, histograms, Pareto charts, run charts, scatter
+diagrams, statistical sampling, inspection, and defect repair review;
+- Quality Planning. According to the PMBOK, tools and techniques used in the
+Quality Planning process include cost-benefit analysis, benchmarking, design of
+experiments, cost of quality (COQ), and additional quality planning tools, such as
+brainstorming, affinity diagrams, force field analysis, nominal group techniques,
+matrix diagrams, and prioritization matrices;
+- Quality Response Planning because this is not a valid process as
+documented by the PMBOK.</explain>
+	</question>
+
+	<!-- 37 -->
+	<question>
+		<text>Which project management process uses the results of quality control
+measurements as inputs?</text>
+		<answers>
+			<answer is_right="false">Cost Control</answer>
+			<answer is_right="false">Schedule Control</answer>
+			<answer is_right="false">Quality Planning</answer>
+			<answer is_right="true">Perform Quality Assurance</answer>
+		</answers>
+		<explain>Perform Quality Assurance uses the results of quality control measurements
+as inputs. Perform Quality Assurance refers to all the planned activities performed
+throughout the project to ensure that the project satisfies the quality standards
+defined in the Quality Management Plan. Perform Quality Assurance is an
+executing process and intricately linked to Perform Quality Control, which is a
+controlling process.
+Cost Control does not use the results of quality control measurements as
+inputs. Cost Control is a facilitating controlling process. It refers to the process of
+controlling the factors that affect the cost baseline to ensure that such changes are
+agreed on. It is also concerned with identifying and managing such changes as they
+occur in the project. It uses cost baseline, performance reports, change requests,
+and the cost management plan as inputs.
+Schedule Control does not use the results of quality control measurements as
+inputs. Schedule Control is a facilitating controlling process. It refers to the process
+of controlling the factors that affect the project schedule to ensure that such
+changes are agreed on. It is also concerned with identifying and managing such
+changes as they occur in the project. Schedule Control uses the project schedule,
+performance reports, change requests, and the schedule management plan as
+inputs.
+Quality Planning does not use the results of quality control measurements as
+inputs. Quality Planning refers to the process of identifying the quality standards
+relevant to the project and determining how to satisfy them. It uses the quality
+policy, project scope statement, product description, standards, and regulations as
+inputs.</explain>
+	</question>
+
+	<!-- 38 -->
+	<question>
+		<text>Which of the following is an output of Information Distribution?</text>
+		<answers>
+			<answer is_right="false">project plan</answer>
+			<answer is_right="true">project status</answer>
+			<answer is_right="false">project charter</answer>
+			<answer is_right="false">communication management plan</answer>
+		</answers>
+		<explain>Project status is an output of Information Distribution. Information
+Distribution ensures that the project stakeholders get information related to the
+project health in a timely manner. The project status is a report that reviews the
+project. Project status may be generated at periodic intervals by the project
+management team, and these intervals are mentioned in the communication
+management plan. Therefore, project status is one of the organizational process
+asset updates that server as an output of the Information Distribution process.
+The project plan is an output of the Develop Project Management Plan
+process, which is a part of Project Integration Management. The project plan is one
+of the inputs to the Information Distribution process. While updates to the project
+plan can be an output of Information Distribution, the plan itself is not.
+The project charter is a document issued by the senior management. It
+authorizes the project manager to start project activities. The project charter is an
+output of the Develop Project Charter process.
+The communication management plan is an output of the Communications
+Planning process. This plan is one of the inputs to the Information Distribution
+process. The communication management plan outlines how all project
+communication, both internal and external, will be coordinated and managed
+throughout the life of the project.</explain>
+	</question>
+
+	<!-- 39 -->
+	<question>
+		<text>You are a project manager that has been assigned a high-profile project. You are
+entering the Acquire Project Team process, and you want to identify potential
+resources that you might use for activities on your project. Which would you use?</text>
+		<answers>
+			<answer is_right="false">WBS</answer>
+			<answer is_right="false">RAM</answer>
+			<answer is_right="false">resource histogram</answer>
+			<answer is_right="true">enterprise environmental factors</answer>
+		</answers>
+		<explain>You would use the enterprise environmental factors to identify potential
+resources that you might use for activities on your project. According to the
+PMBOK, enterprise environmental factors include the culture and structure of the
+organization, governmental and industry standards, infrastructure, human
+resources, personnel administration and documentation, marketplace conditions,
+risk tolerances, commercial databases, and project management
+information systems. In this scenario, enterprise environmental factors include
+information about the resources potentially available to the project, including their
+experience and expertise, personal characteristics, interests, and availability for
+the project.
+You would not use:
+- the WBS. A Work Breakdown Structure (WBS) is a hierarchical chart created
+during the Create WBS process that provides a detailed description of all of a
+project's deliverables.
+- the RAM. A Responsibility Assignment Matrix (RAM) depicts the roles and
+responsibilities of assignments for the project, linking them to specific phases or
+work packages of a project. A RAM is often used in Human Resource Planning.
+- a resource histogram. A resource histogram depicts the resource loading for
+a project, including the resource over allocations. A resource histogram is often
+created during Human Resource Planning.</explain>
+	</question>
+
+	<!-- 40 -->
+	<question>
+		<text>You are the project manager at a construction management company. You have
+been assigned to a project, which your company was recently awarded, for
+construction of a bridge. You have contacted your procurement department
+seeking a list of subcontractors who could be eligible to work on some of the
+phases of the project. The procurement manager is unaware of the new project
+and refuses to cooperate. He mentions to you that he cannot entertain such
+requests on an ad hoc basis. What could have prevented this from happening?</text>
+		<answers>
+			<answer is_right="false">organizational policies</answer>
+			<answer is_right="false">information distribution</answer>
+			<answer is_right="true">work authorization system</answer>
+			<answer is_right="false">a good project management information system</answer>
+		</answers>
+		<explain>A work authorization system could have prevented this from happening. A
+work authorization system is a tool used in the process of Direct and Manage
+Project Execution. The work authorization system gives formal clearance for the
+project work to begin. In this case, because there is no information regarding the
+project there is confusion.
+Organizational policies form basic guidelines on processes and execution of
+projects. In this case, it may seem correct, but it is not specific enough to be
+applicable.
+Information Distribution is the process that involves ensuring that the project
+stakeholders get information related to the project health in a timely manner.
+A Project Management Information system (PMIS) is useful during Direct and
+Manage Project Execution. A PMIS may be an automated system, which integrates,
+gathers, all project management process-related information. In this case, it is out
+of context.</explain>
+	</question>
+
+	<!-- 41 -->
+	<question>
+		<text>Which statement regarding forms of communication is true?</text>
+		<answers>
+			<answer is_right="false">you should use formal verbal communication for complex project issues</answer>
+			<answer is_right="true">you should use formal written communication for complex project issues</answer>
+			<answer is_right="false">you should use either formal written or informal written communication for
+complex project issues</answer>
+			<answer is_right="false">you should use the method of communication that best fits the situation for
+complex project issues</answer>
+		</answers>
+		<explain>You should use formal written communication for complex project issues.
+Complex issues tend to have complex effects on a project and often require
+significant work. Formal written communication is preferred in these instances and
+serves as documentation of the issue.
+All of the other options are incorrect because formal written communication
+should be used for complex project issues.</explain>
+	</question>
+
+	<!-- 42 -->
+	<question>
+		<text>According to the PMBOK, communications skills are a technique used in which
+process?</text>
+		<answers>
+			<answer is_right="false">Contract Negotiation</answer>
+			<answer is_right="false">Performance Reviews</answer>
+			<answer is_right="true">Information Distribution</answer>
+			<answer is_right="false">Communications Planning</answer>
+		</answers>
+		<explain>Communications skills are used in Information Distribution to make project
+information available to project stakeholders. Communication could be in various
+forms, depending on the medium and the purpose.
+Communications skills are not a technique used in:
+- the Contract Negotiation process. Contract negotiation is not a process, but
+rather a tool used during the Select Sellers process in Project Procurement
+Management;
+- the Performance Reporting process. According to the PMBOK, the tools and
+techniques used in the Performance Reporting process include information
+presentation tools, performance information gathering and compilation, status
+review meetings, time reporting systems, and cost reporting systems;
+- the Communications Planning process. Communications Planning involves
+determining the information and communication needs of the stakeholders.
+According to the PMBOK, the tools and techniques used in the Communications
+Planning process include communications requirements analysis and
+communications technology.</explain>
+	</question>
+
+	<!-- 43 -->
+	<question>
+		<text>You have received proposals from probable sellers. After analyzing the proposals,
+you realize that there is wide disparity in the proposals of various vendors with
+respect to the specifications of the product, which is being outsourced. Which of
+the following could be a cause of this disparity?</text>
+		<answers>
+			<answer is_right="false">proposal format was not designed properly</answer>
+			<answer is_right="false">sellers have not understood the requirement</answer>
+			<answer is_right="true">procurement documents were unclear and open-ended</answer>
+			<answer is_right="false">evaluation criteria have not been defined for the procurement</answer>
+		</answers>
+		<explain>In this scenario, because the sellers have been unable to capture the product
+specifications clearly leading to disparity, it means that the requirements have not
+been clearly stated in the procurement documents. Procurement documents are
+used to solicit proposals from prospective sellers and are an input to the Request
+Seller Responses process. The buyer prepares these documents to facilitate
+accurate and complete responses from prospective sellers.
+Improper design of the proposal format will not result in vastly varying
+product specifications.
+Sellers have not understood the requirement is a symptom. The cause is that
+the procurement documents are unclear.
+In the Request Seller Responses process, the buyer is supposed to make the
+requirements clearly known to the sellers. The evaluation criteria come into effect
+at the time of Select Sellers. The evaluation criteria may not always be shared with
+sellers, depending on organizational policies.</explain>
+	</question>
+
+	<!-- 44 -->
+	<question>
+		<text>You are developing a qualified sellers list for your project. Which source would you
+NOT use to gather information about prospective sellers?</text>
+		<answers>
+			<answer is_right="false">trade associations</answer>
+			<answer is_right="false">trade publications</answer>
+			<answer is_right="true">interviews with competitors of prospective sellers</answer>
+			<answer is_right="false">site visits</answer>
+		</answers>
+		<explain>You would not use interviews with competitors of prospective sellers to
+gather information about the prospective sellers. This would not be an ethical
+approach to gathering information on prospective sellers.
+All of the other options are incorrect because they represent valid sources
+you might use to gather information to develop a qualified sellers list. A qualified
+sellers list is a documented list of potential sellers that have the capability of
+performing the desired work. A qualified sellers list is usually developed in the
+Request Seller Responses process. Other sources include the Internet, library
+directories, or contact with previous customers of the prospective sellers.</explain>
+	</question>
+
+	<!-- 45 -->
+	<question>
+		<text>All of these are tools and techniques used in Select Sellers, EXCEPT:</text>
+		<answers>
+			<answer is_right="false">weighting system</answer>
+			<answer is_right="false">screening system</answer>
+			<answer is_right="true">evaluation criteria</answer>
+			<answer is_right="false">contract negotiations</answer>
+		</answers>
+		<explain>Evaluation criteria form an input to the Select Sellers process. Evaluation
+criteria are used in Select Sellers for selecting a provider. Evaluation criteria are
+developed to evaluate the provider's capability and their quality with respect to
+the needs specified.
+Weighting system is a method for quantifying the data during Select Sellers.
+Using a weighting system eliminates any personal influences, which may creep into
+the Select Sellers process. It is one of the tools and techniques used in Select
+Sellers.
+Screening system is a threshold established for filtering proposals from
+sellers. These are conditions, which need to be satisfied by a seller to qualify for
+negotiations. It is one of the tools and techniques used in Select Sellers.
+Contract negotiation involves discussions with probable sellers regarding
+structuring of the contract and agreement on the various aspects of the work
+being outsourced. The various areas that are covered include schedule, terms,
+contract structuring, and price. It is one of the tools and techniques used in Select
+Sellers.
+Other tools and techniques used in Select Sellers include independent
+estimates, seller rating systems, expert judgment, and proposal evaluation
+techniques.</explain>
+	</question>
+
+	<!-- 46 -->
+	<question>
+		<text>The output of the Select Sellers process is:</text>
+		<answers>
+			<answer is_right="true">contract</answer>
+			<answer is_right="false">seller invoices</answer>
+			<answer is_right="false">statement of work</answer>
+			<answer is_right="false">evaluation criteria</answer>
+		</answers>
+		<explain>The contract is an output of the Select Sellers process. A contract is a
+mutually binding agreement that obligates the seller to provide the specified
+product and obligates the buyer to pay for it.
+Seller invoices are submitted based on the work results, which are according
+to the contract details. These are a part of the Contract Administration process.
+A statement of work (SOW) is a detailed description of the procurement
+item. The SOW is one of the outputs of Plan Purchases and Acquisitions. It acts as
+one of the base documents for evaluating and drafting the contract during
+procurement management.
+Evaluation criteria are used in Select Sellers for selecting a provider. These
+are developed to evaluate the provider's capability and quality with respect to the
+needs specified.</explain>
+	</question>
+
+	<!-- 47 -->
+	<question>
+		<text>Request Seller Responses can include all of the following, EXCEPT:</text>
+		<answers>
+			<answer is_right="false">proposals</answer>
+			<answer is_right="false">advertising</answer>
+			<answer is_right="false">bidder conferences</answer>
+			<answer is_right="true">evaluation criteria</answer>
+		</answers>
+		<explain>Request Seller Responses does not include evaluation criteria. Evaluation
+criteria are used as an input to the Select Sellers process when selecting a provider.
+Evaluation criteria are developed to help evaluate the provider's capability of
+providing the specified work at the desired quality level. Evaluation criteria can
+include many different factors, both objective and subjective, that can be used to
+rate or score proposals. According to the PMBOK, common evaluation criteria
+include, but are not limited to the seller's understanding of the need, the cost, the
+seller's technical capability, the seller's managerial approach, and financial and
+production capacity of the seller.
+Request Seller Responses can include
+- proposals. Proposals are an output of the Request Seller Responses process.
+In response to a buyer's requirement, potential sellers prepare proposals. The
+proposal serves as a formal legal offer to provide the requested products or
+services to the seller;
+- advertising. Advertising is a tool used in the Request Seller Responses
+process to generate interest of potential sellers to meet the requirements of the
+buyer. Advertisements may be placed in any number of sources, for example
+newspapers and professional journals. Some types of projects, such as
+governmental projects, specifically mandate public advertising of the contract
+when requesting seller responses;
+- bidder conferences. Bidder conferences are a tool used in the Request
+Seller Responses process to generate interest of potential sellers and ensure that
+potential sellers all have a clear understanding of the work to be undertaken or
+product to be delivered. Bidder conferences are also known as contractor, vendor,
+or pre-bid conferences.
+
+The Request Seller Responses process involves gathering the appropriate
+quotes, bids, or proposals from potential sellers for work to be performed on a
+project.</explain>
+	</question>
+
+	<!-- 48 -->
+	<question>
+		<text>Which skill is the most important for a project manager to have?</text>
+		<answers>
+			<answer is_right="false">technical skills</answer>
+			<answer is_right="false">team-building skills</answer>
+			<answer is_right="false">a participative management style</answer>
+			<answer is_right="true">oral and written communication skills</answer>
+		</answers>
+		<explain>It is important for a project manager to have excellent oral and written
+communication skills. Project managers spend approximately 90 percent of their
+time communicating. Therefore, good communication skills are the most
+important skill.
+While team-building skills are important for a project manager, many teambuilding activities require good communication skills in order to be effective.
+A project manager's management style is not as important as his
+communication skills.
+While there are benefits, namely expert power, that a project manager has
+when he has technical skills, the primary functions of a project manager involve
+communication. Therefore, communication skills are more important than
+technical skills.</explain>
+	</question>
+
+	<!-- 49 -->
+	<question>
+		<text>Procurement documents and qualified seller lists are inputs to which of the
+following processes?</text>
+		<answers>
+			<answer is_right="true">Select Sellers</answer>
+			<answer is_right="false">Plan Contracting</answer>
+			<answer is_right="false">Plan Purchases and Acquisitions</answer>
+			<answer is_right="false">Contract Administration</answer>
+		</answers>
+		<explain>Procurement documents and qualified seller lists are inputs to the Select
+Sellers process. According to the PMBOK, Select Sellers involves the receipt of bids
+or proposals and the application of the evaluation criteria to select a provider.
+Plan Contracting is the process of preparing documents for Request Seller
+Responses. Documents such as the evaluation criteria, SOW, and procurement
+documents are created during this process.
+Plan Purchases and Acquisitions is the process of identifying the areas in a
+project that could be subcontracted. It also involves decision-making on whether
+to procure or build in-house, and if procurement is chosen, the specifics of the
+procurement (including how, when, and what) are also included.
+Contract, contract management plan, selected sellers, performance reports,
+approved change requests, and work performance information are inputs to the
+Contract Administration process. Contract Administration involves ensuring that
+the seller meets the performance requirements set forth in the contract.</explain>
+	</question>
+
+	<!-- 50 -->
+	<question>
+		<text>The purpose of team-building activities is to:</text>
+		<answers>
+			<answer is_right="true">enhance team performance</answer>
+			<answer is_right="false">connect team members emotionally</answer>
+			<answer is_right="false">persuade team members to work extra hours</answer>
+			<answer is_right="false">comply with PMI guidelines of project management</answer>
+		</answers>
+		<explain>The purpose of team-building activities is to enhance team performance.
+Team-building activities include actions taken by both management and individual
+team members to increase the performance of the team.
+Connecting team members emotionally is not the purpose of team-building
+activities. The purpose of team building activities is to enhance the performance of
+the team. The emotional connection does not necessarily help achieve the
+improved team performance.
+Persuading team members to work extra hours is not the purpose of teambuilding activities. In fact, working extra hours in some cases may decrease the
+team's productivity.
+Complying with PMI guidelines of project management is not the purpose of
+team-building activities. While complying with PMI guidelines is expected of PMPs,
+it is not the purpose of team-building.</explain>
+	</question>
+
+	<!-- 51 -->
+	<question>
+		<text>Team performance assessment is the output of which of the following processes?</text>
+		<answers>
+			<answer is_right="false">Acquire Project Team</answer>
+			<answer is_right="true">Develop Project Team</answer>
+			<answer is_right="false">Information Distribution</answer>
+			<answer is_right="false">Human Resource Planning</answer>
+		</answers>
+		<explain>Team performance assessment is the output of the Develop Project Team
+process. According to the PMBOK, Develop Project Team includes both enhancing
+the ability of stakeholders to contribute as individuals as well as enhancing the
+ability of the team to function as a team.
+Project staff assignments, resource availability, and updates to the staffing
+management plan are outputs of the Acquire Project Team process. According to
+the PMBOK, Acquire Project Team involves getting the needed human resources
+assigned to and working on the project.
+Organizational process assets updates and requested changes are outputs of
+the Information Distribution process. Information Distribution ensures that the
+project stakeholders get information related to the project health in a timely
+manner.
+Roles and responsibilities, project organization charts, and the staffing
+management plan are outputs of the Human Resource Planning process. According
+to the PMBOK, Human Resource Planning involves identifying, documenting, and
+assigning project roles, responsibilities, and reporting relationships.</explain>
+	</question>
+
+	<!-- 52 -->
+	<question>
+		<text>Which is NOT a benefit of establishing ground rules early in a project's lifecycle?</text>
+		<answers>
+			<answer is_right="false">it avoids confusion among team members</answer>
+			<answer is_right="false">it increases productivity of the team</answer>
+			<answer is_right="false">it provides team members with clear expectations</answer>
+			<answer is_right="true">it allows team members to become acquainted</answer>
+		</answers>
+		<explain>Allowing team members to become acquainted is not a benefit of
+establishing ground rules early in a project's life cycle. Ground rules are clearlydefined expectations of what is acceptable and not acceptable for team members.
+All of the other options are incorrect because they are benefits of
+establishing ground rules early. When ground rules are established early in a
+project, team members have a clear understanding of the expectations. This avoids
+confusion among team members and increases productivity.</explain>
+	</question>
+
+	<!-- 53 -->
+	<question>
+		<text>Which of the following is an output of Direct and Manage Project Execution?</text>
+		<answers>
+			<answer is_right="false">project management plan</answer>
+			<answer is_right="true">requested changes</answer>
+			<answer is_right="false">approved corrective actions</answer>
+			<answer is_right="false">validated defect repair</answer>
+		</answers>
+		<explain>Requested changes are an output of Direct and Manage Project Execution.
+The Direct and Manage Project Execution process involves activities necessary to
+complete project work. Often during these activities, necessary changes in the
+project are identified. These requested changes often reflect an increase or
+decrease in project scope or modifications to the project schedule.
+The project management plan is an output of the Develop Project
+Management Plan process, which is a part of Project Integration Management.
+Project Plans are one of the inputs to Direct and Manage Project Execution.
+Approved corrective actions are one of the inputs to the Direct and Manage
+Project Execution process. These actions help ensure that the project performance
+is conforming to the plan.
+Validated defect repair is one of the inputs to the Direct and Manage Project
+Execution process. Defect repair is also known as rework. As project execution
+proceeds, defects are identified, defect repairs are recommended and approved,
+the defects are repaired, and the repairs are validated.</explain>
+	</question>
+
+	<!-- 54 -->
+	<question>
+		<text>All of these are outputs of Information Distribution, EXCEPT:</text>
+		<answers>
+			<answer is_right="true">project plan</answer>
+			<answer is_right="false">project reports</answer>
+			<answer is_right="false">project records</answer>
+			<answer is_right="false">project presentations</answer>
+		</answers>
+		<explain>The project plan is not an output of Information Distribution. The project
+plan is an output of the Develop Project Management Plan process, which is a part
+of the Project Integration Management. The project plan, specifically its subsidiary
+communication management plan, is an input to Information Distribution.
+All of the other options are incorrect because project reports, project
+presentations, and project records are outputs of the Information Distribution
+process. According to the PMBOK, other outputs of Information Distribution
+include lessons learned documentation, feedback from stakeholders, stakeholder
+notifications, and requested changes.</explain>
+	</question>
+
+	<!-- 55 -->
+	<question>
+		<text>Evaluation criteria is an input to:</text>
+		<answers>
+			<answer is_right="true">Select Sellers</answer>
+			<answer is_right="false">Product Documents</answer>
+			<answer is_right="false">Plan Contracting</answer>
+			<answer is_right="false">Plan Purchases and Acquisitions</answer>
+		</answers>
+		<explain>Evaluation criteria form an input to the Select Sellers process. Evaluation
+criteria are used in Select Sellers for selecting a provider. Evaluation criteria are
+developed to evaluate a provider's capability and quality with respect to the needs
+specified.
+Product Documents is not a defined process in the PMBOK, but may be used
+in the context of procurement management as specifications of the product.
+Product documents refer to the buyer's final product, unless otherwise specified.
+Plan Contracting follows Plan Purchases and Acquisitions and is the process
+of getting ready for Request Seller Responses. Evaluation criteria are created
+during this phase and are not an input to this phase.
+Plan Purchases and Acquisitions is the process of identifying the areas in a
+project, which could be subcontracted. It also involves decision-making on whether
+to procure or build in-house. If procurement is chosen, the procurement specifics
+(such as how, when, and what) are also identified.</explain>
+	</question>
+
+	<!-- 56 -->
+	<question>
+		<text>You are project manager for a large-scale Web-based training project. You are
+creating your project team and are considering having SMEs from several
+continents work on the project in a virtual team environment. To manage this
+virtual team effectively, which of the following would NOT concern you?</text>
+		<answers>
+			<answer is_right="false">frequently including team members in decision-making</answer>
+			<answer is_right="false">setting ground rules for team members</answer>
+			<answer is_right="true">pre-assigning team members</answer>
+			<answer is_right="false">developing communications standards</answer>
+		</answers>
+		<explain>To manage this virtual team effectively, you would not be concerned with
+pre-assigning team members. Preassigning team members is assigning members to
+the project team up front. This usually occurs if an individual has been previously
+promised a position on the team or has such specialized skills that you must make
+the assignment before losing the resource. A virtual team is a group of individuals
+with a common goal who rarely, if ever, meet face-to-face.
+You would be concerned with:
+- frequently including team members in decision-making. Involving the virtual
+team members will build team cohesiveness that you might not otherwise have
+because of the members' geographic locations.
+- setting ground rules for team members. It is important in a virtual team
+environment that ground rules are set forth clearly, so that team members clearly
+understand what is expected of them.
+- developing communications standards. While developing communications
+standards is important for all projects, it is extremely important when you use a
+virtual team. Because the team members are geographically dispersed,
+communications might be difficult.</explain>
+	</question>
+
+	<!-- 57 -->
+	<question>
+		<text>During the Direct and Manage Project Execution process, all of these would apply,
+EXCEPT:</text>
+		<answers>
+			<answer is_right="true">a project washout meeting would be held</answer>
+			<answer is_right="false">the product of the project would be created</answer>
+			<answer is_right="false">status reviews on the project would be scheduled</answer>
+			<answer is_right="false">a significant portion of the project budget would be spent</answer>
+		</answers>
+		<explain>During the Direct and Manage Project Execution process, a project washout
+meeting would not apply. A project washout meeting is a part of the closure of the
+project. It is a meeting of the team where the team members share their
+experiences with the entire team.
+All of the other options are incorrect because they would occur during Direct
+and Manage Project Execution. During this process, a significant portion of the
+budget would be spent, the product of the project would be created, and status
+reviews would be scheduled.</explain>
+	</question>
+
+	<!-- 58 -->
+	<question>
+		<text>Which is an input to Request Seller Responses?</text>
+		<answers>
+			<answer is_right="false">contract</answer>
+			<answer is_right="false">proposals</answer>
+			<answer is_right="false">statement of work</answer>
+			<answer is_right="true">procurement documents</answer>
+		</answers>
+		<explain>Procurement documents are an input to Request Seller Responses.
+Procurement documents are used to solicit proposals from prospective sellers. The
+buyer prepares these documents to facilitate accurate and complete responses
+from prospective sellers. Inputs to Request Seller Responses include organizational
+process assets, the procurement management plan, and procurement documents.
+A contract is not an input to Request Seller Responses. A contract is an
+output of the Select Sellers process and an input to the Contract Administration
+process. A contract is a mutually binding agreement that obligates the seller to
+provide the specified product and obligates the buyer to pay for it.
+Proposals are not an input to Request Seller Responses. Proposals are an input to
+the Select Sellers process.
+Proposals are documents prepared by potential sellers to describe how they
+can service the requirement of the buyer.
+A statement of work (SOW) is not an input to Request Seller Responses. The
+SOW is an input to the Plan Contracting process. A contract SOW is a detailed
+description of the procurement item. The SOW is one of the outputs of Plan
+Purchases and Acquisitions. The SOW acts as one of the base documents for
+evaluation and drafting the contract.</explain>
+	</question>
+
+	<!-- 59 -->
+	<question>
+		<text>During a status meeting, the client suggests that the software being implemented
+should support additional features, which were not earlier planned. You discuss
+this requirement with the client and then propose a change to the specifications
+request. In which process are you operating?</text>
+		<answers>
+			<answer is_right="true">Direct and Manage Project Execution</answer>
+			<answer is_right="false">Develop Project Management Plan</answer>
+			<answer is_right="false">Change Control System</answer>
+			<answer is_right="false">Contract Negotiation</answer>
+		</answers>
+		<explain>You are operating in the Direct and Manage Project Execution process. Direct
+and Manage Project Execution involves performing the activities necessary to
+complete the work defined in the project's scope. It is common during project
+execution for additional work to be identified, which generates requests for
+change to the project's scope.
+You are not operating in:
+- the Develop Project Management Plan process. All planning inputs go into
+the Develop Project Management Plan process where the project plan is
+formalized;
+- the Change Control System process. This is not a process. A change control
+system is a set of procedures, which help manage change requirements that arise
+during project execution. It is a tool used for Integrated Change Control for a
+project;
+- the Contract Negotiation process. This is not a process. Contract negotiation
+involves discussions with probable sellers regarding structuring of the contract and
+agreement on the various aspects of the work being outsourced. The various areas
+covered are schedule, terms, contract structuring, and price.
+Contract negotiation is one of the tools and techniques used in Select Sellers.</explain>
+	</question>
+
+	<!-- 60 -->
+	<question>
+		<text>Reward and recognition systems involve all of the following, EXCEPT:</text>
+		<answers>
+			<answer is_right="false">systems that direct the team towards the desired behavior</answer>
+			<answer is_right="true">indirect payouts to the staff to protect them from tax liabilities</answer>
+			<answer is_right="false">formal management practices to improve the team performance</answer>
+			<answer is_right="false">actions that help achieve desired results from the team members</answer>
+		</answers>
+		<explain>Reward and recognition systems do not involve indirect payouts to the staff
+to protect them from tax liabilities. Reward and recognitions systems are not
+methods to avoid tax liabilities. The purpose of reward and recognitions is to
+encourage the team to achieve the desired results.
+All of the other options are incorrect because they do characterize reward
+and recognition systems. Reward and recognition systems are formal actions taken
+by management to promote or reinforce certain behavior from the team or
+individuals.</explain>
+	</question>
+
+</questions>

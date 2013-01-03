@@ -1,1061 +1,1898 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <questions>
+	<!-- 1 -->
 	<question>
-		<text>1. Rank ordering of defects should be used to guide corrective action. This is the underlying principle behind:</text>
+		<text>Rank ordering of defects should be used to guide corrective action. This is the underlying
+principle behind:</text>
 		<answers>
 			<answer is_right="false">inspections</answer>
 			<answer is_right="false">control charts</answer>
 			<answer is_right="false">trend analysis</answer>
 			<answer is_right="true">Pareto diagrams</answer>
 		</answers>
-		<explain>Rank ordering of defects should be used to guide corrective action is the underlying principle behind Pareto diagrams. Pareto diagrams are based on the 80/20 principle, which states that 80 percent of the problems are due to 20 percent of the causes. These charts represent the information in order of priority and help focus attention on the most critical issues. It prioritizes potential causes of the problem.
-Inspection is a technique used in Perform Quality Control. It includes activities such as examining, measuring, and testing to determine whether results conform to requirements.
-Trend analysis is a technique that examines project results over time to determine if performance is improving or degrading.
-A control chart is a graphical tool that helps determine whether a process is in control or out of control.
-</explain>
+		<explain>Rank ordering of defects should be used to guide corrective action is the underlying
+principle behind Pareto diagrams. Pareto diagrams are based on the 80/20 principle,
+which states that 80 percent of the problems are due to 20 percent of the causes. These
+charts represent the information in order of priority and help focus attention on the most
+critical issues. It prioritizes potential causes of the problem.
+Inspection is a technique used in Perform Quality Control. It includes activities such as
+examining, measuring, and testing to determine whether results conform to
+requirements.
+Trend analysis is a technique that examines project results over time to determine if
+performance is improving or degrading.
+A control chart is a graphical tool that helps determine whether a process is in control
+or out of control.</explain>
 	</question>
 
+	<!-- 2 -->
 	<question>
-		<text>2. You are the project manager for a Web site development project undertaken to provide shipment-tracking capabilities for the various manufacturing facilities. During the final stage of user acceptance testing, a business analyst has raised a concern that a shipment summary report, which was specifically requested during initial requirement study, has not delivered. What should be the next action that you take?</text>
+		<text>You are the project manager for a Web site development project undertaken to provide
+shipment-tracking capabilities for the various manufacturing facilities. During the final
+stage of user acceptance testing, a business analyst has raised a concern that a shipment
+summary report, which was specifically requested during initial requirement study, has
+not delivered. What should be the next action that you take?</text>
 		<answers>
 			<answer is_right="false">refer to the project charter to see if this item is part of the charter</answer>
 			<answer is_right="true">refer to the WBS, and then either accept or deny the claim of the business analyst</answer>
-			<answer is_right="false">refer to the scope management plan, and then either accept or deny the claim of the business analyst</answer>
-			<answer is_right="false">refer to the minutes of the meetings to see if this item was requested, and then decide if that should have been part of the scope</answer>
+			<answer is_right="false">refer to the scope management plan, and then either accept or deny the claim of
+the business analyst</answer>
+			<answer is_right="false">refer to the minutes of the meetings to see if this item was requested, and then
+decide if that should have been part of the scope</answer>
 		</answers>
-		<explain>The next action you should take is to refer to the WBS, and then either accept or deny the claim of the business analyst. The detailed project scope statement, WBS, and WBS dictionary must be a full and final basis for scope verification and resolution of any disputes with respect to the project's scope. The deliverables and activities, which are not a part of WBS, are not in scope.
-You should not refer to the scope management plan, and then either accept or deny the claim of the business analyst. The scope management plan is a document that outlines how the scope will be monitored and managed throughout the project. While it does serve as input to Scope Verification, it alone should not be used to verify completion of work. The detailed scope statement, WBS, and WBS dictionary contain more detailed information about each individual deliverable. These serve as the scope baseline and should be used to verify completion of work.
-You should not refer to the project charter or minutes of the meetings. The project charter or minutes of meeting cannot be and must not be treated as the basis for project scope. The detailed project scope statement, reviewed or signed WBS, and WBS dictionary is the final basis.
-</explain>
+		<explain>The next action you should take is to refer to the WBS, and then either accept or deny
+the claim of the business analyst. The detailed project scope statement, WBS, and WBS
+dictionary must be a full and final basis for scope verification and resolution of any
+disputes with respect to the project's scope. The deliverables and activities, which are not
+a part of WBS, are not in scope.
+You should not refer to the scope management plan, and then either accept or deny
+the claim of the business analyst. The scope management plan is a document that
+outlines how the scope will be monitored and managed throughout the project. While it
+does serve as input to Scope Verification, it alone should not be used to verify completion
+of work. The detailed scope statement, WBS, and WBS dictionary contain more detailed
+information about each individual deliverable. These serve as the scope baseline and
+should be used to verify completion of work.
+You should not refer to the project charter or minutes of the meetings. The project
+charter or minutes of meeting cannot be and must not be treated as the basis for project
+scope. The detailed project scope statement, reviewed or signed WBS, and WBS
+dictionary is the final basis.</explain>
 	</question>
 
+	<!-- 3 -->
 	<question>
-		<text>3. Project Risk Monitoring and Control includes all the following, EXCEPT:</text>
+		<text>Project Risk Monitoring and Control includes all the following, EXCEPT:</text>
 		<answers>
 			<answer is_right="false">project risk</answer>
 			<answer is_right="true">decision tree analysis</answer>
 			<answer is_right="false">updating the risk response plan</answer>
 			<answer is_right="false">implementation of risk responses</answer>
 		</answers>
-		<explain>Project Risk Monitoring and Control does not include decision tree analysis. The decision tree is a diagram that describes a decision under consideration and the implications of choosing the same. It factors in the probability of events and their potential impact when arriving at the best course of action in a given situation. It is a tool used in Quantitative Risk Analysis.
-A project risk is an uncertain event or condition that, if it occurs, has a positive or a negative effect on a project objective. Project risk reviews check the risks to a project when the implementation of the project begins. It is one of the tools used in Risk Monitoring and Control.
-While implementing the risk controls during the project operation, many risks may or may not occur. The risk response plan is updated as an output of the Risk Monitoring and Control.
-Implementation of risk responses is part of the Risk Monitoring and Control process. During Risk Response Planning, all identified risks are listed, and a strategy to counter those risks is formulated. The Risk Monitoring and Control process implements these risk responses as planned.
-</explain>
+		<explain>Project Risk Monitoring and Control does not include decision tree analysis. The
+decision tree is a diagram that describes a decision under consideration and the
+implications of choosing the same. It factors in the probability of events and their
+potential impact when arriving at the best course of action in a given situation. It is a tool
+used in Quantitative Risk Analysis.
+A project risk is an uncertain event or condition that, if it occurs, has a positive or a
+negative effect on a project objective. Project risk reviews check the risks to a project
+when the implementation of the project begins. It is one of the tools used in Risk
+Monitoring and Control.
+While implementing the risk controls during the project operation, many risks may or
+may not occur. The risk response plan is updated as an output of the Risk Monitoring and
+Control.
+Implementation of risk responses is part of the Risk Monitoring and Control process.
+During Risk Response Planning, all identified risks are listed, and a strategy to counter
+those risks is formulated. The Risk Monitoring and Control process implements these risk
+responses as planned.</explain>
 	</question>
 
+	<!-- 4 -->
 	<question>
-		<text>4. Regarding effective management of a dual reporting relationship, which statement is true?</text>
+		<text>Regarding effective management of a dual reporting relationship, which statement is
+true?</text>
 		<answers>
 			<answer is_right="false">it is the key factor for team development</answer>
 			<answer is_right="false">it is not critical for the success of the project</answer>
 			<answer is_right="false">it is the responsibility of the functional manager</answer>
 			<answer is_right="true">it is generally the responsibility of the project manager</answer>
 		</answers>
-		<explain>Regarding effective management of a dual reporting relationship, this statement is true: it is generally the responsibility of the project manager.
-A dual reporting relationship is where an individual reports to more than one superior. This occurs in a matrix organization where an individual reports to both a functional manager and a project manager. Effective team management is usually be more difficult when a dual reporting relationship exists because there can be conflict between the two managers to which the individual reports. According to the PMBOK, it is usually the project manager's responsibility to ensure that this dual reporting relationship is managed effectively.
-While effectively managing the dual reporting relationship is important in Manage Project Team, it is not the key factor because not all organizations will be faced with this issue. In functional or projectized organizations, individuals report to a single manager. According to the PMBOK, effective management of a dual reporting relationship is critical to the success of a project.
-According to the PMBOK, it is usually the project manager's responsibility to ensure that this dual reporting relationship is managed effectively.
-</explain>
+		<explain>Regarding effective management of a dual reporting relationship, this statement is
+true: it is generally the responsibility of the project manager.
+A dual reporting relationship is where an individual reports to more than one superior.
+This occurs in a matrix organization where an individual reports to both a functional
+manager and a project manager. Effective team management is usually be more difficult
+when a dual reporting relationship exists because there can be conflict between the two
+managers to which the individual reports. According to the PMBOK, it is usually the
+project manager's responsibility to ensure that this dual reporting relationship is
+managed effectively.
+While effectively managing the dual reporting relationship is important in Manage
+Project Team, it is not the key factor because not all organizations will be faced with this
+issue. In functional or projectized organizations, individuals report to a single manager.
+According to the PMBOK, effective management of a dual reporting relationship is
+critical to the success of a project.
+According to the PMBOK, it is usually the project manager's responsibility to ensure
+that this dual reporting relationship is managed effectively.</explain>
 	</question>
 
+	<!-- 5 -->
 	<question>
-		<text>5. You are managing a project that was originally scheduled to take 12 months to complete. The original budget was $486,000, or $40,500 each month. At the end of month, you are evaluating progress. You have completed 40 percent of the work and have $90,000 remaining in your budget. What is your ETC (Estimate To Complete)?</text>
+		<text>You are managing a project that was originally scheduled to take 12 months to complete.
+The original budget was $486,000, or $40,500 each month. At the end of month, you are
+evaluating progress. You have completed 40 percent of the work and have $90,000
+remaining in your budget. What is your ETC (Estimate To Complete)?</text>
 		<answers>
 			<answer is_right="false">$194,400</answer>
-			<answer is_right="true">$595,836.73</answer>
 			<answer is_right="false">$396,000</answer>
+			<answer is_right="true">$595,836.73</answer>
 			<answer is_right="false">$991,836.73</answer>
 		</answers>
-		<explain>Your Estimate to Complete (ETC) is $595,836.73. ETC represents the estimated costs of completing the remaining work. To arrive at the ETC, you perform these calculations: BAC = $486,000
+		<explain>Your Estimate to Complete (ETC) is $595,836.73. ETC represents the estimated costs of
+completing the remaining work. To arrive at the ETC, you perform these calculations:
+BAC = $486,000
 AC = $486,000 - $90,000 = $396,000
 EV = BAC x percent complete = $486,000 x .40 = $194,400
 CPI = EV / AC = $194,400 / $396,000 = 0.49
 EAC = BAC / CPI = $486,000 / 0.49 = $991836.73
 Then, you can use this formula to calculate the ETC:
 ETC = EAC - AC = $991,836.73 - $396,000 = $595,836.73
-All of the other options are incorrect because they do not reflect the correct ETC value. </explain>
+All of the other options are incorrect because they do not reflect the correct ETC value.</explain>
 	</question>
 
+	<!-- 6 -->
 	<question>
-		<text>6. A payment system is a part of which of the following procurement management processes?</text>
+		<text>A payment system is a part of which of the following procurement management
+processes?</text>
 		<answers>
 			<answer is_right="false">Request Seller Responses</answer>
 			<answer is_right="false">Select Sellers</answer>
 			<answer is_right="false">Contract Closure</answer>
 			<answer is_right="true">Contract Administration</answer>
 		</answers>
-		<explain>A payment system is a part of Contract Administration. The Contract Administration process verifies and ensures that the seller is on track for the contract delivery. It involves coordination between the seller and buyer teams. A payment system is one of the tools used in Contract Administration for the disbursement of money to the subcontractor. A payment system is not a part of Request Seller Responses. The Request Seller Responses process involves contacting probable sellers and obtaining proposals from them on how they can meet the requirements of the buyer. Proposals are documents prepared by the sellers to describe how they can service the requirements of the buyer. A payment system is not a part of Select Sellers. The Select Sellers process deals with deciding on the seller for the contract. It involves negotiation and selection. A payment system is not a part of Contract Closure. Contract Closure is a process where the buyer and seller decide to close the contract after the work per the contract is completed or the contract needs to be terminated for some other reason. This includes all contract related documentation, procurement audits, etc.
-</explain>
+		<explain>A payment system is a part of Contract Administration. The Contract Administration
+process verifies and ensures that the seller is on track for the contract delivery. It involves
+coordination between the seller and buyer teams. A payment system is one of the tools
+used in Contract Administration for the disbursement of money to the subcontractor.
+A payment system is not a part of Request Seller Responses. The Request Seller
+Responses process involves contacting probable sellers and obtaining proposals from
+them on how they can meet the requirements of the buyer. Proposals are documents
+prepared by the sellers to describe how they can service the requirements of the buyer.
+A payment system is not a part of Select Sellers. The Select Sellers process deals with
+deciding on the seller for the contract. It involves negotiation and selection.
+A payment system is not a part of Contract Closure. Contract Closure is a process
+where the buyer and seller decide to close the contract after the work per the contract is
+completed or the contract needs to be terminated for some other reason. This includes all
+contract related documentation, procurement audits, etc.</explain>
 	</question>
 
+	<!-- 7 -->
 	<question>
-		<text>7. Which of the following can you calculate if you know the values for Budgeted Cost of Work Performed and Schedule Performance Index?</text>
+		<text>Which of the following can you calculate if you know the values for Budgeted Cost of
+Work Performed and Schedule Performance Index?</text>
 		<answers>
-			<answer is_right="true">SV - Shedule Variance</answer>
+			<answer is_right="true">SV – Shedule Variance</answer>
 			<answer is_right="false">CPI – Cost Performance Index</answer>
 			<answer is_right="false">EAC – Estimate At Completion</answer>
 			<answer is_right="false">ROI – Return Of Investment</answer>
 		</answers>
-		<explain>If you know the values for Budgeted Cost of Work Performed (BCWP) and Schedule Performance Index (SPI) for your project, you can calculate Schedule Variance (SV). Variance analysis is an effective tool to monitor and control project schedules. SPI is equal to BCWP divided by Budgeted Cost of Work Scheduled (BCWS). SV is equal to BCWP BCWS. Given the values of SPI and BCWP, you can calculate the value of BCWS, and consequently SV.
-Given these values, you can also calculate the Percentage of Work Complete. The Percentage of Work Complete is calculated as BCWP/BCWS x 100, or SPI x 100. Given the values of BCWP and SPI, you would not be able to calculate the CPI. The CPI is calculated by dividing Earned Value (EV) by Actual Cost (AC). EV is also known as BCWP, and AC is also known as Actual Cost of Work Performed (ACWP).
-Given the values of BCWP and SPI, you would not be able to calculate the Return on Investment (ROI). The ROI is a percentage indicating the return on an investment. </explain>
+		<explain>If you know the values for Budgeted Cost of Work Performed (BCWP) and Schedule
+Performance Index (SPI) for your project, you can calculate Schedule Variance (SV).
+Variance analysis is an effective tool to monitor and control project schedules. SPI is equal
+to BCWP divided by Budgeted Cost of Work Scheduled (BCWS). SV is equal to BCWP BCWS. Given the values of SPI and BCWP, you can calculate the value of BCWS, and
+consequently SV.
+Given these values, you can also calculate the Percentage of Work Complete. The
+Percentage of Work Complete is calculated as BCWP/BCWS x 100, or SPI x 100.
+Given the values of BCWP and SPI, you would not be able to calculate the CPI. The CPI
+is calculated by dividing Earned Value (EV) by Actual Cost (AC). EV is also known as BCWP,
+and AC is also known as Actual Cost of Work Performed (ACWP).
+Given the values of BCWP and SPI, you would not be able to calculate the Return on
+Investment (ROI). The ROI is a percentage indicating the return on an investment.</explain>
 	</question>
 
+	<!-- 8 -->
 	<question>
-		<text>8. You changed the scope of your project because of a change in client-side quality procedures and norms. The project plan document and acceptance criteria were updated accordingly. What should be your next step?</text>
+		<text>You changed the scope of your project because of a change in client-side quality
+procedures and norms. The project plan document and acceptance criteria were updated
+accordingly. What should be your next step?</text>
 		<answers>
 			<answer is_right="false">prepare a version change report</answer>
 			<answer is_right="true">notify stakeholders as appropriate</answer>
 			<answer is_right="false">revise the company's quality management manual</answer>
 			<answer is_right="false">obtain formal acceptance from your sponsor and customer</answer>
 		</answers>
-		<explain>Your next step should be to notify stakeholders as appropriate. Scope changes might require modifications to cost, time, quality, or other project objectives. After you update the project plan document and acceptance criteria, you should notify stakeholders. Your next step should not be to prepare a version change report. You should inform the stakeholders about the updated documents before preparing version change reports. Your next step should not be to revise the company's quality management manual. A change in the client-side quality procedures and norms does not require a change in your company's quality management manual. These norms might cause some changes to the procedures you follow in this specific project, but would not affect the overall quality management system of your organization.
-Your next step should not be to obtain formal acceptance from your sponsor and customer. Obtaining formal acceptance from the sponsor or client happens before updating the project plan and acceptance criteria.
-</explain>
+		<explain>Your next step should be to notify stakeholders as appropriate. Scope changes might
+require modifications to cost, time, quality, or other project objectives. After you update
+the project plan document and acceptance criteria, you should notify stakeholders.
+Your next step should not be to prepare a version change report. You should inform the
+stakeholders about the updated documents before preparing version change reports.
+Your next step should not be to revise the company's quality management manual. A
+change in the client-side quality procedures and norms does not require a change in your
+company's quality management manual. These norms might cause some changes to the
+procedures you follow in this specific project, but would not affect the overall quality
+management system of your organization.
+Your next step should not be to obtain formal acceptance from your sponsor and
+customer. Obtaining formal acceptance from the sponsor or client happens before
+updating the project plan and acceptance criteria.</explain>
 	</question>
 
+	<!-- 9 -->
 	<question>
-		<text>9. You are the project manager for a Spring Field Ski Resort construction project, which is progressing as per the schedule. During the regular monthly project status meeting with the client, the senior management formally informed you that they want to stop the project work for an indefinite period of time due to insufficient funds. You returned from the meeting and asked your team to submit the report of tasks completed to date and requested a copy of the contract from your legal department. Which BEST describes this situation?</text>
+		<text>You are the project manager for a Spring Field Ski Resort construction project, which is
+progressing as per the schedule. During the regular monthly project status meeting with
+the client, the senior management formally informed you that they want to stop the
+project work for an indefinite period of time due to insufficient funds. You returned from
+the meeting and asked your team to submit the report of tasks completed to date and
+requested a copy of the contract from your legal department. Which BEST describes this
+situation?</text>
 		<answers>
 			<answer is_right="false">you have initiated Project Closure activities</answer>
 			<answer is_right="false">you have initiated Contract Closure activities</answer>
 			<answer is_right="false">you have initiated Performance Reporting activities</answer>
 			<answer is_right="true">you have initiated Scope Verification activities to establish the completion status</answer>
 		</answers>
-		<explain>The statement that best describes the situation is: you have initiated Scope Verification activities to establish the completion status.
-Scope Verification activities are necessary when the required deliverables are ready and the project is coming to a logical end or when the project is being terminated ahead of schedule. In this scenario, the client has requested that project work stop for an indefinite time period. This does not indicate that the project should be closed. You must refer to the contract to identify the provisions for this type of situation.
-You have not initiated Project Closure activities. Project Closure is not a valid process.
-You have not initiated Contract Closure activities. Contract Closure activities are initiated when closing the contract with a contractor or vendor, and not during project closure.
-You have not initiated Performance Reporting activities. Performance Reporting activities occur before Scope Verification. You should first obtain information on tasks and activities completed to date and only then proceed with Scope Verification activities. </explain>
+		<explain>The statement that best describes the situation is: you have initiated Scope
+Verification activities to establish the completion status.
+Scope Verification activities are necessary when the required deliverables are ready and
+the project is coming to a logical end or when the project is being terminated ahead of
+schedule. In this scenario, the client has requested that project work stop for an indefinite
+time period. This does not indicate that the project should be closed. You must refer to
+the contract to identify the provisions for this type of situation.
+You have not initiated Project Closure activities. Project Closure is not a valid
+process.
+You have not initiated Contract Closure activities. Contract Closure activities are
+initiated when closing the contract with a contractor or vendor, and not during project
+closure.
+You have not initiated Performance Reporting activities. Performance Reporting
+activities occur before Scope Verification. You should first obtain information on tasks and
+activities completed to date and only then proceed with Scope Verification activities.</explain>
 	</question>
 
+	<!-- 10 -->
 	<question>
-		<text>10. Halfway through a project, you do a variance analysis and find that the SPI is 0.8 and the SV is -$2000. What are the values for EV and PV respectively to date? // SPI – Shedule Performance Index  // SV – Schedule Variance  // EV – Earned Value // PV – Planned Value</text>
+		<text>Halfway through a project, you do a variance analysis and find that the SPI is 0.8 and the
+SV is -$2000. What are the values for EV and PV respectively to date?
+// SPI – Shedule Performance Index
+// SV – Schedule Variance
+// EV – Earned Value
+// PV – Planned Value</text>
 		<answers>
 			<answer is_right="false">$800 and $2,800</answer>
 			<answer is_right="true">$8,000 and $10,000</answer>
 			<answer is_right="false">$10,000 and $8,000</answer>
 			<answer is_right="false">the values cannot be calculated from available data</answer>
 		</answers>
-		<explain>The values for EV and PV are $8,000 and $10,000, respectively. Variance analysis is an effective tool to monitor and control project schedules. Schedule Variance (SV) is equal to Earned Value (EV) less Planned Value (PV), or EV - PV. Schedule Performance Index (SPI) is equal to EV divided by PV. In this scenario, the following equations can be solved simultaneously:
+		<explain>The values for EV and PV are $8,000 and $10,000, respectively. Variance analysis is an
+effective tool to monitor and control project schedules. Schedule Variance (SV) is equal to
+Earned Value (EV) less Planned Value (PV), or EV - PV. Schedule Performance Index (SPI) is
+equal to EV divided by PV. In this scenario, the following equations can be solved
+simultaneously:
 equation 1 EV - PV = -2000 ,
 equation 2 EV / PV = 0.8 .
 From the first equation, we can imply that EV = PV -2000.
-Substituting this value of EV in the second equation, we can solve as below: (PV - 2000)/PV = 0.8
+Substituting this value of EV in the second equation, we can solve as below:
+(PV - 2000)/PV = 0.8
 or PV - 2000 = 0.8 PV ,
 or 0.2 PV = 2000 ,
 or PV = 10000 .
-Therefore, EV = 8000.
-</explain>
+Therefore, EV = 8000.</explain>
 	</question>
 
+	<!-- 11 -->
 	<question>
-		<text>11. Which of the following processes do NOT use the outputs of the Performance Reporting process as inputs?</text>
+		<text>Which of the following processes do NOT use the outputs of the Performance Reporting
+process as inputs?</text>
 		<answers>
 			<answer is_right="false">Contract Administration</answer>
 			<answer is_right="false">Integrated Change Control</answer>
 			<answer is_right="true">Schedule Development</answer>
 			<answer is_right="false">Cost Control</answer>
 		</answers>
-		<explain>The Schedule Development process does not use the outputs of the Performance Reporting process as inputs. Schedule Development involves creating the project schedule, before starting work on the project. Performance Reporting involves reporting of progress on work performed on the project and how the project is proceeding, this would occur after work had begun. Several monitoring and controlling processes use Performance Reporting outputs as input.
-The Contract Administration process uses performance reports as an input. Reviewing project performance is important in managing the contract throughout the project.
-The Integrated Change Control process uses the requested changes and recommended corrective actions resulting from Performance Reporting as input. These changes are then either approved or rejected.
-The Cost Control process uses performance reports as an input. Reports indicating how the project is performing with regard to the budget are important in managing and controlling the costs for the project.
-</explain>
+		<explain>The Schedule Development process does not use the outputs of the Performance
+Reporting process as inputs. Schedule Development involves creating the project
+schedule, before starting work on the project. Performance Reporting involves reporting
+of progress on work performed on the project and how the project is proceeding, this
+would occur after work had begun. Several monitoring and controlling processes use
+Performance Reporting outputs as input.
+The Contract Administration process uses performance reports as an input.
+Reviewing project performance is important in managing the contract throughout the
+project.
+The Integrated Change Control process uses the requested changes and
+recommended corrective actions resulting from Performance Reporting as input. These
+changes are then either approved or rejected.
+The Cost Control process uses performance reports as an input. Reports indicating
+how the project is performing with regard to the budget are important in managing and
+controlling the costs for the project.</explain>
 	</question>
 
+	<!-- 12 -->
 	<question>
-		<text>12. Your current project can be summarized as: the EV is 750,000; the AC is 600,000; the PV is 500,000. // EV – Earned Value, AC – Actual Cost, PV – Planned Value What is your project's SPI (Schedule Performance Index)? </text>
+		<text>Your current project can be summarized as:
+the EV is 750,000; the AC is 600,000; the PV is 500,000.
+// EV – Earned Value, AC – Actual Cost, PV – Planned Value
+What is your project's SPI (Schedule Performance Index)?
+</text>
 		<answers>
 			<answer is_right="false">-3.0</answer>
 			<answer is_right="false">-1.5</answer>
 			<answer is_right="true">1.5</answer>
 			<answer is_right="false">3.0</answer>
 		</answers>
-		<explain>Your project's SPI is 1.5. The Schedule Performance Index (SPI) can be calculated using this formula: SPI = EV / PV .
-In this scenario, the SPI would be calculated as 750,000 / 500,000, or 1.5. This means your project is proceeding at approximately 150 percent of the rate you originally planned. SPI is a key indicator of project schedule performance. If SPI is greater than one, it indicates that the project is ahead of schedule, and if SPI is less than one then the project is slipping behind schedule. In this scenario, the SPI indicates that the project is slipping behind schedule.
-All of the other options are incorrect because they do not reflect the correct SPI value. </explain>
+		<explain>Your project's SPI is 1.5. The Schedule Performance Index (SPI) can be calculated using
+this formula: SPI = EV / PV .
+In this scenario, the SPI would be calculated as 750,000 / 500,000, or 1.5. This means your
+project is proceeding at approximately 150 percent of the rate you originally planned. SPI
+is a key indicator of project schedule performance. If SPI is greater than one, it indicates
+that the project is ahead of schedule, and if SPI is less than one then the project is slipping
+behind schedule. In this scenario, the SPI indicates that the project is slipping behind
+schedule.
+All of the other options are incorrect because they do not reflect the correct SPI value.</explain>
 	</question>
 
+	<!-- 13 -->
 	<question>
-		<text>13. You are examining a set of scope change requests on a project you took over after the previous project manager quit. To assess the degree to which the project scope will change, you need to compare the requests to which project document?</text>
+		<text>You are examining a set of scope change requests on a project you took over after the
+previous project manager quit. To assess the degree to which the project scope will
+change, you need to compare the requests to which project document?</text>
 		<answers>
 			<answer is_right="true">WBS</answer>
 			<answer is_right="false">project management plan</answer>
 			<answer is_right="false">project activity attributes</answer>
-			<answer is_right="false">scope management plan </answer>
+			<answer is_right="false">scope management plan</answer>
 		</answers>
-		<explain>You need to compare the requests to the Work Breakdown Structure (WBS). You will refer to the WBS because it identifies the scope of the project. Any modification to the approved WBS results in a scope change. To assess the degree of the scope change, the change request is compared to a scope baseline. The scope baseline of a project is defined by the detailed project scope statement, the WBS, and the WBS dictionary. You do not need to compare the requests to the project management plan. A project management plan helps manage project execution. You refer to the project management plan to assess the impact of the scope change on other areas of the project. You do not need to compare the requests to the project activity attributes. Activity attributes are characteristics of each of the scheduled project activities in the activity list. These attributes, such as the activity identifier, codes, activity description, logical relationships, and resources assigned, are used when developing the schedule. You do not need to compare the requests to the scope management plan. A scope management plan defines processes to manage scope changes. It cannot identify the scope change itself.
-</explain>
+		<explain>You need to compare the requests to the Work Breakdown Structure (WBS). You will
+refer to the WBS because it identifies the scope of the project. Any modification to the
+approved WBS results in a scope change. To assess the degree of the scope change, the
+change request is compared to a scope baseline. The scope baseline of a project is
+defined by the detailed project scope statement, the WBS, and the WBS dictionary.
+You do not need to compare the requests to the project management plan. A project
+management plan helps manage project execution. You refer to the project management
+plan to assess the impact of the scope change on other areas of the project.
+You do not need to compare the requests to the project activity attributes. Activity
+attributes are characteristics of each of the scheduled project activities in the activity list.
+These attributes, such as the activity identifier, codes, activity description, logical
+relationships, and resources assigned, are used when developing the schedule.
+You do not need to compare the requests to the scope management plan. A scope
+management plan defines processes to manage scope changes. It cannot identify the
+scope change itself.</explain>
 	</question>
 
+	<!-- 14 -->
 	<question>
-		<text>14. Integrated Change Control includes all of the following, EXCEPT:</text>
+		<text>Integrated Change Control includes all of the following, EXCEPT:</text>
 		<answers>
 			<answer is_right="false">cost change control</answer>
 			<answer is_right="false">scope change control</answer>
 			<answer is_right="true">billing change control</answer>
 			<answer is_right="false">schedule change control</answer>
 		</answers>
-		<explain>Integrated Change Control does not include billing change control. It includes scope change control, schedule change control, cost change control, quality control, and risk change control. Billing is an accounting function, which does not form a part of Integrated Change Control.
-Integrated Change Control includes cost change control because changes in the project cost may affect the overall performance of the project.
-Integrated Change Control includes scope change control because the changes in scope can affect the cost, risks, quality, and staffing in the project. It is important to manage the changes in the scope.
-Integrated Change Control includes schedule change control because a proposed schedule change in the project will often affect many other components such as cost, risk, quality, and staffing.
-</explain>
+		<explain>Integrated Change Control does not include billing change control. It includes scope
+change control, schedule change control, cost change control, quality control, and risk
+change control. Billing is an accounting function, which does not form a part of Integrated
+Change Control.
+Integrated Change Control includes cost change control because changes in the project
+cost may affect the overall performance of the project.
+Integrated Change Control includes scope change control because the changes in scope
+can affect the cost, risks, quality, and staffing in the project. It is important to manage the
+changes in the scope.
+Integrated Change Control includes schedule change control because a proposed
+schedule change in the project will often affect many other components such as cost, risk,
+quality, and staffing.</explain>
 	</question>
 
+	<!-- 15 -->
 	<question>
-		<text>15. Which of the following is the process of monitoring specific project results to determine if they comply with relevant quality standards and identifying ways to eliminate causes of unsatisfactory performance?</text>
+		<text>Which of the following is the process of monitoring specific project results to determine if
+they comply with relevant quality standards and identifying ways to eliminate causes of
+unsatisfactory performance?</text>
 		<answers>
 			<answer is_right="true">quality control</answer>
 			<answer is_right="false">quality assurance</answer>
 			<answer is_right="false">quality planning</answer>
 			<answer is_right="false">quality management</answer>
 		</answers>
-		<explain>Quality control is a management function to prevent production of a product or service that does not meet the outlined quality standards or is defective. Quality control involves monitoring specific project results to determine if they comply with relevant quality standards and identifying ways to eliminate causes of unsatisfactory performance. Quality assurance is all the planned and systematic activities implemented within the quality system to provide confidence that the project will satisfy the relevant quality standards.
-Quality management includes the processes required to ensure that the project will satisfy the needs for which it was undertaken. The processes included in quality management are Quality Planning, Perform Quality Assurance, and Perform Quality Control.
-Quality planning involves identifying which quality standards are relevant to the project and determining how to satisfy them.
-</explain>
+		<explain>Quality control is a management function to prevent production of a product or service
+that does not meet the outlined quality standards or is defective. Quality control involves
+monitoring specific project results to determine if they comply with relevant quality
+standards and identifying ways to eliminate causes of unsatisfactory performance.
+Quality assurance is all the planned and systematic activities implemented within the
+quality system to provide confidence that the project will satisfy the relevant quality
+standards.
+Quality management includes the processes required to ensure that the project will
+satisfy the needs for which it was undertaken. The processes included in quality
+management are Quality Planning, Perform Quality Assurance, and Perform Quality
+Control.
+Quality planning involves identifying which quality standards are relevant to the project
+and determining how to satisfy them.</explain>
 	</question>
 
+	<!-- 16 -->
 	<question>
-		<text>16. A project manager finds seven consecutive results in a control chart on the same side of the mean. What is the probability that this has happened due to random causes?</text>
+		<text>A project manager finds seven consecutive results in a control chart on the same side of
+the mean. What is the probability that this has happened due to random causes?</text>
 		<answers>
 			<answer is_right="false">0%</answer>
 			<answer is_right="true">1.56%</answer>
 			<answer is_right="false">2.56%</answer>
 			<answer is_right="false">3.12%</answer>
 		</answers>
-		<explain>The probability that random variations would result in seven or more consecutive results to be found on the same side of the mean is 1.56%. This is based on the Rule of Seven and indicates that the variation is due to an assignable cause and must be investigated.
-All of the other options are incorrect because they do not reflect the correct probability that random causes would have caused this.
-The Rule of Seven explains that the probability of seven consecutive results being on the same side of the mean is (1/2) raised to the power of 7. This equals 1.56%. Up to six consecutive variations on the same side could be attributable to random causes, but seven or more indicates that the probability of this being due to random causes is very low.
-</explain>
+		<explain>The probability that random variations would result in seven or more consecutive
+results to be found on the same side of the mean is 1.56%. This is based on the Rule of
+Seven and indicates that the variation is due to an assignable cause and must be
+investigated.
+All of the other options are incorrect because they do not reflect the correct probability
+that random causes would have caused this.
+The Rule of Seven explains that the probability of seven consecutive results being on
+the same side of the mean is (1/2) raised to the power of 7. This equals 1.56%. Up to six
+consecutive variations on the same side could be attributable to random causes, but
+seven or more indicates that the probability of this being due to random causes is very
+low.</explain>
 	</question>
 
+	<!-- 17 -->
 	<question>
-		<text>17. The customer, your management, and the other key stakeholders have agreed on the product and the systems requirements. The project is on schedule. A new regulatory requirement will now cause a change in one of the project performance specifications. What should be your FIRST step to ensure that this change is incorporated into the project plan?</text>
+		<text>The customer, your management, and the other key stakeholders have agreed on the
+product and the systems requirements. The project is on schedule. A new regulatory
+requirement will now cause a change in one of the project performance specifications.
+What should be your FIRST step to ensure that this change is incorporated into the
+project plan?</text>
 		<answers>
 			<answer is_right="true">prepare a change request</answer>
 			<answer is_right="false">meet with top management to discuss the matter</answer>
-			<answer is_right="false">change the WBS, project schedule and the project plan to reflect the new requirement</answer>
-			<answer is_right="false">immediately inform all affected stakeholders of the new approach to be taken on the project</answer>
+			<answer is_right="false">change the WBS, project schedule and the project plan to reflect the new
+requirement</answer>
+			<answer is_right="false">immediately inform all affected stakeholders of the new approach to be taken on
+the project</answer>
 		</answers>
-		<explain>You should first prepare a change request. To incorporate a change, the change control board must approve the change. Preparing a change request starts the process of calling a meeting and seeking approval. After the change request is approved or rejected, all stakeholders should be informed.
-You should not meet with top management to discuss the matter. Before meeting with top management, you should create a change request. This will serve as the agenda of the meeting with top management. After a change request is prepared, a meeting of the change control board can be called.
-You should not change the WBS, project schedule, and the project plan to reflect the new requirement. To change the WBS, project schedule, and the project plan to reflect the new requirement, these have to be approved by all stakeholders. A change request has to be prepared followed by a meeting of the change control board to seek approval of the changes. When the change control board approves the change, you can update the WBS, project schedule, and project plan to reflect the new requirement. You should not immediately inform all affected stakeholders of the new approach for the project. Stakeholders are informed after the change control board approves the proposed change and the appropriate project documents are updated.
-</explain>
+		<explain>You should first prepare a change request. To incorporate a change, the change control
+board must approve the change. Preparing a change request starts the process of calling a
+meeting and seeking approval. After the change request is approved or rejected, all
+stakeholders should be informed.
+You should not meet with top management to discuss the matter. Before meeting with
+top management, you should create a change request. This will serve as the agenda of
+the meeting with top management. After a change request is prepared, a meeting of the
+change control board can be called.
+You should not change the WBS, project schedule, and the project plan to reflect the
+new requirement. To change the WBS, project schedule, and the project plan to reflect
+the new requirement, these have to be approved by all stakeholders. A change request
+has to be prepared followed by a meeting of the change control board to seek approval of
+the changes. When the change control board approves the change, you can update the
+WBS, project schedule, and project plan to reflect the new requirement.
+You should not immediately inform all affected stakeholders of the new approach for
+the project. Stakeholders are informed after the change control board approves the
+proposed change and the appropriate project documents are updated.</explain>
 	</question>
 
+	<!-- 18 -->
 	<question>
-		<text>18. All of the following are inputs to the Schedule Control process, EXCEPT:</text>
+		<text>All of the following are inputs to the Schedule Control process, EXCEPT:</text>
 		<answers>
 			<answer is_right="false">approved change requests</answer>
 			<answer is_right="false">schedule baseline</answer>
 			<answer is_right="false">performance reports</answer>
 			<answer is_right="true">work breakdown structure</answer>
 		</answers>
-		<explain>The work breakdown structure is not an input to the Schedule Control process. It is an output of the Create WBS process and defines the detail scope of the project using a structured list of project deliverables. Schedule Control refers to the process of controlling the factors that affect the project schedule to ensure that such changes are agreed upon. It is also concerned with identifying and managing such changes as they occur in the project.
-Approved change requests are an input to the Schedule Control process. Change requests may occur from time to time during the project and could be oral or written. Such requests could originate internally or due to external factors and could widen or narrow the scope of the project.
-The schedule baseline, also known as the project schedule, is an input to the Schedule Control process. It shows the planned start and finish dates for each activity in the project.
-Performance reports are an input to the Schedule Control process. These reports present a summarized view of information on a project based on the formats laid out in the communications management plan.
-</explain>
+		<explain>The work breakdown structure is not an input to the Schedule Control process. It is an
+output of the Create WBS process and defines the detail scope of the project using a
+structured list of project deliverables. Schedule Control refers to the process of
+controlling the factors that affect the project schedule to ensure that such changes are
+agreed upon. It is also concerned with identifying and managing such changes as they
+occur in the project.
+Approved change requests are an input to the Schedule Control process. Change
+requests may occur from time to time during the project and could be oral or written.
+Such requests could originate internally or due to external factors and could widen or
+narrow the scope of the project.
+The schedule baseline, also known as the project schedule, is an input to the Schedule
+Control process. It shows the planned start and finish dates for each activity in the
+project.
+Performance reports are an input to the Schedule Control process. These reports
+present a summarized view of information on a project based on the formats laid out in
+the communications management plan.</explain>
 	</question>
 
+	<!-- 19 -->
 	<question>
-		<text>19. A Pareto diagram helps the project team to:</text>
+		<text>A Pareto diagram helps the project team to:</text>
 		<answers>
 			<answer is_right="false">forecast future problems</answer>
 			<answer is_right="false">display if the process is in control</answer>
 			<answer is_right="false">analyze causes of problems</answer>
 			<answer is_right="true">focus on the most significant problems</answer>
 		</answers>
-		<explain>A Pareto diagram helps the project team to focus on the most significant problems. A Pareto diagram is a bar chart based on the Pareto 80/20 law, which states that 80 percent of problems stem from 20 percent of the causes. It shows problems ranked in descending order of significance. It helps the project team to identify and focus on the most significant problems.
-To forecast future problems, you could use a scatter diagram, which is a tool for trend analysis. This diagram plots data on an X/Y axis to identify correlation between them. It helps in forecasting future trends.
-To analyze causes of problems, you could use a fishbone, or Ishikawa, diagram. This is a cause-effect diagram and helps in identifying the root causes of a quality problem by showing how various factors are linked to potential problems.
-To display if the process is in control, you could use a control chart, which is a graphic display of process results shown over a period of time to help determine if the process is in control. It shows if differences in results are due to random causes or unusual events that need to be identified and rectified.
-</explain>
+		<explain>A Pareto diagram helps the project team to focus on the most significant problems. A
+Pareto diagram is a bar chart based on the Pareto 80/20 law, which states that 80 percent
+of problems stem from 20 percent of the causes. It shows problems ranked in descending
+order of significance. It helps the project team to identify and focus on the most
+significant problems.
+To forecast future problems, you could use a scatter diagram, which is a tool for trend
+analysis. This diagram plots data on an X/Y axis to identify correlation between them. It
+helps in forecasting future trends.
+To analyze causes of problems, you could use a fishbone, or Ishikawa, diagram. This is a
+cause-effect diagram and helps in identifying the root causes of a quality problem by
+showing how various factors are linked to potential problems.
+To display if the process is in control, you could use a control chart, which is a graphic
+display of process results shown over a period of time to help determine if the process is
+in control. It shows if differences in results are due to random causes or unusual events
+that need to be identified and rectified.</explain>
 	</question>
 
+	<!-- 20 -->
 	<question>
-		<text>20. You need to modify your project's schedule because of severe project delays. Which activity would you NOT perform?</text>
+		<text>You need to modify your project's schedule because of severe project delays. Which
+activity would you NOT perform?</text>
 		<answers>
 			<answer is_right="false">rebaseline</answer>
-			<answer is_right="false">inform stakeholders</answer>
 			<answer is_right="true">recalculate the SPI (Schedule Performance Index)</answer>
+			<answer is_right="false">inform stakeholders</answer>
 			<answer is_right="false">update the project management plan</answer>
 		</answers>
-		<explain>You would not need to recalculate the Schedule Performance Index (SPI). The SPI indicates how the project is performing with regard to the schedule. You would recalculate this the next time you wanted to analyze schedule performance, but not after modifying the schedule.
-All of the other options are incorrect because these are all activities you perform when you modify the schedule.
-Note that you should not rebaseline unless the schedule variances are severe. </explain>
+		<explain>You would not need to recalculate the Schedule Performance Index (SPI). The SPI
+indicates how the project is performing with regard to the schedule. You would
+recalculate this the next time you wanted to analyze schedule performance, but not after
+modifying the schedule.
+All of the other options are incorrect because these are all activities you perform when
+you modify the schedule.
+Note that you should not rebaseline unless the schedule variances are severe.</explain>
 	</question>
 
+	<!-- 21 -->
 	<question>
-		<text>21. Which statement is true about a change control board?</text>
+		<text>Which statement is true about a change control board?</text>
 		<answers>
 			<answer is_right="false">a change control board is led by the project manager</answer>
 			<answer is_right="false">a change control board generates reports of the changes incurred on a project</answer>
 			<answer is_right="false">a change control board identifies the changes that might potentially be required</answer>
 			<answer is_right="true">a change control board is responsible for approving or rejecting change requests</answer>
 		</answers>
-		<explain>A change control board (CCB) is responsible for approving or rejecting change requests. A CCB is a formal body of individuals whose primary purpose is to review change requests and approve or reject them. The formal authority and responsibilities of the CCB are agreed to by all stakeholders and defined in the change control system. The change control board may include the project manager, stakeholders, experts, customers, or others who understand the project well enough to make the necessary decisions. A change control board is not always led by the project manager. In fact, in most cases the CCB is not lead by the project manager.
-A change control board does not generate reports of the changes incurred on a project. A change control board does not identify the changes that might potentially be required.
-</explain>
+		<explain>A change control board (CCB) is responsible for approving or rejecting change requests.
+A CCB is a formal body of individuals whose primary purpose is to review change requests
+and approve or reject them. The formal authority and responsibilities of the CCB are
+agreed to by all stakeholders and defined in the change control system. The change
+control board may include the project manager, stakeholders, experts, customers, or
+others who understand the project well enough to make the necessary decisions.
+A change control board is not always led by the project manager. In fact, in most cases
+the CCB is not lead by the project manager.
+A change control board does not generate reports of the changes incurred on a project.
+A change control board does not identify the changes that might potentially be
+required.</explain>
 	</question>
 
+	<!-- 22 -->
 	<question>
-		<text>22. Integrated Change Control involves all of the following activities, EXCEPT:</text>
+		<text>Integrated Change Control involves all of the following activities, EXCEPT:</text>
 		<answers>
 			<answer is_right="false">maintaining the original defined project scope</answer>
 			<answer is_right="false">incorporating the changes into a revised project baseline</answer>
 			<answer is_right="true">establishing a cost baseline for measuring project performance</answer>
 			<answer is_right="false">maintaining the integrity of the performance measurement baseline</answer>
 		</answers>
-		<explain>Integrated Change Control does not involve establishing a cost baseline for measuring project performance. The cost baseline for measuring project performance is established as a part of Cost Budgeting. This activity is performed under Project Cost Management. Integrated Change Control is a part of Project Integration Management. Under Integrated Change Control, the project scope is maintained, either by rejecting the changes or by accepting and incorporating the changes into the revised project baseline.
-Incorporating the changes into a revised project baseline is an essential activity under Integrated Change Control. Project management plan updates are the output of this activity.
-The integrity of the performance measurement baseline is maintained under Integrated Change Control by continuously managing changes to the baseline by either rejecting the changes or approving the changes and incorporating them into the revised project baseline.
-</explain>
+		<explain>Integrated Change Control does not involve establishing a cost baseline for measuring
+project performance. The cost baseline for measuring project performance is established
+as a part of Cost Budgeting. This activity is performed under Project Cost Management.
+Integrated Change Control is a part of Project Integration Management.
+Under Integrated Change Control, the project scope is maintained, either by rejecting
+the changes or by accepting and incorporating the changes into the revised project
+baseline.
+Incorporating the changes into a revised project baseline is an essential activity under
+Integrated Change Control. Project management plan updates are the output of this
+activity.
+The integrity of the performance measurement baseline is maintained under
+Integrated Change Control by continuously managing changes to the baseline by either
+rejecting the changes or approving the changes and incorporating them into the revised
+project baseline.</explain>
 	</question>
 
+	<!-- 23 -->
 	<question>
-		<text>23. You are a project manager of a large infrastructure development project. This project has experienced a change of scope, which has been approved by the stakeholders, and the WBS has been updated. Which of the following will require revision?</text>
+		<text>You are a project manager of a large infrastructure development project. This project has
+experienced a change of scope, which has been approved by the stakeholders, and the
+WBS has been updated. Which of the following will require revision?</text>
 		<answers>
 			<answer is_right="false">scope</answer>
 			<answer is_right="false">quality management plan</answer>
 			<answer is_right="true">schedule</answer>
 			<answer is_right="false">schedule management plan</answer>
 		</answers>
-		<explain>The schedule will require revision. Changes to the scope will lead to an update of the WBS. WBS updates often lead to schedule revisions.
-The scope will not require revision. The scope has already been revised by the change in the WBS.
-The quality management plan will not require revision. The quality management plan need not undergo changes due to a change in the WBS.
-The schedule management plan will not require revision. The schedule management plan describes how to manage changes to the schedule. This is defined in the planning process and is used to make changes to the schedule. The schedule management plan will not undergo a revision as a result of a change in scope.
-</explain>
+		<explain>The schedule will require revision. Changes to the scope will lead to an update of the
+WBS. WBS updates often lead to schedule revisions.
+The scope will not require revision. The scope has already been revised by the change
+in the WBS.
+The quality management plan will not require revision. The quality management plan
+need not undergo changes due to a change in the WBS.
+The schedule management plan will not require revision. The schedule management
+plan describes how to manage changes to the schedule. This is defined in the planning
+process and is used to make changes to the schedule. The schedule management plan will
+not undergo a revision as a result of a change in scope.</explain>
 	</question>
 
+	<!-- 24 -->
 	<question>
-		<text>24. You are in the process of preparing a performance appraisal for a team member. Which statement regarding performance appraisals is true?</text>
+		<text>You are in the process of preparing a performance appraisal for a team member. Which
+statement regarding performance appraisals is true?</text>
 		<answers>
-			<answer is_right="false">feedback for the review should be solicited only from the team member's supervisor</answer>
+			<answer is_right="false">feedback for the review should be solicited only from the team member's
+supervisor</answer>
 			<answer is_right="false">performance appraisals should always be written</answer>
 			<answer is_right="false">performance appraisals should include only positive feedback</answer>
-			<answer is_right="true">performance appraisals can be used to convey a redefinition of the team member's roles and responsibilities</answer>
+			<answer is_right="true">performance appraisals can be used to convey a redefinition of the team member's
+roles and responsibilities</answer>
 		</answers>
-		<explain>Performance appraisals can be used to convey a redefinition of the team member's roles and responsibilities. Performance appraisals are conducted throughout the execution of a project as part of managing the project team. Performance appraisals provide team members with feedback on their performance, but can also be used in identifying new issues, convey a redefinition of roles and responsibilities, and establish training plans and goals for team members.
-Feedback for the review should be solicited from many sources, including individuals in supervisory roles, colleagues, and subordinates. This concept is referred to as "360degree feedback". Performance appraisals can be informal and unwritten. However, for larger complex projects, they are usually in a written form. Organizational policies often dictate whether performance appraisals must be officially documented.
-Performance appraisals should include both positive and negative feedback. They should provide accurate assessment of the team member's performance, even if this is not positive.
-</explain>
+		<explain>Performance appraisals can be used to convey a redefinition of the team member's
+roles and responsibilities. Performance appraisals are conducted throughout the
+execution of a project as part of managing the project team. Performance appraisals
+provide team members with feedback on their performance, but can also be used in
+identifying new issues, convey a redefinition of roles and responsibilities, and establish
+training plans and goals for team members.
+Feedback for the review should be solicited from many sources, including individuals in
+supervisory roles, colleagues, and subordinates. This concept is referred to as "360degree feedback".
+Performance appraisals can be informal and unwritten. However, for larger complex
+projects, they are usually in a written form. Organizational policies often dictate whether
+performance appraisals must be officially documented.
+Performance appraisals should include both positive and negative feedback. They
+should provide accurate assessment of the team member's performance, even if this is
+not positive.</explain>
 	</question>
 
+	<!-- 25 -->
 	<question>
-		<text>25. You have assessed the schedule variance on your project and issued a revision to your project schedule. Your revision is approved. What should be your immediate next step?</text>
+		<text>You have assessed the schedule variance on your project and issued a revision to your
+project schedule. Your revision is approved. What should be your immediate next step?</text>
 		<answers>
 			<answer is_right="false">prepare a new schedule</answer>
 			<answer is_right="false">initiate a change request</answer>
 			<answer is_right="true">rebaseline the schedule</answer>
 			<answer is_right="false">prepare a performance report</answer>
 		</answers>
-		<explain>Your immediate next step should be to rebaseline the schedule. After a revision to the schedule is issued and approved, you should rebaseline the schedule and inform appropriate stakeholders of this new baseline.
-A project schedule serves as a schedule baseline and helps measure project schedule performance. This is the only schedule that is followed throughout the project. In case of revisions, the project schedule is rebaselined on agreement of all the stakeholders. A new schedule is not prepared.
-A change request is initiated when the project manager seeks approval on a revision to the project schedule.
-Performance reports provide information on schedule performance. These are used to determine if there is a schedule variance.
-</explain>
+		<explain>Your immediate next step should be to rebaseline the schedule. After a revision to the
+schedule is issued and approved, you should rebaseline the schedule and inform
+appropriate stakeholders of this new baseline.
+A project schedule serves as a schedule baseline and helps measure project schedule
+performance. This is the only schedule that is followed throughout the project. In case of
+revisions, the project schedule is rebaselined on agreement of all the stakeholders. A new
+schedule is not prepared.
+A change request is initiated when the project manager seeks approval on a revision to
+the project schedule.
+Performance reports provide information on schedule performance. These are used to
+determine if there is a schedule variance.</explain>
 	</question>
 
+	<!-- 26 -->
 	<question>
-		<text>26. Rather than use a WBS as you suggested, your team developed an SOW to define the project's work components. The client reviewed this document, uncovered that a scope change was needed, and a change request was subsequently written. This is an example of a change request that was the result of: // SOW – Statement Of Work</text>
+		<text>Rather than use a WBS as you suggested, your team developed an SOW to define the
+project's work components. The client reviewed this document, uncovered that a scope
+change was needed, and a change request was subsequently written. This is an example
+of a change request that was the result of:
+// SOW – Statement Of Work</text>
 		<answers>
 			<answer is_right="false">an external event</answer>
 			<answer is_right="false">a value-adding change</answer>
 			<answer is_right="false">an error in defining the product scope</answer>
 			<answer is_right="true">an error in defining the project scope</answer>
 		</answers>
-		<explain>This is an example of a change request that was the result of an error in defining the project scope. A statement of work (SOW) is a narrative description of products or services to be supplied under contract, whereas the Work Breakdown Structure (WBS) is a deliverable-oriented grouping of project components used to define the total scope of the project. Using an SOW instead of a WBS may result in a poorly defined scope and subsequent change request. Therefore, the change request in this scenario is due to an error in defining the project scope.
-This is not an example of a change request that was the result of external events. External events are events outside the project, such as a change in the government regulation. While these can also cause a change request, this was not the case in this scenario.
-This is not an example of a change request that was the result of a value-adding change. A value-adding change can cause a change request only when a change in the technology, which was non-existent at the time of defining the scope of the project, is adopted for project execution to reduce project cost or project time. This is not an example of a change request that was the result of an error in defining the product scope. An error in defining the product scope will result in a change request only in case of failure to include a required product feature while defining product scope. WBS is a deliverable-oriented grouping of project components used to define the total scope of the project. If an SOW is prepared in place of a WBS, it will result in improper definition of the project scope, not the product scope.
-</explain>
+		<explain>This is an example of a change request that was the result of an error in defining the
+project scope. A statement of work (SOW) is a narrative description of products or
+services to be supplied under contract, whereas the Work Breakdown Structure (WBS) is a
+deliverable-oriented grouping of project components used to define the total scope of
+the project. Using an SOW instead of a WBS may result in a poorly defined scope and
+subsequent change request. Therefore, the change request in this scenario is due to an
+error in defining the project scope.
+This is not an example of a change request that was the result of external events.
+External events are events outside the project, such as a change in the government
+regulation. While these can also cause a change request, this was not the case in this
+scenario.
+This is not an example of a change request that was the result of a value-adding
+change. A value-adding change can cause a change request only when a change in the
+technology, which was non-existent at the time of defining the scope of the project, is
+adopted for project execution to reduce project cost or project time.
+This is not an example of a change request that was the result of an error in defining
+the product scope. An error in defining the product scope will result in a change request
+only in case of failure to include a required product feature while defining product scope.
+WBS is a deliverable-oriented grouping of project components used to define the total
+scope of the project. If an SOW is prepared in place of a WBS, it will result in improper
+definition of the project scope, not the product scope.</explain>
 	</question>
 
+	<!-- 27 -->
 	<question>
-		<text>27. You are a project manager for a software development project for a U.S. client. Your project was budgeted for $1,230,000 for a period of 10 months. To prepare the schedule, you created a WBS and estimated the individual work items. The work was assigned to your team members as scheduled. Three months have passed, and things do not appear to be going as planned. According to your plan, the project should have cost $36,000 to date. However, it has cost $45,000 to date. The project is behind schedule. What has gone wrong?</text>
+		<text>You are a project manager for a software development project for a U.S. client. Your
+project was budgeted for $1,230,000 for a period of 10 months. To prepare the schedule,
+you created a WBS and estimated the individual work items. The work was assigned to
+your team members as scheduled. Three months have passed, and things do not appear
+to be going as planned. According to your plan, the project should have cost $36,000 to
+date. However, it has cost $45,000 to date. The project is behind schedule. What has
+gone wrong?</text>
 		<answers>
 			<answer is_right="false">the WBS created was incomplete</answer>
 			<answer is_right="false">activity sequencing was not properly done</answer>
 			<answer is_right="false">Monte Carlo simulation technique was not used</answer>
 			<answer is_right="true">the individual estimates should have been made by your team members</answer>
 		</answers>
-		<explain>The individual estimates should have been made by your team members. This allows for their buy-in for achieving the schedule and controlling it. In addition, the individual team members are most likely subject matter experts and can provide estimates that are more accurate.
-The information given in the question does not convey anything about incompleteness of the WBS.
-The information given in the question does not convey anything about incompleteness of Activity Sequencing.
-Monte Carlo Simulation technique simulates the outcome of a project and is not used for accurate estimation.
-</explain>
+		<explain>The individual estimates should have been made by your team members. This allows
+for their buy-in for achieving the schedule and controlling it. In addition, the individual
+team members are most likely subject matter experts and can provide estimates that are
+more accurate.
+The information given in the question does not convey anything about incompleteness
+of the WBS.
+The information given in the question does not convey anything about incompleteness
+of Activity Sequencing.
+Monte Carlo Simulation technique simulates the outcome of a project and is not used
+for accurate estimation.</explain>
 	</question>
 
+	<!-- 28 -->
 	<question>
-		<text>28. During a project for a client, there was urgency from the client to finish the project early. To fast track the project, you decided to subcontract work. The subcontractor fails to adhere to the schedule for the deliverable. As per the contract terms, you decide to levy a penalty of 20% of the value of the invoice for late delivery. What should you do next?</text>
+		<text>During a project for a client, there was urgency from the client to finish the project early.
+To fast track the project, you decided to subcontract work.
+The subcontractor fails to adhere to the schedule for the deliverable. As per the contract
+terms, you decide to levy a penalty of 20% of the value of the invoice for late delivery.
+What should you do next?</text>
 		<answers>
 			<answer is_right="false">submit a change request</answer>
 			<answer is_right="true">give a performance report</answer>
 			<answer is_right="false">generate a payment request</answer>
 			<answer is_right="false">inform the seller of the default</answer>
 		</answers>
-		<explain>Next, you should give a performance report. Performance reporting provides details on the subcontractor regarding various parameters like, schedule, quality, etc. Because in this case there is no mention of the invoices that have been submitted, you can give a performance report stating the delay and the reference to the contract. When the seller submits the invoices, then based on this report his payment will be adjusted accordingly. You should not submit a change request. Submitting a change request is out of context here. A change request would be submitted if the scope outlined in the contract needed to be modified.
-You should not generate a payment request. A payment request does not arise until the seller has submitted the invoices.
-You should not inform the seller of the default. The seller will be aware about the delay and the default cause.
-</explain>
+		<explain>Next, you should give a performance report. Performance reporting provides details on
+the subcontractor regarding various parameters like, schedule, quality, etc. Because in
+this case there is no mention of the invoices that have been submitted, you can give a
+performance report stating the delay and the reference to the contract. When the seller
+submits the invoices, then based on this report his payment will be adjusted accordingly.
+You should not submit a change request. Submitting a change request is out of context
+here. A change request would be submitted if the scope outlined in the contract needed
+to be modified.
+You should not generate a payment request. A payment request does not arise until
+the seller has submitted the invoices.
+You should not inform the seller of the default. The seller will be aware about the delay
+and the default cause.</explain>
 	</question>
 
+	<!-- 29 -->
 	<question>
-		<text>29. What is a project's scope change control system?</text>
+		<text>What is a project's scope change control system?</text>
 		<answers>
 			<answer is_right="false">a set of procedures that define how the project schedule might be changed</answer>
-			<answer is_right="false">a set of procedures that define how the SOW can be amended and contracts will be modified</answer>
-			<answer is_right="false">// SOW – Statement Of Work a collection of formal documents and procedures to define the steps that will be used to change official project documents</answer>
-			<answer is_right="true">a set of procedures to define how scope might be changed, including the paper work, tracking systems and approval levels necessary for authorizing change</answer>
+			<answer is_right="false">a set of procedures that define how the SOW can be amended and contracts will be
+modified</answer>
+			<answer is_right="false">a collection of formal documents and procedures to define the steps that will be
+used to change official project documents</answer>
+			<answer is_right="true">a set of procedures to define how scope might be changed, including the paper
+work, tracking systems and approval levels necessary for authorizing change</answer>
 		</answers>
-		<explain>The project's scope change control system is a set of procedures that define how the scope may be changed. It also includes the paper work, tracking systems, and approval levels necessary for authorizing change.
-The change control system comprises a set of procedures to define how official project documents might be changed.
-The contract change control system contains a set of procedures for amending SOWs and contracts.
-The schedule change control system contains a set of procedures that define how the project schedule might be changed.
-</explain>
+		<explain>The project's scope change control system is a set of procedures that define how the
+scope may be changed. It also includes the paper work, tracking systems, and approval
+levels necessary for authorizing change.
+The change control system comprises a set of procedures to define how official project
+documents might be changed.
+The contract change control system contains a set of procedures for amending SOWs
+and contracts.
+The schedule change control system contains a set of procedures that define how the
+project schedule might be changed.</explain>
 	</question>
 
+	<!-- 30 -->
 	<question>
-		<text>30. All of these are conflict resolution techniques, EXCEPT:</text>
+		<text>All of these are conflict resolution techniques, EXCEPT:</text>
 		<answers>
 			<answer is_right="false">avoidance</answer>
-			<answer is_right="false">confronting</answer>
 			<answer is_right="true">discussion</answer>
+			<answer is_right="false">confronting</answer>
 			<answer is_right="false">compromising</answer>
 		</answers>
-		<explain>Discussion is not a conflict resolution technique. Conflict resolution techniques are confronting (problem-solving), compromising, withdrawal (avoidance), smoothing, and forcing. Although discussion is not a conflict resolution technique, it would be required when any one of the mentioned techniques need to be used.
-Avoidance, or withdrawal, involves retreating or postponing the decision on a problem. This is normally never a good choice for conflict resolution.
-Confronting deals with solving the real problem. The people involved can best diffuse the problem or the situation. This conflict resolution technique is more of a democratic approach where both parties deliberate and arrive at a solution.
-Compromising deals with arriving at solution that requires both the parties to give up some things and brings satisfaction to both the parties.
-</explain>
+		<explain>Discussion is not a conflict resolution technique. Conflict resolution techniques are
+confronting (problem-solving), compromising, withdrawal (avoidance), smoothing, and
+forcing. Although discussion is not a conflict resolution technique, it would be required
+when any one of the mentioned techniques need to be used.
+Avoidance, or withdrawal, involves retreating or postponing the decision on a problem.
+This is normally never a good choice for conflict resolution.
+Confronting deals with solving the real problem. The people involved can best diffuse
+the problem or the situation. This conflict resolution technique is more of a democratic
+approach where both parties deliberate and arrive at a solution.
+Compromising deals with arriving at solution that requires both the parties to give up
+some things and brings satisfaction to both the parties.</explain>
 	</question>
 
+	<!-- 31 -->
 	<question>
-		<text>31. Earned Value Analysis is the most commonly used tool for measuring project performance. This method uses performance indicators that require all of the following values, EXCEPT:</text>
+		<text>Earned Value Analysis is the most commonly used tool for measuring project
+performance. This method uses performance indicators that require all of the following
+values, EXCEPT:</text>
 		<answers>
 			<answer is_right="false">Budgeted Cost of Work Performed</answer>
 			<answer is_right="false">Actual Cost of Work Performed</answer>
 			<answer is_right="false">Budgeted Cost of Work Scheduled</answer>
 			<answer is_right="true">Actual Cost of Work Scheduled</answer>
 		</answers>
-		<explain>Earned Value Analysis does not require the value of Actual Cost of Work Scheduled (ACWS). Earned Value Analysis is the most common tool used for Performance Reporting. It measures project performance by calculating powerful indicators including Cost Variance (CV), Schedule Variance (SV), Cost Performance Index (CPI), and Schedule Performance Index (SPI). To compute these indicators, you need to know the values for Budgeted Cost of Work Performed (BCWP), also known as Earned Value (EV), Actual Cost of Work Performed (ACWP), also known as Actual Cost (AC), and Budgeted Cost of Work Scheduled (BCWS), also known as Planned Value (PV).
+		<explain>Earned Value Analysis does not require the value of Actual Cost of Work Scheduled
+(ACWS). Earned Value Analysis is the most common tool used for Performance Reporting.
+It measures project performance by calculating powerful indicators including Cost
+Variance (CV), Schedule Variance (SV), Cost Performance Index (CPI), and Schedule
+Performance Index (SPI). To compute these indicators, you need to know the values for
+Budgeted Cost of Work Performed (BCWP), also known as Earned Value (EV), Actual Cost
+of Work Performed (ACWP), also known as Actual Cost (AC), and Budgeted Cost of Work
+Scheduled (BCWS), also known as Planned Value (PV).
 The following formulas are used to calculate CV and SV:
 CV = EV – AC ,
 SV = EV – PV .
-If CV&gt;0, the project is under budget, and if CV&lt;0, the project is overspent. If SV&gt;0, the project is ahead of schedule, and if SV&lt;0, the project is behind schedule. The following formulas are used to calculate CPI and SPI:
+If CV>0, the project is under budget, and if CV<0, the project is overspent. If SV>0, the
+project is ahead of schedule, and if SV<0, the project is behind schedule.
+The following formulas are used to calculate CPI and SPI:
 CPI = EV / AC ,
 SPI = EV / PV .
-If CPI&gt;1, it indicates that the project team has spent more than planned, and vice versa if CPI&lt;1. If SPI&gt;1, it indicates that the project team is ahead of schedule, and vice versa if SPI&lt;1.
-</explain>
+If CPI>1, it indicates that the project team has spent more than planned, and vice versa if
+CPI<1. If SPI>1, it indicates that the project team is ahead of schedule, and vice versa if
+SPI<1.</explain>
 	</question>
 
+	<!-- 32 -->
 	<question>
-		<text>32. Which of the following is NOT an output of the Cost Control process?</text>
+		<text>Which of the following is NOT an output of the Cost Control process?</text>
 		<answers>
 			<answer is_right="true">cost baseline</answer>
 			<answer is_right="false">budget updates</answer>
 			<answer is_right="false">revised cost estimates</answer>
 			<answer is_right="false">Estimate at Completion</answer>
 		</answers>
-		<explain>Cost baseline is not an output of the Cost Control process. Cost baseline is an output of the Cost Budgeting process and an input to the Cost Control process. Outputs of Cost Control include cost estimate updates, cost baseline updates, performance measurements, forecasted completion, requested changes, recommended corrective actions, organizational process asset updates (specifically lessons learned), and project management plan updates. The cost baseline of a project is the sum of cost estimates over a time period. This baseline is usually displayed with the help of an S-Curve, which plots cumulative costs on the y-axis against time on the x axis.
-The cost baseline is used to measure and monitor the project cost performance. Budget updates are updates to the cost baseline that are an output of the Cost Control process.
-Revised cost estimates are an output of the Cost Control process and refer to the modifications to cost-related information on the project.
-Estimate at Completion (EAC) is an output of the Cost Control process and refers to a forecast of expected total project costs based on project performance to date and an evaluation of expected future project performance.
-</explain>
+		<explain>Cost baseline is not an output of the Cost Control process. Cost baseline is an output of
+the Cost Budgeting process and an input to the Cost Control process. Outputs of Cost
+Control include cost estimate updates, cost baseline updates, performance
+measurements, forecasted completion, requested changes, recommended corrective
+actions, organizational process asset updates (specifically lessons learned), and project
+management plan updates. The cost baseline of a project is the sum of cost estimates
+over a time period. This baseline is usually displayed with the help of an S-Curve, which
+plots cumulative costs on the y-axis against time on the x axis.
+The cost baseline is used to measure and monitor the project cost performance.
+Budget updates are updates to the cost baseline that are an output of the Cost Control
+process.
+Revised cost estimates are an output of the Cost Control process and refer to the
+modifications to cost-related information on the project.
+Estimate at Completion (EAC) is an output of the Cost Control process and refers to a
+forecast of expected total project costs based on project performance to date and an
+evaluation of expected future project performance.</explain>
 	</question>
 
+	<!-- 33 -->
 	<question>
-		<text>33. Which of the following choices is NOT an output of the Manage Stakeholders process?</text>
+		<text>Which of the following choices is NOT an output of the Manage Stakeholders process?</text>
 		<answers>
 			<answer is_right="true">performance reports</answer>
 			<answer is_right="false">resolved issues</answer>
 			<answer is_right="false">updates to the organizational process assets</answer>
 			<answer is_right="false">approved corrective actions</answer>
 		</answers>
-		<explain>Performance reports are not an output of the Manage Stakeholders process. Performance reports are an output of the Performance Reporting process. The outputs of the Manage Stakeholders process are resolved issues, approved change requests, approved corrective actions, any updates to organizational process assets, and any updates to the project management plan.
-</explain>
+		<explain>Performance reports are not an output of the Manage Stakeholders process.
+Performance reports are an output of the Performance Reporting process.
+The outputs of the Manage Stakeholders process are resolved issues, approved change
+requests, approved corrective actions, any updates to organizational process assets, and
+any updates to the project management plan.</explain>
 	</question>
 
+	<!-- 34 -->
 	<question>
-		<text>34. Which of the following is NOT an input to the Perform Quality Control process?</text>
+		<text>Which of the following is NOT an input to the Perform Quality Control process?</text>
 		<answers>
 			<answer is_right="false">deliverables</answer>
 			<answer is_right="false">quality management plan</answer>
 			<answer is_right="false">quality metrics</answer>
 			<answer is_right="true">standards and regulations</answer>
 		</answers>
-		<explain>Standards and regulations are an enterprise environmental factor used as an input to Quality Planning, and not to Perform Quality Control. Standards and regulations are also used as input in other initiating and planning processes. A standard is a document approved by a recognized body that provides rules, guidelines, or characteristics for products, processes or services with which compliance is not mandatory. A regulation is a document that specifies product, process, or service characteristics with which it is mandatory to comply. The project team must consider any application area specific standard regulation that may affect the project. Inputs to Perform Quality Control include the quality management plan, quality metrics, quality checklists, organizational process assets, work performance information, approved change requests, and deliverables. Deliverables are outputs of activities performed to accomplish the project. It includes both process results and product results, and is an input to Perform Quality Control. The quality management plan describes how the project management team will implement its quality policy. It is an input to Perform Quality Control. Quality metrics, when applied to data collection, are a clear, concise detailed definition of a measure. The need for quality metrics is fundamental when collecting all types of data. It is particularly important when a decision is being made about whether or not something is correct, or when a visual check is being made where there is a possibility for confusion. Quality metrics are an input to Perform Quality Control.
-</explain>
+		<explain>Standards and regulations are an enterprise environmental factor used as an input to
+Quality Planning, and not to Perform Quality Control. Standards and regulations are also
+used as input in other initiating and planning processes. A standard is a document
+approved by a recognized body that provides rules, guidelines, or characteristics for
+products, processes or services with which compliance is not mandatory. A regulation is a
+document that specifies product, process, or service characteristics with which it is
+mandatory to comply. The project team must consider any application area specific
+standard regulation that may affect the project. Inputs to Perform Quality Control include
+the quality management plan, quality metrics, quality checklists, organizational process
+assets, work performance information, approved change requests, and deliverables.
+Deliverables are outputs of activities performed to accomplish the project. It includes
+both process results and product results, and is an input to Perform Quality Control.
+The quality management plan describes how the project management team will
+implement its quality policy. It is an input to Perform Quality Control.
+Quality metrics, when applied to data collection, are a clear, concise detailed definition
+of a measure. The need for quality metrics is fundamental when collecting all types of
+data. It is particularly important when a decision is being made about whether or not
+something is correct, or when a visual check is being made where there is a possibility for
+confusion. Quality metrics are an input to Perform Quality Control.</explain>
 	</question>
 
+	<!-- 35 -->
 	<question>
-		<text>35. The free float and total float for Activity A are 12 days and 15 days, respectively. If the Early Start of Activity A is delayed by 15 days, how will this affect the project?</text>
+		<text>The free float and total float for Activity A are 12 days and 15 days, respectively. If the
+Early Start of Activity A is delayed by 15 days, how will this affect the project?</text>
 		<answers>
-			<answer is_right="false">the Early Start of succeeding Activity B is delayed by two days, and the project finish date is not affected</answer>
-			<answer is_right="true">the Early Start of succeeding Activity B is delayed by three days, and the project finish date is not affected</answer>
-			<answer is_right="false">the Early Start of succeeding Activity B is delayed by three days, and the project finish date is delayed by two days</answer>
-			<answer is_right="false">the Early Start of succeeding Activity B is delayed by three days, and the project finish date is delayed by three days</answer>
+			<answer is_right="false">the Early Start of succeeding Activity B is delayed by two days, and the project finish
+date is not affected</answer>
+			<answer is_right="true">the Early Start of succeeding Activity B is delayed by three days, and the project
+finish date is not affected</answer>
+			<answer is_right="false">the Early Start of succeeding Activity B is delayed by three days, and the project
+finish date is delayed by two days</answer>
+			<answer is_right="false">the Early Start of succeeding Activity B is delayed by three days, and the project
+finish date is delayed by three days</answer>
 		</answers>
-		<explain>In this scenario, the Early Start of succeeding Activity B is delayed by three days, and the project finish date is not affected. Because the free float (FF) for Activity A is 12 days, a delay of 15 days in its Early Start will cause the succeeding Activity B to be delayed by three days. FF refers to the amount of time that you can delay an activity on a project without affecting the Early Start date of a succeeding activity. Total float (TF) refers to the amount of time that you can delay an activity on a project without affecting the finish date of the project. Because the TF for Activity A is 15 days, a delay of 15 days in its Early Start will not affect the project finish date.
-All of the other options are incorrect because they do not reflect the correct result. </explain>
+		<explain>In this scenario, the Early Start of succeeding Activity B is delayed by three days, and
+the project finish date is not affected. Because the free float (FF) for Activity A is 12 days,
+a delay of 15 days in its Early Start will cause the succeeding Activity B to be delayed by
+three days. FF refers to the amount of time that you can delay an activity on a project
+without affecting the Early Start date of a succeeding activity. Total float (TF) refers to the
+amount of time that you can delay an activity on a project without affecting the finish
+date of the project. Because the TF for Activity A is 15 days, a delay of 15 days in its Early
+Start will not affect the project finish date.
+All of the other options are incorrect because they do not reflect the correct result.</explain>
 	</question>
 
+	<!-- 36 -->
 	<question>
-		<text>36. You are managing an eight-month project for one of your high-profile clients. The project has a budget of $800,000, specifically $100,000 per month. At the end of the third month, you are 30 percent complete and have expended $200,000 of your budget. What is your CV? // CV – Cost Variance</text>
+		<text>You are managing an eight-month project for one of your high-profile clients. The project
+has a budget of $800,000, specifically $100,000 per month. At the end of the third month,
+you are 30 percent complete and have expended $200,000 of your budget. What is your
+CV?
+// CV – Cost Variance</text>
 		<answers>
 			<answer is_right="false">-$40,000</answer>
 			<answer is_right="false">+$25,000</answer>
 			<answer is_right="false">-$20,000</answer>
-			<answer is_right="true">+$40,000 </answer>
+			<answer is_right="true">+$40,000</answer>
 		</answers>
-		<explain>Your Cost Variance (CV) is +$40,000. To arrive at the CV, you must first calculate the EV, as follows: BAC = $800,000
+		<explain>Your Cost Variance (CV) is +$40,000. To arrive at the CV, you must first calculate the EV,
+as follows: BAC = $800,000
 AC = $200,000
 EV = BAC x percent complete = $800,000 x .30 = $240,000 .
 Then, you can use this formula to calculate the CV:
 CV = EV - AC = $240,000 - $200,000 = $40,000.
-All of the other options are incorrect because they do not reflect the correct CV value. </explain>
+All of the other options are incorrect because they do not reflect the correct CV value.</explain>
 	</question>
 
+	<!-- 37 -->
 	<question>
-		<text>37. You identify a risk during project execution, which was not anticipated during the Risk Management Planning process. Which of the following tasks will you need to perform to control this risk?</text>
+		<text>You identify a risk during project execution, which was not anticipated during the Risk
+Management Planning process. Which of the following tasks will you need to perform to
+control this risk?</text>
 		<answers>
 			<answer is_right="false">risk quantification</answer>
 			<answer is_right="false">categorization of the risk</answer>
 			<answer is_right="true">additional risk response planning</answer>
 			<answer is_right="false">assessment of the impact of the risk</answer>
 		</answers>
-		<explain>Additional risk response planning, or risk reassessment, is done when a risk, which was not anticipated, occurs during a project or the impact of a documented risk is greater than expected. This is a continuous process, which occurs during the project life cycle. Risk quantification is assessing the impact of a risk in terms of a numerical value. During qualitative and quantitative risk analysis, the impact of various risks is evaluated. In this scenario, this action will be triggered after the additional risk response planning begins. Categorizing risks is a part of the Risk Identification process. In this scenario, the additional risk response planning will include this process.
-</explain>
+		<explain>Additional risk response planning, or risk reassessment, is done when a risk, which was
+not anticipated, occurs during a project or the impact of a documented risk is greater
+than expected. This is a continuous process, which occurs during the project life cycle.
+Risk quantification is assessing the impact of a risk in terms of a numerical value. During
+qualitative and quantitative risk analysis, the impact of various risks is evaluated. In this
+scenario, this action will be triggered after the additional risk response planning begins.
+Categorizing risks is a part of the Risk Identification process. In this scenario, the
+additional risk response planning will include this process.</explain>
 	</question>
 
+	<!-- 38 -->
 	<question>
-		<text>38. To assess the status on your project, you call a meeting of the project team and analyze the project performance based on earned value figures as of today. You find that some of the activities are behind schedule and that the organization is spending more than the planned costs on other activities. Which of the following would be an output of this meeting?</text>
+		<text>To assess the status on your project, you call a meeting of the project team and analyze
+the project performance based on earned value figures as of today. You find that some of
+the activities are behind schedule and that the organization is spending more than the
+planned costs on other activities. Which of the following would be an output of this
+meeting?</text>
 		<answers>
 			<answer is_right="false">rework</answer>
 			<answer is_right="true">change requests</answer>
 			<answer is_right="false">lessons learned</answer>
 			<answer is_right="false">approved corrective actions</answer>
 		</answers>
-		<explain>Change requests would be an output of this meeting. Change requests come up after an analysis of project performance and these requested changes are an output of the Performance Reporting process. Change requests refer to requests made to change some aspects of the project based on performance evaluation. Requested changes are an input to the Integrated Change Control process.
-Rework is an output of the Perform Quality Control process and refers to actions taken to bring nonconforming project outcomes in line with project requirements or specifications.
-Lessons learned document the causes of variances in project performance, the detailing of reasons for all corrective actions taken and other lessons learned in controlling various aspects of the project.
-Approved corrective actions refers to approved actions taken to align the expected future project performance with the project plan. While recommended corrective actions might be an output of this meeting, these recommended corrective actions would need to go through the change control process to be approved.
-</explain>
+		<explain>Change requests would be an output of this meeting. Change requests come up after
+an analysis of project performance and these requested changes are an output of the
+Performance Reporting process. Change requests refer to requests made to change some
+aspects of the project based on performance evaluation. Requested changes are an input
+to the Integrated Change Control process.
+Rework is an output of the Perform Quality Control process and refers to actions taken
+to bring nonconforming project outcomes in line with project requirements or
+specifications.
+Lessons learned document the causes of variances in project performance, the
+detailing of reasons for all corrective actions taken and other lessons learned in
+controlling various aspects of the project.
+Approved corrective actions refers to approved actions taken to align the expected
+future project performance with the project plan. While recommended corrective actions
+might be an output of this meeting, these recommended corrective actions would need
+to go through the change control process to be approved.</explain>
 	</question>
 
+	<!-- 39 -->
 	<question>
-		<text>39. Poor quality planning in a software development project has caused the results not to conform to client specifications. This is detected during an inspection, and forces the team to redo some of the project work. This rework costs the company approximately $25,000. How much of this cost is attributable to management?</text>
+		<text>Poor quality planning in a software development project has caused the results not to
+conform to client specifications. This is detected during an inspection, and forces the
+team to redo some of the project work. This rework costs the company approximately
+$25,000. How much of this cost is attributable to management?</text>
 		<answers>
 			<answer is_right="false">$0</answer>
-			<answer is_right="false">$12,500</answer>
 			<answer is_right="false">$3,750</answer>
+			<answer is_right="false">$12,500</answer>
 			<answer is_right="true">$21,250</answer>
 		</answers>
-		<explain>According to Deming, 85 percent of all quality problems are management problems. Therefore, in this scenario, $21,250 or 85% of $25,000 would be attributable to management. The employees or the project team are responsible for the balance $3,750, or 15% of $25,000.
-All of the other options are incorrect because they do not reflect the correct cost that is attributable to management.
-</explain>
+		<explain>According to Deming, 85 percent of all quality problems are management problems.
+Therefore, in this scenario, $21,250 or 85% of $25,000 would be attributable to
+management. The employees or the project team are responsible for the balance $3,750,
+or 15% of $25,000.
+All of the other options are incorrect because they do not reflect the correct cost that is
+attributable to management.</explain>
 	</question>
 
+	<!-- 40 -->
 	<question>
-		<text>40. Which of the following would be true for a project if an organization has spent money on the project to crash the project schedule?</text>
+		<text>Which of the following would be true for a project if an organization has spent money on
+the project to crash the project schedule?
+
+// CV – Cost Variance
+// SV – Schedule Variance</text>
 		<answers>
 			<answer is_right="false">both CV and SV are positive</answer>
 			<answer is_right="false">both CV and SV are negative</answer>
 			<answer is_right="false">CV is positive and SV is negative</answer>
 			<answer is_right="true">CV is negative and SV is positive</answer>
 		</answers>
-		<explain>// CV – Cost Variance // SV – Schedule Variance If an organization has spent money on a project to crash the project schedule, the Cost Variance (CV) is negative and Schedule Variance (SV) is positive. According to Earned Value Management theory, CV is the difference between Earned Value (EV) and Actual Cost (AC). SV is the difference between EV and Planned Value (PV). If CV is positive, the project is under budget, and if CV is negative, the project is overspent. If SV is positive, the project is ahead of schedule, and if SV is negative, the project is behind schedule. If CV is negative, but SV is positive, the project is ahead of schedule but more has been spent on the project than planned. This usually happens when the organization spends money to crash the project schedule and try to finish some tasks ahead of the planned schedule.
-If CV is positive and SV is negative, the project is behind schedule and it is likely that not enough resources have been applied.
-If both CV and SV are positive, the project is under budget and ahead of schedule. This is the perfect situation for any project.
-If both CV and SV are negative, the project is overspent and behind schedule. This is the worst situation for any project.
-</explain>
+		<explain>If an organization has spent money on a project to crash the project schedule, the Cost
+Variance (CV) is negative and Schedule Variance (SV) is positive. According to Earned
+Value Management theory, CV is the difference between Earned Value (EV) and Actual
+Cost (AC). SV is the difference between EV and Planned Value (PV). If CV is positive, the
+project is under budget, and if CV is negative, the project is overspent. If SV is positive,
+the project is ahead of schedule, and if SV is negative, the project is behind schedule.
+If CV is negative, but SV is positive, the project is ahead of schedule but more has been
+spent on the project than planned. This usually happens when the organization spends
+money to crash the project schedule and try to finish some tasks ahead of the planned
+schedule.
+If CV is positive and SV is negative, the project is behind schedule and it is likely that
+not enough resources have been applied.
+If both CV and SV are positive, the project is under budget and ahead of schedule. This
+is the perfect situation for any project.
+If both CV and SV are negative, the project is overspent and behind schedule. This is
+the worst situation for any project.</explain>
 	</question>
 
+	<!-- 41 -->
 	<question>
-		<text>41. The Cost Control process in Project Cost Management includes all of the following, EXCEPT:</text>
+		<text>The Cost Control process in Project Cost Management includes all of the following,
+EXCEPT:</text>
 		<answers>
 			<answer is_right="false">informing stakeholders of authorized changes</answer>
 			<answer is_right="false">monitoring cost performance to detect variances</answer>
 			<answer is_right="false">ensuring that cost changes are recorded appropriately</answer>
 			<answer is_right="true">establishing a cost baseline for tracking project performance</answer>
 		</answers>
-		<explain>The Cost Control process does not involve establishing a cost baseline for tracking project performance. This is part of the Cost Budgeting process, which precedes the Cost Control process. The cost baseline is a time-phased budget used for measuring and monitoring cost performance on the project. It is an output of the Cost Budgeting process and an input to the Cost Control process.
-All of the other options are incorrect because they are included in the Cost Control process. Cost Control refers to the process of gathering, analyzing, reporting, and monitoring project costs on an ongoing basis. Cost Control includes influencing the factors that change the cost baseline, determining that the cost baseline has changed, and managing these changes as they occur during the project. Cost Control also includes informing the project stakeholders, especially the upper management, of authorized changes.
-</explain>
+		<explain>The Cost Control process does not involve establishing a cost baseline for tracking
+project performance. This is part of the Cost Budgeting process, which precedes the Cost
+Control process. The cost baseline is a time-phased budget used for measuring and
+monitoring cost performance on the project. It is an output of the Cost Budgeting process
+and an input to the Cost Control process.
+All of the other options are incorrect because they are included in the Cost Control
+process. Cost Control refers to the process of gathering, analyzing, reporting, and
+monitoring project costs on an ongoing basis. Cost Control includes influencing the factors
+that change the cost baseline, determining that the cost baseline has changed, and
+managing these changes as they occur during the project. Cost Control also includes
+informing the project stakeholders, especially the upper management, of authorized
+changes.</explain>
 	</question>
 
+	<!-- 42 -->
 	<question>
-		<text>42. You are managing a project that was originally scheduled to take 12 months to complete. The original budget was $486,000, or $40,500 each month. At the end of the month, you are evaluating progress. You have completed 40 percent of the work and have $90,000 remaining of your budget. What is your EAC (Estimate At Completion)?</text>
+		<text>You are managing a project that was originally scheduled to take 12 months to complete.
+The original budget was $486,000, or $40,500 each month. At the end of the month, you
+are evaluating progress. You have completed 40 percent of the work and have $90,000
+remaining of your budget. What is your EAC (Estimate At Completion)?</text>
 		<answers>
 			<answer is_right="false">$194,400</answer>
 			<answer is_right="false">$396,000</answer>
 			<answer is_right="false">$595,836.73</answer>
-			<answer is_right="true">$991,836.73 </answer>
+			<answer is_right="true">$991,836.73</answer>
 		</answers>
-		<explain>Your Estimate at Completion (EAC) is $991,836.73. To arrive at the EAC, you perform the following calculations:
+		<explain>Your Estimate at Completion (EAC) is $991,836.73. To arrive at the EAC, you perform
+the following calculations:
 BAC = $486,000
 AC = $486,000 - $90,000 = $396,000
 EV = BAC x percent complete = $486,000 x 0.40 = $194,400
 CPI = EV / AC = $194,400 / $396,000 = 0.49
 Then, you can use the following formula to calculate the EAC:
 EAC = BAC / CPI = $486,000 / 0.49 = $991836.73
-All of the other options are incorrect because they do not reflect the correct EAC value. </explain>
+All of the other options are incorrect because they do not reflect the correct EAC value.</explain>
 	</question>
 
+	<!-- 43 -->
 	<question>
-		<text>43. Manage Project Team is more complicated:</text>
+		<text>Manage Project Team is more complicated:</text>
 		<answers>
 			<answer is_right="false">when the team comprises more than five team members</answer>
 			<answer is_right="false">when individual team members are accountable to a project manager</answer>
 			<answer is_right="false">when individual team members are accountable to a functional manager</answer>
-			<answer is_right="true">when individual team members are accountable to both a functional manager and a project manager</answer>
+			<answer is_right="true">when individual team members are accountable to both a functional manager and a
+project manager</answer>
 		</answers>
-		<explain>Manage Project Team is more complicated when individual team members are accountable to both a functional manager and a project manager. In a matrix organization, team members report to both a functional manager and a project manager. Conflicts can arise regarding priorities between the functional manager and project manager, and this makes Develop Project Team more difficult.
-Manage Project Team is not more complicated when the team comprises more than five team members. Rather than the size of the team, it is the dual reporting relationship in the matrix organization that complicates this process.
-Manage Project Team is not more complicated when individual team members are accountable to a project manager or when individual team members are accountable to a functional manager. Manage Project Team is complicated by the dual reporting relationship. When team members are reporting to one supervisor, whether it is a functional manager or a project manager, this complication does not arise. </explain>
+		<explain>Manage Project Team is more complicated when individual team members are
+accountable to both a functional manager and a project manager. In a matrix
+organization, team members report to both a functional manager and a project manager.
+Conflicts can arise regarding priorities between the functional manager and project
+manager, and this makes Develop Project Team more difficult.
+Manage Project Team is not more complicated when the team comprises more than
+five team members. Rather than the size of the team, it is the dual reporting relationship
+in the matrix organization that complicates this process.
+Manage Project Team is not more complicated when individual team members are
+accountable to a project manager or when individual team members are accountable to a
+functional manager. Manage Project Team is complicated by the dual reporting
+relationship. When team members are reporting to one supervisor, whether it is a
+functional manager or a project manager, this complication does not arise.</explain>
 	</question>
 
+	<!-- 44 -->
 	<question>
-		<text>44. In the Performance Reporting process, a time reporting system would be used to collect and document:</text>
+		<text>In the Performance Reporting process, a time reporting system would be used to collect
+and document:</text>
 		<answers>
 			<answer is_right="true">time spent on executing work required to produce project deliverables</answer>
 			<answer is_right="false">the hourly wages of team members</answer>
 			<answer is_right="false">the early start and late start of project activities</answer>
 			<answer is_right="false">forecasted completion dates for the project</answer>
 		</answers>
-		<explain>In the Performance Reporting process, a time reporting system would be used to collect and document the time spent on executing work required to produce project deliverables. A time reporting system usually includes a means of allowing team members to record information about the time spent on project activities. Team members typically enter the hours worked on specific activities. This information can be used in performance reporting and progress reporting.
-The hourly wages of team members is documented in the payroll system. You might choose to use this wage information along with hours worked when reporting cost status of a project.
-The early start and late start of project activities is defined and documented when scheduling a project.
-Forecasted completion dates for a project are created during the Monitor and Control Project Work process. These forecasted completion dates can then be used as an input to Performance Reporting.
-</explain>
+		<explain>In the Performance Reporting process, a time reporting system would be used to
+collect and document the time spent on executing work required to produce project
+deliverables. A time reporting system usually includes a means of allowing team members
+to record information about the time spent on project activities. Team members typically
+enter the hours worked on specific activities. This information can be used in
+performance reporting and progress reporting.
+The hourly wages of team members is documented in the payroll system. You might
+choose to use this wage information along with hours worked when reporting cost status
+of a project.
+The early start and late start of project activities is defined and documented when
+scheduling a project.
+Forecasted completion dates for a project are created during the Monitor and Control
+Project Work process. These forecasted completion dates can then be used as an input to
+Performance Reporting.</explain>
 	</question>
 
+	<!-- 45 -->
 	<question>
-		<text>45. At the end of six months of a project, you find that the Budgeted Cost of Work Performed is $40,000, the Actual Cost of Work Performed is $45,000, and the Budgeted Cost of Work Scheduled is $38,000. Which of the following statements is true?</text>
+		<text>At the end of six months of a project, you find that the Budgeted Cost of Work Performed
+is $40,000, the Actual Cost of Work Performed is $45,000, and the Budgeted Cost of Work
+Scheduled is $38,000. Which of the following statements is true?</text>
 		<answers>
 			<answer is_right="false">the project is behind schedule and over budget</answer>
 			<answer is_right="false">the project is behind schedule and under budget</answer>
 			<answer is_right="true">the project is ahead of schedule and over budget</answer>
 			<answer is_right="false">the project is ahead of schedule and under budget</answer>
 		</answers>
-		<explain>The project is ahead of schedule and over budget. The project is ahead of schedule because the Budgeted Cost of Work Performed (BCWP) is greater than the Budgeted Cost of Work Scheduled (BCWS). A Schedule Performance Index (SPI) of greater than one also indicates the status of the schedule. SPI equals BCWP divided by the BCWS. In the given scenario, the SPI is equal to 40000/38000, or 1.05. This project is over budget because the Actual Cost of Work Performed (ACWP) is greater than the BCWP. Cost Performance Index (CPI) of less than one indicates the project is over budget. CPI equals BCWP divided by the ACWP. In the given scenario, the CPI is equal 40000/45000, or 0.89. The project is behind schedule and under budget if SPI was less than one and CPI is greater than one.
-The project is behind schedule and over budget if both SPI and CPI are less than one. The project is ahead of schedule and under budget if both SPI and CPI are greater than one.
-</explain>
+		<explain>The project is ahead of schedule and over budget. The project is ahead of schedule
+because the Budgeted Cost of Work Performed (BCWP) is greater than the Budgeted Cost
+of Work Scheduled (BCWS). A Schedule Performance Index (SPI) of greater than one also
+indicates the status of the schedule. SPI equals BCWP divided by the BCWS. In the given
+scenario, the SPI is equal to 40000/38000, or 1.05. This project is over budget because the
+Actual Cost of Work Performed (ACWP) is greater than the BCWP. Cost Performance
+Index (CPI) of less than one indicates the project is over budget. CPI equals BCWP divided
+by the ACWP. In the given scenario, the CPI is equal 40000/45000, or 0.89.
+The project is behind schedule and under budget if SPI was less than one and CPI is
+greater than one.
+The project is behind schedule and over budget if both SPI and CPI are less than one.
+The project is ahead of schedule and under budget if both SPI and CPI are greater than
+one.</explain>
 	</question>
 
+	<!-- 46 -->
 	<question>
-		<text>46. You need to monitor the number of errors or defects that have been identified and the number of errors or defects that are uncorrected. What should you do?</text>
+		<text>You need to monitor the number of errors or defects that have been identified and the
+number of errors or defects that are uncorrected. What should you do?</text>
 		<answers>
 			<answer is_right="false">use a checklist</answer>
 			<answer is_right="false">design an experiment</answer>
 			<answer is_right="false">perform an audit</answer>
 			<answer is_right="true">perform a trend analysis</answer>
 		</answers>
-		<explain>To monitor the number of errors or defects that have been identified and the number of errors or defects that are uncorrected, you should perform a trend analysis. Trend analysis helps monitor the number of errors identified and the number of errors that remain uncorrected. This analysis also helps monitor how many activities in a given period were completed with significant variances.
-You should not use a checklist. A checklist is a tool that verifies that a set of required steps have been performed. It does not help to monitor the number of errors or defects that have been identified and the number that remains undetected. Checklists are an input to Perform Quality Control.
-You should not perform an audit. An audit reviews all the quality management activities. The objective of a quality audit is to identify lessons learned that could help improve performance of the project or of other projects within the performing organization. Auditing is a tool used in Perform Quality Assurance.
-You should not design an experiment. Design of experiments is a statistical method that helps identify which factors might influence specific variables. Design of experiments is a tool used in Quality Planning.
-</explain>
+		<explain>To monitor the number of errors or defects that have been identified and the number
+of errors or defects that are uncorrected, you should perform a trend analysis. Trend
+analysis helps monitor the number of errors identified and the number of errors that
+remain uncorrected. This analysis also helps monitor how many activities in a given
+period were completed with significant variances.
+You should not use a checklist. A checklist is a tool that verifies that a set of required
+steps have been performed. It does not help to monitor the number of errors or defects
+that have been identified and the number that remains undetected. Checklists are an
+input to Perform Quality Control.
+You should not perform an audit. An audit reviews all the quality management
+activities. The objective of a quality audit is to identify lessons learned that could help
+improve performance of the project or of other projects within the performing
+organization. Auditing is a tool used in Perform Quality Assurance.
+You should not design an experiment. Design of experiments is a statistical method
+that helps identify which factors might influence specific variables. Design of experiments
+is a tool used in Quality Planning.</explain>
 	</question>
 
+	<!-- 47 -->
 	<question>
-		<text>47. All of the following are examples of a source of scope change, EXCEPT:</text>
+		<text>All of the following are examples of a source of scope change, EXCEPT:</text>
 		<answers>
 			<answer is_right="false">a variation in government regulations</answer>
 			<answer is_right="true">discovering a need to engage in bottom-up cost estimating</answer>
 			<answer is_right="false">introducing technology that was not available when scope was originally defined</answer>
 			<answer is_right="false">failure to include a required feature in the design of a telecommunication system</answer>
 		</answers>
-		<explain>Discovering a need to engage in bottom-up estimating is not an example of a source of scope change. Scope changes might occur due to an external event, an error in defining the scope of the project or the product, a value adding change, or because of implementing a contingency plan or workaround plan to respond to a risk. Variation in government regulations is an external event, which can be a source of scope change.
-Introducing technology that was not available when the scope was originally defined will result in a scope change and must therefore be considered as a source of scope change.
-Failure to include a required feature in the design of a telecommunication system can be classified as an error in defining the scope of the product and is therefore a valid source of scope change.
-</explain>
+		<explain>Discovering a need to engage in bottom-up estimating is not an example of a source of
+scope change. Scope changes might occur due to an external event, an error in defining
+the scope of the project or the product, a value adding change, or because of
+implementing a contingency plan or workaround plan to respond to a risk.
+Variation in government regulations is an external event, which can be a source of
+scope change.
+Introducing technology that was not available when the scope was originally defined
+will result in a scope change and must therefore be considered as a source of scope
+change.
+Failure to include a required feature in the design of a telecommunication system can
+be classified as an error in defining the scope of the product and is therefore a valid
+source of scope change.</explain>
 	</question>
 
+	<!-- 48 -->
 	<question>
-		<text>48. What information would NOT appear in a progress report during the Schedule Control process of a project?</text>
+		<text>What information would NOT appear in a progress report during the Schedule Control
+process of a project?</text>
 		<answers>
 			<answer is_right="false">actual start date</answer>
 			<answer is_right="false">percent-completed statistic</answer>
 			<answer is_right="false">remaining duration for unfinished work</answer>
 			<answer is_right="true">prediction or forecast for unfinished work</answer>
 		</answers>
-		<explain>During the Schedule Control process, a progress report would not contain a prediction or forecast for unfinished work. Progress reports are intended to be factual and statistical as opposed to hypothetical or predictive. They show the amount of work completed in relation to the planned estimates.
-Progress reports typically contain the actual start date, the actual finish date, any percent-completed statistics, and the amount of time remaining for unfinished work. All of this data should be based on factual information. The nature of progress reports can vary by project. Some projects may require detailed progress reports to be submitted on a regularly scheduled basis. Typically, progress reports are sent to the project sponsors and stakeholders as indicated in the project management plan.
-</explain>
+		<explain>During the Schedule Control process, a progress report would not contain a prediction
+or forecast for unfinished work. Progress reports are intended to be factual and statistical
+as opposed to hypothetical or predictive. They show the amount of work completed in
+relation to the planned estimates.
+Progress reports typically contain the actual start date, the actual finish date, any
+percent-completed statistics, and the amount of time remaining for unfinished work. All
+of this data should be based on factual information. The nature of progress reports can
+vary by project. Some projects may require detailed progress reports to be submitted on
+a regularly scheduled basis. Typically, progress reports are sent to the project sponsors
+and stakeholders as indicated in the project management plan.</explain>
 	</question>
 
+	<!-- 49 -->
 	<question>
-		<text>49. A variance analysis of your project shows that actual costs are varying from planned estimates. You have the planning documents revalidated and find that your original assumptions were incorrect. Assuming these figures: ACWP = $34,000; BAC = $60,000; ETC = $38,000 . // ACWP–Actual Cost of Work Performed, BAC–Budget At Completion, ETC–Estimate To Complete What would be the VAC in percentage for your project? // VAC–Variance At Completion </text>
+		<text>A variance analysis of your project shows that actual costs are varying from planned
+estimates. You have the planning documents revalidated and find that your original
+assumptions were incorrect. Assuming these figures:
+ACWP = $34,000; BAC = $60,000; ETC = $38,000 .
+// ACWP–Actual Cost of Work Performed, BAC–Budget At Completion, ETC–Estimate To Complete
+What would be the VAC in percentage for your project? // VAC–Variance At Completion
+</text>
 		<answers>
 			<answer is_right="true">-20%</answer>
 			<answer is_right="false">-6.67%</answer>
 			<answer is_right="false">6.67%</answer>
-			<answer is_right="false">20% </answer>
+			<answer is_right="false">20%</answer>
 		</answers>
-		<explain>The Variance at Completion (VAC) in percentage for your project will be -20%. If you find that original project estimation assumptions are fundamentally flawed, your Estimate at Completion (EAC) would be the sum of Actual Cost of Work Performed (ACWP) to date and the new Estimate to Complete (ETC). In the given scenario:
+		<explain>The Variance at Completion (VAC) in percentage for your project will be -20%. If you
+find that original project estimation assumptions are fundamentally flawed, your Estimate
+at Completion (EAC) would be the sum of Actual Cost of Work Performed (ACWP) to date
+and the new Estimate to Complete (ETC). In the given scenario:
 EAC = ACWP + ETC = $34,000 + $38,000 = $72,000
 VAC = BAC - EAC = $60,000 - $72,000 = - $12,000
 VAC % = VAC / BAC x 100 = -$12,000/$60,000 x 100 = -20%
-All of the other options are incorrect because they do not reflect the correct VAC in percentage for your project.
-</explain>
+All of the other options are incorrect because they do not reflect the correct VAC in
+percentage for your project.</explain>
 	</question>
 
+	<!-- 50 -->
 	<question>
-		<text>50. At the end of the fourth month on a project, cumulative planned expenditures were $100,000. Actual expenditures total $120,000. What is the status of the project?</text>
+		<text>At the end of the fourth month on a project, cumulative planned expenditures were
+$100,000. Actual expenditures total $120,000. What is the status of the project?</text>
 		<answers>
 			<answer is_right="false">it is ahead of schedule</answer>
 			<answer is_right="false">it is in trouble because of cost overrun</answer>
 			<answer is_right="false">it will finish within the original budget</answer>
 			<answer is_right="true">the information is insufficient to make an assessment</answer>
 		</answers>
-		<explain>An Earned Value Management (EVM) analysis must be performed to know if the project will finish within the original budget. To perform an EVM analysis, in addition to what was budgeted and what was spent, you need information on how much work was accomplished. This information is absent in this scenario so there is insufficient information to make an assessment.
-To know if the project is ahead of schedule, you need to know the schedule variance. To find the schedule variance you need information on what work was planned and how much of it was accomplished. This information is absent in this scenario. Therefore, it is not possible to assess whether the project is ahead of schedule.
-To know if the project is in trouble because of the cost overrun, you need to know the cost variance on the project. To find the cost variance, in addition to what was budgeted and what was spent you need information on how much work was accomplished by incurring the stated expense.
-It is not possible to state that the project will finish within the original budget using the information provided in the scenario. An EVM analysis must be performed. </explain>
+		<explain>An Earned Value Management (EVM) analysis must be performed to know if the
+project will finish within the original budget. To perform an EVM analysis, in addition to
+what was budgeted and what was spent, you need information on how much work was
+accomplished. This information is absent in this scenario so there is insufficient
+information to make an assessment.
+To know if the project is ahead of schedule, you need to know the schedule variance.
+To find the schedule variance you need information on what work was planned and how
+much of it was accomplished. This information is absent in this scenario. Therefore, it is
+not possible to assess whether the project is ahead of schedule.
+To know if the project is in trouble because of the cost overrun, you need to know the
+cost variance on the project. To find the cost variance, in addition to what was budgeted
+and what was spent you need information on how much work was accomplished by
+incurring the stated expense.
+It is not possible to state that the project will finish within the original budget using the
+information provided in the scenario. An EVM analysis must be performed.</explain>
 	</question>
 
+	<!-- 51 -->
 	<question>
-		<text>51. All the following are outputs of Contract Administration, EXCEPT:</text>
+		<text>All the following are outputs of Contract Administration, EXCEPT:</text>
 		<answers>
 			<answer is_right="false">correspondence</answer>
 			<answer is_right="false">requested unapproved contract changes</answer>
 			<answer is_right="true">buyer-conducted performance review</answer>
 			<answer is_right="false">payment requests</answer>
 		</answers>
-		<explain>A buyer-conducted performance review is not an output of Contract Administration. A buyer-conducted performance review is a formal or informal review by the buyer of how well the seller is performing on the contract. Buyer-conducted performance reviews are a tool used in Contract Administration. Buyer-conducted performance reviews are conducted in the Contract Administration process to determine if the seller is fulfilling the contract statement of work.
-All of the other options are incorrect because they are outputs of Contract Administration.
-Correspondence is one of the organizational process asset updates that are an output of Contract Administration.
-Correspondence includes all communication related to various contract-related issues between the seller and the buyer, including communication on project deliveries, changes, status updates, and results of inspections and audits, Most of the time, these communications are written communication.
-Requested unapproved contract changes are part of the contract documentation that is an output of Contract Administration. These requested changes serve as an input to the Integrated Change Control process, in which they are either approved or rejected. Payment requests are one of the organizational process asset updates that are an output of Contract Administration. During the project execution phase as the deliverables are delivered the buyer, they are examined for correctness and adherence to specified standards. After the deliverables are accepted, the seller submits invoices to be paid by the buyer. The buyer initiates the payment disbursement to the seller, and in the process generates payment requests.
-</explain>
+		<explain>A buyer-conducted performance review is not an output of Contract Administration. A
+buyer-conducted performance review is a formal or informal review by the buyer of how
+well the seller is performing on the contract. Buyer-conducted performance reviews are a
+tool used in Contract Administration. Buyer-conducted performance reviews are
+conducted in the Contract Administration process to determine if the seller is fulfilling the
+contract statement of work.
+All of the other options are incorrect because they are outputs of Contract
+Administration.
+Correspondence is one of the organizational process asset updates that are an output of
+Contract Administration.
+Correspondence includes all communication related to various contract-related issues
+between the seller and the buyer, including communication on project deliveries,
+changes, status updates, and results of inspections and audits, Most of the time, these
+communications are written communication.
+Requested unapproved contract changes are part of the contract documentation that
+is an output of Contract Administration. These requested changes serve as an input to the
+Integrated Change Control process, in which they are either approved or rejected.
+Payment requests are one of the organizational process asset updates that are an
+output of Contract Administration. During the project execution phase as the deliverables
+are delivered the buyer, they are examined for correctness and adherence to specified
+standards. After the deliverables are accepted, the seller submits invoices to be paid by
+the buyer. The buyer initiates the payment disbursement to the seller, and in the process
+generates payment requests.</explain>
 	</question>
 
+	<!-- 52 -->
 	<question>
-		<text>52. Which of the following is an output of the Quality Planning process and an input to the Perform Quality Control process?</text>
+		<text>Which of the following is an output of the Quality Planning process and an input to the
+Perform Quality Control process?</text>
 		<answers>
 			<answer is_right="false">quality policy</answer>
 			<answer is_right="false">product description</answer>
 			<answer is_right="false">project scope statement</answer>
 			<answer is_right="true">quality metrics</answer>
 		</answers>
-		<explain>Quality metrics are an output of the Quality Planning process and an input to the Perform Quality Control process. Quality metrics are operational definitions used to define specifically how something is measured in the Perform Quality Control process. For instance, in a software development project, you may track the process quality by measuring the number of trouble reports opened during the reporting period. The Perform Quality Assurance and Perform Quality Control processes would use this operational definition as inputs for quality audits and inspection, respectively. The quality policy is not an output of the Quality Planning process and an input to the Perform Quality Control process. The quality policy is an expression of the top management's intentions on the overall directions with respect to quality in the organization. This may include the management's view on the quality philosophy to be adopted by the organization. For instance, an organization adopting the Deming philosophy would define quality as conformance to specifications. However, an organization following the Juran philosophy would treat quality as fitness for use. The quality policy is an important input to the Quality Planning process. The project scope statement is not an output of the Quality Planning process and an input to the Perform Quality Control process. The project scope statement is an output of the Scope Definition process. It documents the project deliverables and is an important input to the Quality Planning process.
-The product description is not an output of the Quality Planning process and an input to the Perform Quality Control process. The product description may be included in the scope statement, and contains important technical details required as an input to Quality Planning.
-</explain>
+		<explain>Quality metrics are an output of the Quality Planning process and an input to the
+Perform Quality Control process. Quality metrics are operational definitions used to
+define specifically how something is measured in the Perform Quality Control process. For
+instance, in a software development project, you may track the process quality by
+measuring the number of trouble reports opened during the reporting period. The
+Perform Quality Assurance and Perform Quality Control processes would use this
+operational definition as inputs for quality audits and inspection, respectively.
+The quality policy is not an output of the Quality Planning process and an input to the
+Perform Quality Control process. The quality policy is an expression of the top
+management's intentions on the overall directions with respect to quality in the
+organization. This may include the management's view on the quality philosophy to be
+adopted by the organization. For instance, an organization adopting the Deming
+philosophy would define quality as conformance to specifications. However, an
+organization following the Juran philosophy would treat quality as
+fitness for use. The quality policy is an important input to the Quality Planning process.
+The project scope statement is not an output of the Quality Planning process and an
+input to the Perform Quality Control process. The project scope statement is an output of
+the Scope Definition process. It documents the project deliverables and is an important
+input to the Quality Planning process.
+The product description is not an output of the Quality Planning process and an input
+to the Perform Quality Control process. The product description may be included in the
+scope statement, and contains important technical details required as an input to Quality
+Planning.</explain>
 	</question>
 
+	<!-- 53 -->
 	<question>
-		<text>53. You are managing three projects, Project A, Project B, and Project C, in your organization simultaneously. A variance analysis during the projects tells you the SV for Project A is positive, the SPI for Project B is less than 1, and the SV for Project C is negative. On which of these projects would you take corrective action to control the project schedules? // SV – Schedule Variance, SPI – Schedule Performance Index </text>
+		<text>You are managing three projects, Project A, Project B, and Project C, in your organization
+simultaneously. A variance analysis during the projects tells you the SV for Project A is
+positive, the SPI for Project B is less than 1, and the SV for Project C is negative. On which
+of these projects would you take corrective action to control the project schedules?
+// SV – Schedule Variance, SPI – Schedule Performance Index
+</text>
 		<answers>
 			<answer is_right="false">Project A only</answer>
 			<answer is_right="false">Project A and Project B</answer>
 			<answer is_right="false">Project B only</answer>
 			<answer is_right="true">Project B and Project C</answer>
 		</answers>
-		<explain>You would take corrective action for Project B and Project C. Variance analysis is an effective tool to monitor and control project schedules. Schedule Variance (SV) is equal to Earned Value (EV) less Planned Value (PV), or EV - PV. If SV is negative, it indicates that the project is slipping behind schedule. It means that work performed to date is less than the planned or targeted work. Conversely, a positive SV indicates that project performance is ahead of schedule. Another key indicator of project schedule performance is Schedule Performance Index (SPI). This is equal to EV divided by PV. If SPI is greater than one, it indicates that the project is ahead of schedule, and if SPI is less than one then the project is slipping behind schedule. In this scenario, Project B has an SPI of less than one, which indicates that the project is behind schedule. In this scenario, Project C has an SV that is negative, which indicates that the project is behind schedule. Therefore, in this scenario, corrective action to control the project schedules would be required for Project B and Project C.
-All of the other options are incorrect because you would not need to take corrective action on Project A or only Project B. In this scenario, Project A has a positive SV, which indicates that the project is ahead of schedule.
-</explain>
+		<explain>You would take corrective action for Project B and Project C. Variance analysis is an
+effective tool to monitor and control project schedules. Schedule Variance (SV) is equal to
+Earned Value (EV) less Planned Value (PV), or EV - PV. If SV is negative, it indicates that
+the project is slipping behind schedule. It means that work performed to date is less than
+the planned or targeted work. Conversely, a positive SV indicates that project
+performance is ahead of schedule. Another key indicator of project schedule performance
+is Schedule Performance Index (SPI). This is equal to EV divided by PV. If SPI is greater
+than one, it indicates that the project is ahead of schedule, and if SPI is less than one then
+the project is slipping behind schedule. In this scenario, Project B has an SPI of less than
+one, which indicates that the project is behind schedule. In this scenario, Project C has an
+SV that is negative, which indicates that the project is behind schedule. Therefore, in this
+scenario, corrective action to control the project schedules would be required for Project
+B and Project C.
+All of the other options are incorrect because you would not need to take corrective
+action on Project A or only Project B. In this scenario, Project A has a positive SV, which
+indicates that the project is ahead of schedule.</explain>
 	</question>
 
+	<!-- 54 -->
 	<question>
-		<text>54. You are in the process of obtaining formal acceptance of the project scope by the stakeholders. Which of the following techniques are you using in this process?</text>
+		<text>You are in the process of obtaining formal acceptance of the project scope by the
+stakeholders. Which of the following techniques are you using in this process?</text>
 		<answers>
 			<answer is_right="true">inspection</answer>
 			<answer is_right="false">product analysis</answer>
 			<answer is_right="false">decomposition</answer>
 			<answer is_right="false">performance measurement</answer>
 		</answers>
-		<explain>If you are in the process of obtaining formal acceptance, you are using inspection. Inspection includes activities such as measuring, examining, and testing to determine whether results conform to requirements. Inspection is a technique used in Scope Verification and in Perform Quality Control.
-Decomposition is a technique used to subdivide major project deliverables into smaller and more manageable components. It is a technique used in the Create WBS process. Product analysis involves developing a better understanding of the product. It includes techniques such as product breakdown analysis, system engineering, value engineering, value analysis, and function analysis and quality function deployment. It is an important technique used in the Scope Definition process.
-Performance measurement techniques help in assessing the magnitude of any variation that occurs. These techniques are used in the Scope Control process. </explain>
+		<explain>If you are in the process of obtaining formal acceptance, you are using inspection.
+Inspection includes activities such as measuring, examining, and testing to determine
+whether results conform to requirements. Inspection is a technique used in Scope
+Verification and in Perform Quality Control.
+Decomposition is a technique used to subdivide major project deliverables into smaller
+and more manageable components. It is a technique used in the Create WBS process.
+Product analysis involves developing a better understanding of the product. It includes
+techniques such as product breakdown analysis, system engineering, value engineering,
+value analysis, and function analysis and quality function deployment. It is an important
+technique used in the Scope Definition process.
+Performance measurement techniques help in assessing the magnitude of any
+variation that occurs. These techniques are used in the Scope Control process.</explain>
 	</question>
 
+	<!-- 55 -->
 	<question>
-		<text>55. As a part of your Performance Reporting process, you submit the performance report to your program manager. The program manager wants you to present this information to all the stakeholders. What will be the first step in preparing this presentation?</text>
+		<text>As a part of your Performance Reporting process, you submit the performance report to
+your program manager. The program manager wants you to present this information to
+all the stakeholders. What will be the first step in preparing this presentation?</text>
 		<answers>
 			<answer is_right="false">define the audience</answer>
 			<answer is_right="true">determine the objective</answer>
 			<answer is_right="false">plan a presentation strategy</answer>
 			<answer is_right="false">decide on the general form of the presentation</answer>
 		</answers>
-		<explain>The first step in preparing this presentation is to determine the objective. Only after the objective is determined can the other issues listed be addressed effectively. The objective for the presentation must be determined first before defining the audience, planning the presentation strategy, or deciding on the general form of the presentation.
-</explain>
+		<explain>The first step in preparing this presentation is to determine the objective. Only after
+the objective is determined can the other issues listed be addressed effectively.
+The objective for the presentation must be determined first before defining the
+audience, planning the presentation strategy, or deciding on the general form of the
+presentation.</explain>
 	</question>
 
+	<!-- 56 -->
 	<question>
-		<text>56. All of these methods of inspection are used as tools for Perform Quality Control, EXCEPT:</text>
+		<text>All of these methods of inspection are used as tools for Perform Quality Control, EXCEPT:</text>
 		<answers>
 			<answer is_right="false">audits</answer>
 			<answer is_right="false">walkthroughs</answer>
 			<answer is_right="false">reviews</answer>
 			<answer is_right="true">benchmarking</answer>
 		</answers>
-		<explain>Benchmarking is not a method of inspection used for Perform Quality Control, but rather a technique used for Quality Planning. It is used to compare actual or planned project practices to practices of other projects to provide performance-measuring standards.
-Audits, reviews, and walkthroughs are methods of inspection used for Perform Quality Control. Inspection refers to activities such as measuring, examining, and testing to determine whether results conform to requirements.
-</explain>
+		<explain>Benchmarking is not a method of inspection used for Perform Quality Control, but
+rather a technique used for Quality Planning. It is used to compare actual or planned
+project practices to practices of other projects to provide performance-measuring
+standards.
+Audits, reviews, and walkthroughs are methods of inspection used for Perform Quality
+Control. Inspection refers to activities such as measuring, examining, and testing to
+determine whether results conform to requirements.</explain>
 	</question>
 
+	<!-- 57 -->
 	<question>
-		<text>57. You are managing a project to develop a customized software application for your client. The planned project schedule is six months, and the total budget for the project is $100,000. At the end of four months, you find that the Earned Value on the project is $68,000, the Planned Value is $70,000 and the Actual Cost to date is $72,000. If you expect that future variances would not be similar to the current variances, what would be the Estimate at Completion (EAC)?</text>
+		<text>You are managing a project to develop a customized software application for your client.
+The planned project schedule is six months, and the total budget for the project is
+$100,000. At the end of four months, you find that the Earned Value on the project is
+$68,000, the Planned Value is $70,000 and the Actual Cost to date is $72,000. If you
+expect that future variances would not be similar to the current variances, what would be
+the Estimate at Completion (EAC)?</text>
 		<answers>
 			<answer is_right="false">$102,000</answer>
-			<answer is_right="false">$105,882</answer>
 			<answer is_right="true">$104,000</answer>
-			<answer is_right="false">it is not possible to calculate the Estimate at completion with the given information</answer>
+			<answer is_right="false">$105,882</answer>
+			<answer is_right="false">it is not possible to calculate the Estimate at
+completion with the given information</answer>
 		</answers>
-		<explain>If you expect that future variances would not be similar to the current variances, the Estimate at Completion (EAC) would be calculated as (AC + BAC - EV) or (72000 + 100000 - 68000), which equals $104,000.
-If you expect future variances to be similar to the current variance, you would calculate EAC by dividing the Budget at Completion (BAC) by the present Cost Performance Index (CPI). In this scenario, the CPI is EV / AC or 68000 / 72000, which equals 0.95. EAC is 100000 / 0.95, which equals $105,882.
-If you expect that the original assumptions made during the planning phase were incorrect, then you would need a new estimate for the remaining work to calculate the EAC. This new estimate is the Estimate to Complete (ETC).
-</explain>
+		<explain>If you expect that future variances would not be similar to the current variances, the
+Estimate at Completion (EAC) would be calculated as (AC + BAC - EV) or
+(72000 + 100000 - 68000), which equals $104,000.
+If you expect future variances to be similar to the current variance, you would calculate
+EAC by dividing the Budget at Completion (BAC) by the present Cost Performance Index
+(CPI). In this scenario, the CPI is EV / AC or 68000 / 72000, which equals 0.95. EAC is
+100000 / 0.95, which equals $105,882.
+If you expect that the original assumptions made during the planning phase were
+incorrect, then you would need a new estimate for the remaining work to calculate the
+EAC. This new estimate is the Estimate to Complete (ETC).</explain>
 	</question>
 
+	<!-- 58 -->
 	<question>
-		<text>58. Pareto Principle implies that:</text>
+		<text>Pareto Principle implies that:</text>
 		<answers>
 			<answer is_right="true">80 percent of problems occur due to 20 percent of the causes</answer>
 			<answer is_right="false">20 percent of frequencies are due to 80 percent of the causes</answer>
 			<answer is_right="false">20 percent to 80 percent of problems are caused by process changes</answer>
 			<answer is_right="false">80 percent of the processes need to be changed at least 20 percent of the time</answer>
 		</answers>
-		<explain>Pareto Principle implies that 80 percent of the problems occur due to 20 percent of the causes. This is also known as the 80/20 rule.
-The other options are incorrect because they do not correctly characterize the Pareto principle.
-</explain>
+		<explain>Pareto Principle implies that 80 percent of the problems occur due to 20 percent of the
+causes. This is also known as the 80/20 rule.
+The other options are incorrect because they do not correctly characterize the Pareto
+principle.</explain>
 	</question>
 
+	<!-- 59 -->
 	<question>
-		<text>59. You think that some of the activities on your project are not finishing on the target finish dates, and the project schedule may be affected. Which action would you take as a last resort?</text>
+		<text>You think that some of the activities on your project are not finishing on the target finish
+dates, and the project schedule may be affected. Which action would you take as a last
+resort?</text>
 		<answers>
 			<answer is_right="false">perform variance analysis</answer>
 			<answer is_right="true">revise the schedule baseline</answer>
 			<answer is_right="false">prepare and send schedule updates to the stakeholders</answer>
 			<answer is_right="false">take corrective action to bring the project schedule on track</answer>
 		</answers>
-		<explain>Revising the schedule baseline is only done as a last resort. When revising the schedule baseline, or rebaselining, you must ensure that you do not lose historical data on the original baseline.
-All of the other options are incorrect because they reflect activities that you would take before attempting to rebaseline. Schedule Control refers to the process of controlling the factors that affect the project schedule to ensure that such changes are approved. Schedule Control also helps identify and manage such changes as they occur in the project. Schedule Control informs the project stakeholders, especially upper management, of authorized changes.
-</explain>
+		<explain>Revising the schedule baseline is only done as a last resort. When revising the schedule
+baseline, or rebaselining, you must ensure that you do not lose historical data on the
+original baseline.
+All of the other options are incorrect because they reflect activities that you would take
+before attempting to rebaseline. Schedule Control refers to the process of controlling the
+factors that affect the project schedule to ensure that such changes are approved.
+Schedule Control also helps identify and manage such changes as they occur in the
+project. Schedule Control informs the project stakeholders, especially upper
+management, of authorized changes.</explain>
 	</question>
 
+	<!-- 60 -->
 	<question>
-		<text>60. The project of one of your peer project managers is in bad shape. This is the first time that this person has performed the project management role. In one of the senior management review meetings, this project manager is asked to show the status of the project. Which of the following should this project manager use to show the status to senior management?</text>
+		<text>The project of one of your peer project managers is in bad shape. This is the first time
+that this person has performed the project management role. In one of the senior
+management review meetings, this project manager is asked to show the status of the
+project. Which of the following should this project manager use to show the status to
+senior management?</text>
 		<answers>
 			<answer is_right="false">Gantt chart</answer>
-			<answer is_right="true">milestone chart</answer>
 			<answer is_right="false">control chart</answer>
+			<answer is_right="true">milestone chart</answer>
 			<answer is_right="false">network diagram</answer>
 		</answers>
-		<explain>The project manager should use the milestone chart to show the status of the project to the senior management. A milestone chart shows only major events and only shows the completion of activities. It is best suitable to report progress to senior management. Gantt charts are good planning and tracking tools. They are not good reporting tools. Therefore, you should not use Gantt charts to show the status of the project to the senior management.
-A control chart is not a status-reporting tool. It helps determine if the process is in control. It is a tool in Perform Quality Control.
-The network diagram provides too much detail for the senior management. It shows interdependencies between tasks which may not be required by the senior management to know the status and progress of the project.
-</explain>
+		<explain>The project manager should use the milestone chart to show the status of the project
+to the senior management. A milestone chart shows only major events and only shows
+the completion of activities. It is best suitable to report progress to senior management.
+Gantt charts are good planning and tracking tools. They are not good reporting tools.
+Therefore, you should not use Gantt charts to show the status of the project to the senior
+management.
+A control chart is not a status-reporting tool. It helps determine if the process is in
+control. It is a tool in Perform Quality Control.
+The network diagram provides too much detail for the senior management. It shows
+interdependencies between tasks which may not be required by the senior management
+to know the status and progress of the project.</explain>
 	</question>
 
+	<!-- 61 -->
 	<question>
-		<text>61. Which tool or technique should you use for Integrated Change Control?</text>
+		<text>Which tool or technique should you use for Integrated Change Control?</text>
 		<answers>
 			<answer is_right="false">parametric modeling</answer>
 			<answer is_right="true">configuration management</answer>
 			<answer is_right="false">decision tree analysis</answer>
 			<answer is_right="false">network diagramming</answer>
 		</answers>
-		<explain>You should use configuration management for Integrated Change Control. Configuration management defines the procedure to identify the characteristics of an item or system. This helps to control any changes to the characteristics of the item or system. It also helps audit the items and system to verify the conformance to requirements.
-You should not use parametric modeling for Integrated Change Control. This technique is used for cost estimation. It involves using project parameters in a mathematical model to predict project costs.
-You should not use decision tree analysis for Integrated Change Control. Decision tree analysis is a diagram that describes a decision under consideration and the implications of choosing one or another of the available alternatives. This technique is used in Quantitative Risk Analysis.
-You should not use network diagramming for Integrated Change Control. Network diagramming is generally used for Schedule Development.
-</explain>
+		<explain>You should use configuration management for Integrated Change Control.
+Configuration management defines the procedure to identify the characteristics of an
+item or system. This helps to control any changes to the characteristics of the item or
+system. It also helps audit the items and system to verify the conformance to
+requirements.
+You should not use parametric modeling for Integrated Change Control. This technique
+is used for cost estimation. It involves using project parameters in a mathematical model
+to predict project costs.
+You should not use decision tree analysis for Integrated Change Control. Decision tree
+analysis is a diagram that describes a decision under consideration and the implications of
+choosing one or another of the available alternatives. This technique is used in
+Quantitative Risk Analysis.
+You should not use network diagramming for Integrated Change Control. Network
+diagramming is generally used for Schedule Development.</explain>
 	</question>
 
+	<!-- 62 -->
 	<question>
-		<text>62. Which of the following choices is an input to the Manage Stakeholders process?</text>
+		<text>Which of the following choices is an input to the Manage Stakeholders process?</text>
 		<answers>
 			<answer is_right="false">resolved issues</answer>
 			<answer is_right="false">approved change requests</answer>
 			<answer is_right="false">enterprise environmental factors</answer>
 			<answer is_right="true">communications management plan</answer>
 		</answers>
-		<explain>The communications management plan is an input to the Manage Stakeholders process.
-Resolved issues and approved change requests are two of the outputs of the Manage Stakeholders process.
-Enterprise environmental factors, which are an input to the Communications Planning process, should have already been incorporated into the communications plan by the time the Manage Stakeholders process is underway.
-</explain>
+		<explain>The communications management plan is an input to the Manage Stakeholders
+process.
+Resolved issues and approved change requests are two of the outputs of the Manage
+Stakeholders process.
+Enterprise environmental factors, which are an input to the Communications Planning
+process, should have already been incorporated into the communications plan by the
+time the Manage Stakeholders process is underway.</explain>
 	</question>
 
+	<!-- 63 -->
 	<question>
-		<text>63. You receive a deliverable from a subcontractor working for your project. The deliverable is not according to the stated and documented quality standard as per the contract. You refuse to accept the deliverable and inform the subcontractor that you may exit from the contract due to such occurrences. In which process of procurement management are you operating?</text>
+		<text>You receive a deliverable from a subcontractor working for your project. The deliverable
+is not according to the stated and documented quality standard as per the contract. You
+refuse to accept the deliverable and inform the subcontractor that you may exit from the
+contract due to such occurrences. In which process of procurement management are you
+operating?</text>
 		<answers>
 			<answer is_right="false">Contract Closure</answer>
 			<answer is_right="false">Select Sellers</answer>
 			<answer is_right="false">Contract Negotiation</answer>
 			<answer is_right="true">Contract Administration</answer>
 		</answers>
-		<explain>You are operating in Contract Administration. The Contract Administration process verifies and ensures that the seller is on track for the contract delivery. It involves coordination between the seller and buyer teams. In this case, the deliveries have started arriving, and you are in the Contract Administration process.
-You are not operating in Contract Closure. Contract Closure is a process where the buyer and seller decide to close the contract after the work as per the contract is completed or for some other reason. This includes all contract-related documentation, procurement audits, etc. In this case, there is a threat to close the contract, but a decision to close the contract has not been made yet.
-You are not operating in Select Sellers. The Select Sellers process deals with deciding the seller for the contract. It involves negotiation and selection.
-You are not operating in Contract Negotiation. Contract negotiation is one of the tools and techniques used in Select Sellers. It involves discussions with probable sellers regarding structuring of the contract and agreement on the various aspects of the work being outsourced. The various subject areas that are covered in contract negotiation are schedule, terms, contract structuring, and price.
-</explain>
+		<explain>You are operating in Contract Administration. The Contract Administration process
+verifies and ensures that the seller is on track for the contract delivery. It involves
+coordination between the seller and buyer teams. In this case, the deliveries have started
+arriving, and you are in the Contract Administration process.
+You are not operating in Contract Closure. Contract Closure is a process where the
+buyer and seller decide to close the contract after the work as per the contract is
+completed or for some other reason. This includes all contract-related documentation,
+procurement audits, etc. In this case, there is a threat to close the contract, but a decision
+to close the contract has not been made yet.
+You are not operating in Select Sellers. The Select Sellers process deals with deciding
+the seller for the contract. It involves negotiation and selection.
+You are not operating in Contract Negotiation. Contract negotiation is one of the tools
+and techniques used in Select Sellers. It involves discussions with probable sellers
+regarding structuring of the contract and agreement on the various aspects of the work
+being outsourced. The various subject areas that are covered in contract negotiation are
+schedule, terms, contract structuring, and price.</explain>
 	</question>
 
+	<!-- 64 -->
 	<question>
-		<text>64. Which represents six Sigma (+/-) from the mean?</text>
+		<text>Which represents six Sigma (+/-) from the mean?</text>
 		<answers>
 			<answer is_right="false">68.26%</answer>
 			<answer is_right="false">95.46%</answer>
 			<answer is_right="false">99.73%</answer>
-			<answer is_right="true">99.99% </answer>
+			<answer is_right="true">99.99%</answer>
 		</answers>
-		<explain>Six Sigma from the mean is equal to 99.99%. This is equal to plus or minus six standard deviations from the mean value.
-All of the other options are incorrect because they do not reflect the correct value. One Sigma from the mean equals 68.26%. Two Sigma from the mean equals 95.46%. Three Sigma from the mean equals 99.73%.
-When using control charts, the upper and lower limits are typically set at three Sigma from the mean.
-</explain>
+		<explain>Six Sigma from the mean is equal to 99.99%. This is equal to plus or minus six standard
+deviations from the mean value.
+All of the other options are incorrect because they do not reflect the correct value. One
+Sigma from the mean equals 68.26%. Two Sigma from the mean equals 95.46%. Three
+Sigma from the mean equals 99.73%.
+When using control charts, the upper and lower limits are typically set at three Sigma
+from the mean.</explain>
 	</question>
 
+	<!-- 65 -->
 	<question>
-		<text>65. You are the project manager of a large infrastructure development project. In the executing phase, you realize that the time required to complete the project will be longer than the time available. What is the BEST thing you can do?</text>
+		<text>You are the project manager of a large infrastructure development project. In the
+executing phase, you realize that the time required to complete the project will be longer
+than the time available. What is the BEST thing you can do?</text>
 		<answers>
 			<answer is_right="false">crash or fast track your project</answer>
 			<answer is_right="false">remove some tasks from the scope</answer>
 			<answer is_right="false">inform the customer that the project will be delayed</answer>
 			<answer is_right="true">find the impact of crashing or fast tracking and ask your management for a decision</answer>
 		</answers>
-		<explain>The best thing you can do is find the impact of crashing or fast tracking and ask your management for a decision.
-A project manager must first find the impact of crashing and fast tracking and then decide with the help of the management, the steps that need to be taken. Crashing or fast tracking your project is not the best course of action because you should crash or fast track only after analyzing the impact of both of these approaches. Removing some tasks from the scope is not the best course of action because removing a task from the scope will leave your project with incomplete deliverables. Informing the customer that the project will be delayed is not the best course of action because this may not be acceptable to the client.
-</explain>
+		<explain>The best thing you can do is find the impact of crashing or fast tracking and ask your
+management for a decision.
+A project manager must first find the impact of crashing and fast tracking and then
+decide with the help of the management, the steps that need to be taken.
+Crashing or fast tracking your project is not the best course of action because you should
+crash or fast track only after analyzing the impact of both of these approaches.
+Removing some tasks from the scope is not the best course of action because removing
+a task from the scope will leave your project with incomplete deliverables.
+Informing the customer that the project will be delayed is not the best course of action
+because this may not be acceptable to the client.</explain>
 	</question>
 
+	<!-- 66 -->
 	<question>
-		<text>66. Earned Value Analysis is the most common tool used in Performance Reporting. It provides useful indices like CPI and SPI for evaluating project performance, and provides which of the following useful outputs as a graphical representation? // CPI, SPI – Cost Performance Index, Schedule PI </text>
+		<text>Earned Value Analysis is the most common tool used in Performance Reporting. It
+provides useful indices like CPI and SPI for evaluating project performance, and provides
+which of the following useful outputs as a graphical representation?
+// CPI, SPI – Cost Performance Index, Schedule PI
+</text>
 		<answers>
 			<answer is_right="true">S-Curve</answer>
 			<answer is_right="false">Pareto diagram</answer>
 			<answer is_right="false">control chart</answer>
 			<answer is_right="false">scatter diagram</answer>
 		</answers>
-		<explain>Earned Value Analysis provides an S-Curve as output. An S-Curve is commonly used to evaluate project performance. It derives its name from its typical S-like shape, where it is flatter near the beginning and end of the curve and steeper in the middle. You can plot cumulative figures for earned value, planned value, and actual costs on the y-axis against time on the x-axis.
-A control chart is a tool used in the Perform Quality Control process. It is a graphic display of process results shown over a period of time, which helps determine if the process is in control. It shows if differences in results are due to random causes or unusual events that need to be identified and rectified.
-A Pareto diagram is also a tool used in the Perform Quality Control process. A Pareto diagram uses a bar chart to show project problems ranked in descending order of significance and identifies the most significant causes that must be rectified first. A scatter diagram is also a tool used for trend analysis in the Perform Quality Control process. This diagram plots data on an X/Y axis to identify the correlation between them. It helps in forecasting future trends.
-</explain>
+		<explain>Earned Value Analysis provides an S-Curve as output. An S-Curve is commonly used to
+evaluate project performance. It derives its name from its typical S-like shape, where it is
+flatter near the beginning and end of the curve and steeper in the middle. You can plot
+cumulative figures for earned value, planned value, and actual costs on the y-axis against
+time on the x-axis.
+A control chart is a tool used in the Perform Quality Control process. It is a graphic
+display of process results shown over a period of time, which helps determine if the
+process is in control. It shows if differences in results are due to random causes or
+unusual events that need to be identified and rectified.
+A Pareto diagram is also a tool used in the Perform Quality Control process. A Pareto
+diagram uses a bar chart to show project problems ranked in descending order of
+significance and identifies the most significant causes that must be rectified first.
+A scatter diagram is also a tool used for trend analysis in the Perform Quality Control
+process. This diagram plots data on an X/Y axis to identify the correlation between them.
+It helps in forecasting future trends.</explain>
 	</question>
 
+	<!-- 67 -->
 	<question>
-		<text>67. You are assigned to manage an existing project. The project is in the middle of execution, and you need to understand who has approval authority for revisions in scope. Which document provides this information?</text>
+		<text>You are assigned to manage an existing project. The project is in the middle of execution,
+and you need to understand who has approval authority for revisions in scope. Which
+document provides this information?</text>
 		<answers>
 			<answer is_right="false">project charter</answer>
-			<answer is_right="true">scope management plan</answer>
 			<answer is_right="false">organization chart</answer>
+			<answer is_right="true">scope management plan</answer>
 			<answer is_right="false">resource assignment matrix</answer>
 		</answers>
-		<explain>The scope management plan provides information about the approval authority for revisions in scope. It describes how to manage changes to the scope, and lists the approval authorities for revision in scope.
-The project charter does not provide information about the approval authority for revisions in scope. The project charter is a document, issued by senior management, which formally authorizes the existence of a project. It provides the project manager with the authority to apply organizational resources to project activities. An organization chart does not provide information about the approval authority for revisions in scope. An organization chart is a graphical display of project reporting relationships.
-A resource assignment matrix does not provide information about the approval authority for revisions in scope. A resource assignment matrix links the project organization structure to the work breakdown structure to help ensure that each element of the project's scope of work is assigned to a responsible individual. </explain>
+		<explain>The scope management plan provides information about the approval authority for
+revisions in scope. It describes how to manage changes to the scope, and lists the
+approval authorities for revision in scope.
+The project charter does not provide information about the approval authority for
+revisions in scope. The project charter is a document, issued by senior management,
+which formally authorizes the existence of a project. It provides the project manager with
+the authority to apply organizational resources to project activities.
+An organization chart does not provide information about the approval authority for
+revisions in scope. An organization chart is a graphical display of project reporting
+relationships.
+A resource assignment matrix does not provide information about the approval
+authority for revisions in scope. A resource assignment matrix links the project
+organization structure to the work breakdown structure to help ensure that each element
+of the project's scope of work is assigned to a responsible individual.</explain>
 	</question>
 
+	<!-- 68 -->
 	<question>
-		<text>68. You are the project manager of a project with many cost heads. You find it difficult to estimate the project costs because neither you nor your organization has ever undertaken a similar project, nor have you ever managed a similar project before. You complete a project performance review and realize that there has been a cost variance. You conduct a cause-and-effect analysis with the entire project team to determine the root cause of the cost variance. What should you do FIRST?</text>
+		<text>You are the project manager of a project with many cost heads. You find it difficult to
+estimate the project costs because neither you nor your organization has ever
+undertaken a similar project, nor have you ever managed a similar project before. You
+complete a project performance review and realize that there has been a cost variance.
+You conduct a cause-and-effect analysis with the entire project team to determine the
+root cause of the cost variance. What should you do FIRST?</text>
 		<answers>
 			<answer is_right="false">plan for corrective action</answer>
 			<answer is_right="true">determine if the variance requires corrective action</answer>
 			<answer is_right="false">modify the cost baseline to reflect the anticipated total cost at project completion</answer>
-			<answer is_right="false">update the lessons learned database with the results of the cause-and-effect analysis</answer>
+			<answer is_right="false">update the lessons learned database with the results of the cause-and-effect
+
+analysis</answer>
 		</answers>
-		<explain>You should first determine if the variance requires corrective action. An important part of Cost Control is to determine whether the variance requires corrective action. Sometimes, the variance might not be significant enough to require corrective action, or the corrective action may not be justified.
-You should not plan for corrective action. After you confirm that the variance requires corrective action, you can plan for corrective action.
-You should not modify the cost baseline to reflect the anticipated total cost at project completion. Modifying the cost baseline to reflect the anticipated total cost at project completion might be necessary only after confirming that the variance is significant enough to require corrective action.
-You should not update the lessons learned database with the results of the causeand-effect analysis. The causeand-effect analysis is worth the effort only if the variance is significant. Therefore, you check if the variance is significant. If so, the cause-and-effect analysis is done and subsequently, the lessons learned database should be updated with the results of the cause-and-effect analysis.
-</explain>
+		<explain>You should first determine if the variance requires corrective action. An important part
+of Cost Control is to determine whether the variance requires corrective action.
+Sometimes, the variance might not be significant enough to require corrective action, or
+the corrective action may not be justified.
+You should not plan for corrective action. After you confirm that the variance requires
+corrective action, you can plan for corrective action.
+You should not modify the cost baseline to reflect the anticipated total cost at project
+completion. Modifying the cost baseline to reflect the anticipated total cost at project
+completion might be necessary only after confirming that the variance is significant
+enough to require corrective action.
+You should not update the lessons learned database with the results of the causeand-effect analysis. The causeand-effect analysis is worth the effort only if the variance is
+significant. Therefore, you check if the variance is significant. If so, the cause-and-effect
+analysis is done and subsequently, the lessons learned database should be updated with
+the results of the cause-and-effect analysis.</explain>
 	</question>
 
+	<!-- 69 -->
 	<question>
-		<text>69. Your customer has demanded changes to the product specification, which will add three weeks to the critical path. Which action should you, as a project manager, take?</text>
+		<text>Your customer has demanded changes to the product specification, which will add three
+weeks to the critical path. Which action should you, as a project manager, take?</text>
 		<answers>
 			<answer is_right="false">refuse to make the changes</answer>
 			<answer is_right="false">recover the three weeks in the project by crashing</answer>
 			<answer is_right="false">recover the three weeks in the project by fast tracking</answer>
 			<answer is_right="true">discuss the impact of the change with your customer</answer>
 		</answers>
-		<explain>You need to discuss the impact of the change with your customer. Discussing the impact of the required changes is important before any changes are incorporated. You do not need to refuse to make the changes. You need to analyze the impact of the change and discuss the impact of the change with the customer or management. You do not need to recover the three weeks in the project by crashing. Crashing is a technique used for duration compression in Schedule Development. Before using any such technique, the impact of the changes should be discussed.
-You do not need to recover the three weeks in the project by fast tracking. Fast tracking is a technique used for duration compression in Schedule Development. Before using any such technique, the impact of the changes should be discussed. </explain>
+		<explain>You need to discuss the impact of the change with your customer. Discussing the
+impact of the required changes is important before any changes are incorporated.
+You do not need to refuse to make the changes. You need to analyze the impact of the
+change and discuss the impact of the change with the customer or management.
+You do not need to recover the three weeks in the project by crashing. Crashing is a
+technique used for duration compression in Schedule Development. Before using any
+such technique, the impact of the changes should be discussed.
+You do not need to recover the three weeks in the project by fast tracking. Fast
+tracking is a technique used for duration compression in Schedule Development. Before
+using any such technique, the impact of the changes should be discussed.</explain>
 	</question>
 
+	<!-- 70 -->
 	<question>
-		<text>70. Your customer has reported many defects. What should you do first?</text>
+		<text>Your customer has reported many defects. What should you do first?</text>
 		<answers>
 			<answer is_right="false">start spending time on system testing</answer>
 			<answer is_right="false">initiate more reviews, namely walk-throughs and inspections</answer>
-			<answer is_right="true">perform a root-cause analysis of the defects and try to prevent them from occurring again</answer>
-			<answer is_right="false">attach the number of defects reported to the performance appraisal form of the appropriate developers</answer>
+			<answer is_right="true">perform a root-cause analysis of the defects and try to prevent them from occurring
+again</answer>
+			<answer is_right="false">attach the number of defects reported to the performance appraisal form of the
+appropriate developers</answer>
 		</answers>
-		<explain>Your first step should be to perform a root-cause analysis of the defects and try to prevent them from occurring again. Doing this will address the customer's concerns as well as help you prevent these defects in the future.
-Spending time on system testing will help in identifying the defects, but it does not ensure reduction in the number of defects.
-Initiating more reviews and inspections will help you identify these defects faster. However, these will not help in reducing the number of defects identified. Attaching the number of defects reported to the performance appraisal form of the appropriate developer will not help reduce the number of defects identified in the product. The customer will remain unhappy.
-</explain>
+		<explain>Your first step should be to perform a root-cause analysis of the defects and try to
+prevent them from occurring again. Doing this will address the customer's concerns as
+well as help you prevent these defects in the future.
+Spending time on system testing will help in identifying the defects, but it does not
+ensure reduction in the number of defects.
+Initiating more reviews and inspections will help you identify these defects faster.
+However, these will not help in reducing the number of defects identified.
+Attaching the number of defects reported to the performance appraisal form of the
+appropriate developer will not help reduce the number of defects identified in the
+product. The customer will remain unhappy.</explain>
 	</question>
 
+	<!-- 71 -->
 	<question>
-		<text>71. During which project phase would you review completed deliverables, the WBS, and related project scope documents to verify completion of work?</text>
+		<text>During which project phase would you review completed deliverables, the WBS, and
+related project scope documents to verify completion of work?</text>
 		<answers>
 			<answer is_right="false">Planning</answer>
-			<answer is_right="true">Monitoring and Controlling</answer>
 			<answer is_right="false">Executing</answer>
+			<answer is_right="true">Monitoring and Controlling</answer>
 			<answer is_right="false">Closing</answer>
 		</answers>
-		<explain>During the Monitoring and Controlling phase of a project, you would review completed deliverables, the WBS, and related project scope documents to verify completion of work. The Monitoring and Controlling phase involves monitoring and measuring progress, identifying potential changes to the project, and controlling and managing these proposed project changes.
-The Planning phase involves defining objectives and determining how these objectives can be accomplished.
-The Executing phase involves performing the work to accomplish the objectives. The Closing phase involves obtaining formal acceptance and concluding work. </explain>
+		<explain>During the Monitoring and Controlling phase of a project, you would review completed
+deliverables, the WBS, and related project scope documents to verify completion of work.
+The Monitoring and Controlling phase involves monitoring and measuring progress,
+identifying potential changes to the project, and controlling and managing these
+proposed project changes.
+The Planning phase involves defining objectives and determining how these objectives
+can be accomplished.
+The Executing phase involves performing the work to accomplish the objectives.
+The Closing phase involves obtaining formal acceptance and concluding work.</explain>
 	</question>
 
+	<!-- 72 -->
 	<question>
-		<text>72. Scope Verification is:</text>
+		<text>Scope Verification is:</text>
 		<answers>
 			<answer is_right="false">the process of formally authorizing a new project or a phase</answer>
 			<answer is_right="false">the process of progressively elaborating and documenting the project scope</answer>
 			<answer is_right="true">the process of obtaining formal acceptance of the project scope by the stakeholders</answer>
-			<answer is_right="false">the technique used to subdivide major project deliverables into smaller and more manageable components</answer>
+			<answer is_right="false">the technique used to subdivide major project deliverables into smaller and more
+manageable components</answer>
 		</answers>
-		<explain>Scope Verification is the process of obtaining formal acceptance of the project scope by the stakeholders.
-Develop Project Charter is the process of formally authorizing a new project or a phase. Scope Planning is the process of progressively elaborating and documenting the project scope.
-Decomposition is the technique used to subdivide major project deliverables into smaller and more manageable components.
-</explain>
+		<explain>Scope Verification is the process of obtaining formal acceptance of the project scope by
+the stakeholders.
+Develop Project Charter is the process of formally authorizing a new project or a phase.
+Scope Planning is the process of progressively elaborating and documenting the project
+scope.
+Decomposition is the technique used to subdivide major project deliverables into
+smaller and more manageable components.</explain>
 	</question>
 
+	<!-- 73 -->
 	<question>
-		<text>73. Which of the following is a structured document containing details of steps required for a process and is an input to the Perform Quality Control process?</text>
+		<text>Which of the following is a structured document containing details of steps required for a
+process and is an input to the Perform Quality Control process?</text>
 		<answers>
 			<answer is_right="true">quality checklist</answer>
-			<answer is_right="false">activity list</answer>
 			<answer is_right="false">project management plan</answer>
+			<answer is_right="false">activity list</answer>
 			<answer is_right="false">quality metric</answer>
 		</answers>
-		<explain>A quality checklist is a structured document used to list the details of steps required for a quality process. It is an output of the Quality Planning process and an input to the Perform Quality Control process.
-The project management plan is an output of the Develop Project Management Plan process and refers to the formal document used to manage the execution of the project. An activity list is an output of the Activity Definition process and contains a list of all the activities that will be performed on the project.
-A quality metric defines how something is measured in the Perform Quality Control process. Quality metrics are an output of the Quality Planning process and an input to the Perform Quality Control process.
-</explain>
+		<explain>A quality checklist is a structured document used to list the details of steps required
+for a quality process. It is an output of the Quality Planning process and an input to the
+Perform Quality Control process.
+The project management plan is an output of the Develop Project Management Plan
+process and refers to the formal document used to manage the execution of the project.
+An activity list is an output of the Activity Definition process and contains a list of all
+the activities that will be performed on the project.
+A quality metric defines how something is measured in the Perform Quality Control
+process. Quality metrics are an output of the Quality Planning process and an input to the
+Perform Quality Control process.</explain>
 	</question>
 
+	<!-- 74 -->
 	<question>
-		<text>74. Documentation stating that the client has accepted the product is prepared and distributed as a part of which of the following processes?</text>
+		<text>Documentation stating that the client has accepted the product is prepared and
+distributed as a part of which of the following processes?</text>
 		<answers>
 			<answer is_right="false">Scope Control</answer>
 			<answer is_right="false">Scope Definition</answer>
 			<answer is_right="false">Scope Planning</answer>
 			<answer is_right="true">Scope Verification</answer>
 		</answers>
-		<explain>Documentation stating that the client has accepted the product is prepared and distributed as a part of the Scope Verification process. Scope Verification is the process of obtaining formal acceptance of the project scope by the stakeholders. The output from this process is formal acceptance where documentation that the client has accepted the product is prepared and distributed.
-Scope Control is the process of managing scope changes throughout the project. Scope Planning is the process of progressively elaborating and documenting the project scope. The output of this process is the project scope statement, which establishes a common understanding of the project scope amongst all the stakeholders. Scope Definition is the process of subdividing major project deliverables into smaller and more manageable components. The output from this process is the WBS, which serves as a scope baseline for the project.
-</explain>
+		<explain>Documentation stating that the client has accepted the product is prepared and
+distributed as a part of the Scope Verification process. Scope Verification is the process of
+obtaining formal acceptance of the project scope by the stakeholders. The output from
+this process is formal acceptance where documentation that the client has accepted the
+product is prepared and distributed.
+Scope Control is the process of managing scope changes throughout the project.
+Scope Planning is the process of progressively elaborating and documenting the project
+scope. The output of this process is the project scope statement, which establishes a
+common understanding of the project scope amongst all the stakeholders.
+Scope Definition is the process of subdividing major project deliverables into smaller
+and more manageable components. The output from this process is the WBS, which
+serves as a scope baseline for the project.</explain>
 	</question>
 
+	<!-- 75 -->
 	<question>
-		<text>75. You are the project manager, and you overhear one of the stakeholders complaining about your project. What is the most effective communication method to use in this situation?</text>
+		<text>You are the project manager, and you overhear one of the stakeholders complaining
+about your project. What is the most effective communication method to use in this
+situation?</text>
 		<answers>
 			<answer is_right="false">telephone call</answer>
-			<answer is_right="false">e-mail exchange</answer>
 			<answer is_right="true">face-to-face meeting</answer>
+			<answer is_right="false">e-mail exchange</answer>
 			<answer is_right="false">whole-team meeting</answer>
 		</answers>
-		<explain>You should try to have a face-to-face meeting with the stakeholder. Individual face-toface meetings are the recommended method for communication with stakeholders. Telephone calls and e-mail exchanges are valid means of communication, but in this scenario the stakeholder is in the same office building as you when you overheard the complaint.
-Whole-team meetings are an inappropriate means of resolving stakeholder issues. </explain>
+		<explain>You should try to have a face-to-face meeting with the stakeholder. Individual face-toface meetings are the recommended method for communication with stakeholders.
+Telephone calls and e-mail exchanges are valid means of communication, but in this
+scenario the stakeholder is in the same office building as you when you overheard the
+complaint.
+Whole-team meetings are an inappropriate means of resolving stakeholder issues.</explain>
 	</question>
 
 </questions>
