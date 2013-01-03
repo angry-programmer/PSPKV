@@ -430,7 +430,7 @@ rekomenduotumėte:</text>
 		</answers>
 		<explain>Rekomenduotinas yra projektas A.
 Kuo didesnis BCR, tuo projektas ekonomiškai labiau apsimoka.
-BCR < 1 rodo, kad išlaidos projektui buvo didesnės, nei jo atnešta nauda.</explain>
+BCR &lt; 1 rodo, kad išlaidos projektui buvo didesnės, nei jo atnešta nauda.</explain>
 	</question>
 
 	<!-- 24 -->

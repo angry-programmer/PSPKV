@@ -809,14 +809,14 @@ Scheduled (BCWS), also known as Planned Value (PV).
 The following formulas are used to calculate CV and SV:
 CV = EV – AC ,
 SV = EV – PV .
-If CV>0, the project is under budget, and if CV<0, the project is overspent. If SV>0, the
-project is ahead of schedule, and if SV<0, the project is behind schedule.
+If CV&gt;0, the project is under budget, and if CV&lt;0, the project is overspent. If SV&gt;0, the
+project is ahead of schedule, and if SV&lt;0, the project is behind schedule.
 The following formulas are used to calculate CPI and SPI:
 CPI = EV / AC ,
 SPI = EV / PV .
-If CPI>1, it indicates that the project team has spent more than planned, and vice versa if
-CPI<1. If SPI>1, it indicates that the project team is ahead of schedule, and vice versa if
-SPI<1.</explain>
+If CPI&gt;1, it indicates that the project team has spent more than planned, and vice versa if
+CPI&lt;1. If SPI&gt;1, it indicates that the project team is ahead of schedule, and vice versa if
+SPI&lt;1.</explain>
 	</question>
 
 	<!-- 32 -->

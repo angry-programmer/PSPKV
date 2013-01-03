@@ -487,20 +487,20 @@ Kiti šiam klausime išvardinti dalykai nėra minimi Maslow‘o teorijoje.</expl
 	<!-- 21 -->
 	<question>
 		<text>Kam skirsite pagrindinį dėmesį vadovaudami projektui, kuriame su tiekėju yra
-sudarytas laiko ir medžiagų apmokėjimo (T&M) tipo sandoris:</text>
+sudarytas laiko ir medžiagų apmokėjimo (T&amp;M) tipo sandoris:</text>
 		<answers>
 			<answer is_right="false">projekto apimčiai (scope)</answer>
 			<answer is_right="true">projekto darbų grafikui (schedule)</answer>
 			<answer is_right="false">tiekėjo patikimumui</answer>
 			<answer is_right="false">tiekėjo medžiagų kainai</answer>
 		</answers>
-		<explain>Jūs, kaip pirkėjas, laiko ir medžiagų apmokėjimo (T&M) tipo sandoryje turėtumėte
+		<explain>Jūs, kaip pirkėjas, laiko ir medžiagų apmokėjimo (T&amp;M) tipo sandoryje turėtumėte
 pagrindinį dėmesį skirti projekto darbų grafikui. Šio tipo sandoriuose atsiskaitoma
 remiantis fiksuotu darbo valandos įkainiu ir pateiktomis išlaidomis medžiagoms. Jei
 atsiliekama nuo projekto darbų grafiko, pirkėjas turi papildomas išlaidas. Todėl reikia
 atidžiai stebėti, kaip laikomasi projekto darbų grafiko.
 Jums, kaip projekto vadovui, nuolatos tenka stebėti projekto apimtį (scope).
-Dauguma projekto apimties keitimų reikalauja ilginti projekto trukmę. T&M tipo
+Dauguma projekto apimties keitimų reikalauja ilginti projekto trukmę. T&amp;M tipo
 sandorio atveju tai iššaukia papildomas išlaidas. Todėl projekto darbų grafikas turi
 būti jūsų dėmesio centre.
 Tiekėjo patikimumas įvertinamas prieš pasirašant sandorį.
@@ -1214,10 +1214,10 @@ sudarėte?</text>
 			<answer is_right="false">išlaidas padengiantįjį su fiksuoto dydžio priedu (CPFF - Cost Plus Fixed Fee)</answer>
 			<answer is_right="false">grynai fiksuotos kainos (FFP - Firm Fixed Price)</answer>
 			<answer is_right="false">išlaidas padengiantįjį su paskatinamuoju priedu (CPIF - Cost Plus Incentive Fee)</answer>
-			<answer is_right="true">laiko ir medžiagų apmokėjimo (T&M - Time and Material)</answer>
+			<answer is_right="true">laiko ir medžiagų apmokėjimo (T&amp;M) - Time and Material)</answer>
 		</answers>
-		<explain>Jūs sudarėte laiko ir medžiagų apmokėjimo (T&M - Time and Material) tipo
-sandorį. T&M sandoris yra toks, kuriame užsakovas apmoka tiekėjui už sugaištas
+		<explain>Jūs sudarėte laiko ir medžiagų apmokėjimo (T&amp;M - Time and Material) tipo
+sandorį. T&amp;M sandoris yra toks, kuriame užsakovas apmoka tiekėjui už sugaištas
 darbo valandas ir padengia jo išlaidas už reikiamas medžiagas.
 Jūsų sudarytas sandoris nėra nei CPFF, nei FFP, nei CPIF tipo. CPFF tipo sandoryje
 užsakovas padengia visas tiekėjo išlaidas ir papildomai sumoka sutartą fiksuotą sumą.
