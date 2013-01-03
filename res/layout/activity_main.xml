@@ -12,7 +12,7 @@
         android:layout_marginBottom="5dp"
         android:layout_marginLeft="10dp"
         android:layout_marginRight="10dp"
-        android:enabled="false"
+        android:enabled="true"
         android:text="@string/test1" />
 
     <Button
@@ -22,7 +22,7 @@
         android:layout_marginBottom="5dp"
         android:layout_marginLeft="10dp"
         android:layout_marginRight="10dp"
-        android:enabled="false"
+        android:enabled="true"
         android:text="@string/test2" />
 
     <Button
@@ -32,7 +32,7 @@
         android:layout_marginBottom="5dp"
         android:layout_marginLeft="10dp"
         android:layout_marginRight="10dp"
-        android:enabled="false"
+        android:enabled="true"
         android:text="@string/test3" />
 
     <Button
@@ -52,7 +52,7 @@
         android:layout_marginBottom="5dp"
         android:layout_marginLeft="10dp"
         android:layout_marginRight="10dp"
-        android:enabled="false"
+        android:enabled="true"
         android:text="@string/test_all" />
 
 </LinearLayout>

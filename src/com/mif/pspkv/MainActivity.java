@@ -23,19 +23,19 @@ public class MainActivity extends SherlockFragmentActivity {
 				int x = 0;
 				switch (v.getId()) {
 				case R.id.button1:
-//					x = QuestionsActivity.TEST_1;
+					x = QuestionsActivity.TEST_1;
 					break;
 				case R.id.button2:
-//					x = QuestionsActivity.TEST_2;
+					x = QuestionsActivity.TEST_2;
 					break;
 				case R.id.button3:
-//					x = QuestionsActivity.TEST_3;
+					x = QuestionsActivity.TEST_3;
 					break;
 				case R.id.button4:
 					x = QuestionsActivity.TEST_4;
 					break;
 				case R.id.button5:
-//					x = QuestionsActivity.TEST_ALL;
+					x = QuestionsActivity.TEST_ALL;
 					break;
 
 				default:
@@ -45,11 +45,11 @@ public class MainActivity extends SherlockFragmentActivity {
 				startActivity(intent);
 			}
 		};
-//		((Button) findViewById(R.id.button1)).setOnClickListener(onClick);
-//		((Button) findViewById(R.id.button2)).setOnClickListener(onClick);
-//		((Button) findViewById(R.id.button3)).setOnClickListener(onClick);
+		((Button) findViewById(R.id.button1)).setOnClickListener(onClick);
+		((Button) findViewById(R.id.button2)).setOnClickListener(onClick);
+		((Button) findViewById(R.id.button3)).setOnClickListener(onClick);
 		((Button) findViewById(R.id.button4)).setOnClickListener(onClick);
-//		((Button) findViewById(R.id.button5)).setOnClickListener(onClick);
+		((Button) findViewById(R.id.button5)).setOnClickListener(onClick);
 	}
     
 }

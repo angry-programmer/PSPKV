@@ -2,6 +2,7 @@ package com.mif.pspkv;
 
 import java.io.IOException;
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.List;
 
 import org.xmlpull.v1.XmlPullParserException;
@@ -46,6 +47,7 @@ public class QuestionsActivity extends SherlockFragmentActivity {
 		mWrong = new ArrayList<Fragment>();
 		newFragment();
 		mQuestions = loadQuestions(getIntent().getExtras().getInt("test_no"));
+		Collections.shuffle(mQuestions);
 
 		((Button) findViewById(R.id.button1))
 				.setOnClickListener(new View.OnClickListener() {
@@ -105,19 +107,22 @@ public class QuestionsActivity extends SherlockFragmentActivity {
 		XmlResourceParser parser = null;
 		switch (test_no) {
 		case TEST_1:
-			// parser = getResources().getXml(R.xml.test1);
+			 parser = getResources().getXml(R.xml.test1);
 			break;
 		case TEST_2:
-//			parser = getResources().getXml(R.xml.test2);
+			parser = getResources().getXml(R.xml.test2);
 			break;
 		case TEST_3:
-			// parser = getResources().getXml(R.xml.test3);
+			 parser = getResources().getXml(R.xml.test3);
 			break;
 		case TEST_4:
 			 parser = getResources().getXml(R.xml.test4);
 			break;
 		case TEST_ALL:
-//			_questions = loadQuestions(test_no - 1);
+			_questions.addAll(loadQuestions(TEST_1));
+			_questions.addAll(loadQuestions(TEST_2));
+			_questions.addAll(loadQuestions(TEST_3));
+			_questions.addAll(loadQuestions(TEST_4));
 			break;
 
 		default:
@@ -125,7 +130,7 @@ public class QuestionsActivity extends SherlockFragmentActivity {
 		}
 
 		if (parser == null)
-			return null;
+			return _questions;
 
 		try {
 			parser.next();
